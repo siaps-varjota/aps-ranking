@@ -56,6 +56,7 @@ export default function Home() {
   const [filteredRanking, setFilteredRanking] = useState<RankingItem[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedClassification, setSelectedClassification] = useState("all");
+  const [showCompleteDataOnly, setShowCompleteDataOnly] = useState(false);
   const [selectedItem, setSelectedItem] = useState<RankingItem | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [indicatorsData, setIndicatorsData] = useState<Record<string, any>>({});
@@ -127,8 +128,16 @@ export default function Home() {
       });
     }
 
+    // Filtrar por dados completos
+    if (showCompleteDataOnly) {
+      filtered = filtered.filter((item) => {
+        const municipioData = detailedIndicators[item.Municipio];
+        return municipioData && municipioData.Indicadores.length === 15;
+      });
+    }
+
     setFilteredRanking(filtered);
-  }, [searchTerm, selectedClassification, ranking]);
+  }, [searchTerm, selectedClassification, showCompleteDataOnly, ranking, detailedIndicators]);
 
   const getClassificationColor = (desempenho: number) => {
     if (desempenho >= 90) return "bg-green-100 text-green-800";
@@ -224,6 +233,19 @@ export default function Home() {
                 </SelectContent>
               </Select>
             </div>
+          </div>
+          
+          <div className="mt-4 flex items-center gap-2">
+            <input
+              type="checkbox"
+              id="completeData"
+              checked={showCompleteDataOnly}
+              onChange={(e) => setShowCompleteDataOnly(e.target.checked)}
+              className="w-4 h-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+            />
+            <label htmlFor="completeData" className="text-sm font-medium text-gray-700 cursor-pointer">
+              Mostrar apenas municípios com dados completos (15 indicadores)
+            </label>
           </div>
         </div>
 
