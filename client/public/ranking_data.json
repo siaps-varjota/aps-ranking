@@ -1,0 +1,6074 @@
+[
+  {
+    "Municipio": "ANTONINA DO NORTE",
+    "Estado": "CE",
+    "IBGE": 230080.0,
+    "Desempenho": 94.44444444444444,
+    "Posicao": 1,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 2,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 94.3,
+        "Acompanhamento de Diabéticos": 90.2,
+        "Prescrição de Medicamentos": 79.6,
+        "Realização de Exames": 81.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 91.3,
+        "Acompanhamento de Hipertensos": 84.0,
+        "Prescrição de Medicamentos": 81.2,
+        "Controle de Pressão Arterial": 78.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 84.4,
+        "Acompanhamento Regular": 87.2,
+        "Vacinação em Dia": 87.6,
+        "Prevenção de Quedas": 74.3
+      }
+    }
+  },
+  {
+    "Municipio": "PALHANO",
+    "Estado": "CE",
+    "IBGE": 231000.0,
+    "Desempenho": 92.64705882352942,
+    "Posicao": 2,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 5,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.3,
+        "Acompanhamento de Diabéticos": 85.3,
+        "Prescrição de Medicamentos": 79.6,
+        "Realização de Exames": 75.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 93.2,
+        "Acompanhamento de Hipertensos": 84.5,
+        "Prescrição de Medicamentos": 82.0,
+        "Controle de Pressão Arterial": 83.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.1,
+        "Acompanhamento Regular": 85.4,
+        "Vacinação em Dia": 86.2,
+        "Prevenção de Quedas": 79.4
+      }
+    }
+  },
+  {
+    "Municipio": "JAGUARIBARA",
+    "Estado": "CE",
+    "IBGE": 230680.0,
+    "Desempenho": 92.1875,
+    "Posicao": 3,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 5,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 91.0,
+        "Acompanhamento de Diabéticos": 86.0,
+        "Prescrição de Medicamentos": 83.1,
+        "Realização de Exames": 74.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 86.3,
+        "Acompanhamento de Hipertensos": 89.8,
+        "Prescrição de Medicamentos": 77.9,
+        "Controle de Pressão Arterial": 75.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.4,
+        "Acompanhamento Regular": 78.8,
+        "Vacinação em Dia": 84.8,
+        "Prevenção de Quedas": 73.7
+      }
+    }
+  },
+  {
+    "Municipio": "ALTANEIRA",
+    "Estado": "CE",
+    "IBGE": 230060.0,
+    "Desempenho": 91.66666666666666,
+    "Posicao": 4,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 4,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.7,
+        "Acompanhamento de Diabéticos": 83.2,
+        "Prescrição de Medicamentos": 78.5,
+        "Realização de Exames": 76.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 91.7,
+        "Acompanhamento de Hipertensos": 80.9,
+        "Prescrição de Medicamentos": 83.0,
+        "Controle de Pressão Arterial": 82.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 84.4,
+        "Acompanhamento Regular": 81.3,
+        "Vacinação em Dia": 85.1,
+        "Prevenção de Quedas": 79.2
+      }
+    }
+  },
+  {
+    "Municipio": "PIRES FERREIRA",
+    "Estado": "CE",
+    "IBGE": 231095.0,
+    "Desempenho": 91.66666666666666,
+    "Posicao": 5,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 3,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 87.6,
+        "Acompanhamento de Diabéticos": 80.1,
+        "Prescrição de Medicamentos": 85.1,
+        "Realização de Exames": 73.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.4,
+        "Acompanhamento de Hipertensos": 84.6,
+        "Prescrição de Medicamentos": 86.0,
+        "Controle de Pressão Arterial": 80.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 80.4,
+        "Acompanhamento Regular": 86.5,
+        "Vacinação em Dia": 79.0,
+        "Prevenção de Quedas": 75.7
+      }
+    }
+  },
+  {
+    "Municipio": "VARJOTA",
+    "Estado": "CE",
+    "IBGE": 231395.0,
+    "Desempenho": 91.66666666666666,
+    "Posicao": 6,
+    "Detalhes": {
+      "Ótimo": 18,
+      "Bom": 9,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 85.1,
+        "Acompanhamento de Diabéticos": 85.2,
+        "Prescrição de Medicamentos": 79.6,
+        "Realização de Exames": 74.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 87.3,
+        "Acompanhamento de Hipertensos": 87.2,
+        "Prescrição de Medicamentos": 84.0,
+        "Controle de Pressão Arterial": 81.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 81.1,
+        "Acompanhamento Regular": 82.9,
+        "Vacinação em Dia": 79.4,
+        "Prevenção de Quedas": 75.7
+      }
+    }
+  },
+  {
+    "Municipio": "PEDRA BRANCA",
+    "Estado": "CE",
+    "IBGE": 231050.0,
+    "Desempenho": 91.3265306122449,
+    "Posicao": 7,
+    "Detalhes": {
+      "Ótimo": 32,
+      "Bom": 17,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 89.5,
+        "Acompanhamento de Diabéticos": 86.6,
+        "Prescrição de Medicamentos": 78.2,
+        "Realização de Exames": 74.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 91.0,
+        "Acompanhamento de Hipertensos": 89.3,
+        "Prescrição de Medicamentos": 76.8,
+        "Controle de Pressão Arterial": 74.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.5,
+        "Acompanhamento Regular": 78.0,
+        "Vacinação em Dia": 84.5,
+        "Prevenção de Quedas": 76.0
+      }
+    }
+  },
+  {
+    "Municipio": "POTENGI",
+    "Estado": "CE",
+    "IBGE": 231120.0,
+    "Desempenho": 91.17647058823529,
+    "Posicao": 8,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 6,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.0,
+        "Acompanhamento de Diabéticos": 84.2,
+        "Prescrição de Medicamentos": 83.7,
+        "Realização de Exames": 75.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.3,
+        "Acompanhamento de Hipertensos": 82.5,
+        "Prescrição de Medicamentos": 79.5,
+        "Controle de Pressão Arterial": 77.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 84.2,
+        "Acompanhamento Regular": 84.3,
+        "Vacinação em Dia": 80.6,
+        "Prevenção de Quedas": 71.7
+      }
+    }
+  },
+  {
+    "Municipio": "IPAPORANGA",
+    "Estado": "CE",
+    "IBGE": 230565.0,
+    "Desempenho": 90.78947368421053,
+    "Posicao": 9,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 3,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 85.4,
+        "Acompanhamento de Diabéticos": 85.4,
+        "Prescrição de Medicamentos": 79.0,
+        "Realização de Exames": 73.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 86.9,
+        "Acompanhamento de Hipertensos": 79.6,
+        "Prescrição de Medicamentos": 85.1,
+        "Controle de Pressão Arterial": 75.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 80.5,
+        "Acompanhamento Regular": 83.7,
+        "Vacinação em Dia": 86.8,
+        "Prevenção de Quedas": 78.3
+      }
+    }
+  },
+  {
+    "Municipio": "MARTINÓPOLE",
+    "Estado": "CE",
+    "IBGE": 230790.0,
+    "Desempenho": 90.78947368421053,
+    "Posicao": 10,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 7,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 87.6,
+        "Acompanhamento de Diabéticos": 82.8,
+        "Prescrição de Medicamentos": 77.7,
+        "Realização de Exames": 72.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.5,
+        "Acompanhamento de Hipertensos": 86.1,
+        "Prescrição de Medicamentos": 78.7,
+        "Controle de Pressão Arterial": 76.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.7,
+        "Acompanhamento Regular": 80.9,
+        "Vacinação em Dia": 86.7,
+        "Prevenção de Quedas": 77.0
+      }
+    }
+  },
+  {
+    "Municipio": "FARIAS BRITO",
+    "Estado": "CE",
+    "IBGE": 230430.0,
+    "Desempenho": 90.32258064516128,
+    "Posicao": 11,
+    "Detalhes": {
+      "Ótimo": 23,
+      "Bom": 5,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.9,
+        "Acompanhamento de Diabéticos": 81.5,
+        "Prescrição de Medicamentos": 76.1,
+        "Realização de Exames": 74.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 87.7,
+        "Acompanhamento de Hipertensos": 83.8,
+        "Prescrição de Medicamentos": 83.0,
+        "Controle de Pressão Arterial": 79.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.9,
+        "Acompanhamento Regular": 82.5,
+        "Vacinação em Dia": 80.8,
+        "Prevenção de Quedas": 75.5
+      }
+    }
+  },
+  {
+    "Municipio": "RERIUTABA",
+    "Estado": "CE",
+    "IBGE": 231170.0,
+    "Desempenho": 90.17857142857143,
+    "Posicao": 12,
+    "Detalhes": {
+      "Ótimo": 18,
+      "Bom": 9,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.8,
+        "Acompanhamento de Diabéticos": 81.4,
+        "Prescrição de Medicamentos": 81.0,
+        "Realização de Exames": 77.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 91.3,
+        "Acompanhamento de Hipertensos": 87.6,
+        "Prescrição de Medicamentos": 84.3,
+        "Controle de Pressão Arterial": 75.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.7,
+        "Acompanhamento Regular": 81.3,
+        "Vacinação em Dia": 86.1,
+        "Prevenção de Quedas": 78.3
+      }
+    }
+  },
+  {
+    "Municipio": "GROAÍRAS",
+    "Estado": "CE",
+    "IBGE": 230490.0,
+    "Desempenho": 90.0,
+    "Posicao": 13,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 6,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 89.2,
+        "Acompanhamento de Diabéticos": 81.0,
+        "Prescrição de Medicamentos": 79.3,
+        "Realização de Exames": 72.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 87.0,
+        "Acompanhamento de Hipertensos": 80.0,
+        "Prescrição de Medicamentos": 80.1,
+        "Controle de Pressão Arterial": 80.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.7,
+        "Acompanhamento Regular": 77.8,
+        "Vacinação em Dia": 78.0,
+        "Prevenção de Quedas": 70.9
+      }
+    }
+  },
+  {
+    "Municipio": "ITAIÇABA",
+    "Estado": "CE",
+    "IBGE": 230620.0,
+    "Desempenho": 89.58333333333334,
+    "Posicao": 14,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 3,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 87.4,
+        "Acompanhamento de Diabéticos": 83.6,
+        "Prescrição de Medicamentos": 82.5,
+        "Realização de Exames": 72.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.0,
+        "Acompanhamento de Hipertensos": 79.4,
+        "Prescrição de Medicamentos": 81.4,
+        "Controle de Pressão Arterial": 75.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.5,
+        "Acompanhamento Regular": 78.7,
+        "Vacinação em Dia": 83.2,
+        "Prevenção de Quedas": 70.8
+      }
+    }
+  },
+  {
+    "Municipio": "QUIXERÉ",
+    "Estado": "CE",
+    "IBGE": 231150.0,
+    "Desempenho": 89.58333333333334,
+    "Posicao": 15,
+    "Detalhes": {
+      "Ótimo": 19,
+      "Bom": 2,
+      "Suficiente": 1,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.3,
+        "Acompanhamento de Diabéticos": 79.1,
+        "Prescrição de Medicamentos": 79.6,
+        "Realização de Exames": 79.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 86.0,
+        "Acompanhamento de Hipertensos": 87.1,
+        "Prescrição de Medicamentos": 76.3,
+        "Controle de Pressão Arterial": 81.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.8,
+        "Acompanhamento Regular": 85.0,
+        "Vacinação em Dia": 83.9,
+        "Prevenção de Quedas": 74.5
+      }
+    }
+  },
+  {
+    "Municipio": "IBICUITINGA",
+    "Estado": "CE",
+    "IBGE": 230533.0,
+    "Desempenho": 89.47368421052632,
+    "Posicao": 16,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 8,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.8,
+        "Acompanhamento de Diabéticos": 80.0,
+        "Prescrição de Medicamentos": 81.2,
+        "Realização de Exames": 77.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.9,
+        "Acompanhamento de Hipertensos": 87.7,
+        "Prescrição de Medicamentos": 74.9,
+        "Controle de Pressão Arterial": 78.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.4,
+        "Acompanhamento Regular": 79.0,
+        "Vacinação em Dia": 84.4,
+        "Prevenção de Quedas": 73.2
+      }
+    }
+  },
+  {
+    "Municipio": "PIQUET CARNEIRO",
+    "Estado": "CE",
+    "IBGE": 231090.0,
+    "Desempenho": 89.42307692307693,
+    "Posicao": 17,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 9,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 88.0,
+        "Acompanhamento de Diabéticos": 84.2,
+        "Prescrição de Medicamentos": 79.0,
+        "Realização de Exames": 71.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 89.8,
+        "Acompanhamento de Hipertensos": 78.5,
+        "Prescrição de Medicamentos": 84.4,
+        "Controle de Pressão Arterial": 78.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.5,
+        "Acompanhamento Regular": 81.2,
+        "Vacinação em Dia": 84.4,
+        "Prevenção de Quedas": 77.8
+      }
+    }
+  },
+  {
+    "Municipio": "MILHÃ",
+    "Estado": "CE",
+    "IBGE": 230835.0,
+    "Desempenho": 89.28571428571429,
+    "Posicao": 18,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 7,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.3,
+        "Acompanhamento de Diabéticos": 80.0,
+        "Prescrição de Medicamentos": 81.3,
+        "Realização de Exames": 77.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.7,
+        "Acompanhamento de Hipertensos": 82.4,
+        "Prescrição de Medicamentos": 83.8,
+        "Controle de Pressão Arterial": 73.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.1,
+        "Acompanhamento Regular": 85.2,
+        "Vacinação em Dia": 80.0,
+        "Prevenção de Quedas": 77.5
+      }
+    }
+  },
+  {
+    "Municipio": "SENADOR SÁ",
+    "Estado": "CE",
+    "IBGE": 231280.0,
+    "Desempenho": 89.28571428571429,
+    "Posicao": 19,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 6,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 87.5,
+        "Acompanhamento de Diabéticos": 81.9,
+        "Prescrição de Medicamentos": 81.5,
+        "Realização de Exames": 80.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 88.0,
+        "Acompanhamento de Hipertensos": 79.3,
+        "Prescrição de Medicamentos": 83.3,
+        "Controle de Pressão Arterial": 74.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.5,
+        "Acompanhamento Regular": 83.9,
+        "Vacinação em Dia": 76.8,
+        "Prevenção de Quedas": 69.8
+      }
+    }
+  },
+  {
+    "Municipio": "SANTANA DO ACARAÚ",
+    "Estado": "CE",
+    "IBGE": 231200.0,
+    "Desempenho": 89.1025641025641,
+    "Posicao": 20,
+    "Detalhes": {
+      "Ótimo": 24,
+      "Bom": 13,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 80.8,
+        "Acompanhamento de Diabéticos": 83.0,
+        "Prescrição de Medicamentos": 75.4,
+        "Realização de Exames": 77.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.8,
+        "Acompanhamento de Hipertensos": 80.2,
+        "Prescrição de Medicamentos": 77.5,
+        "Controle de Pressão Arterial": 77.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 80.6,
+        "Acompanhamento Regular": 84.5,
+        "Vacinação em Dia": 76.8,
+        "Prevenção de Quedas": 70.0
+      }
+    }
+  },
+  {
+    "Municipio": "DEPUTADO IRAPUAN PINHEIRO",
+    "Estado": "CE",
+    "IBGE": 230426.0,
+    "Desempenho": 89.0625,
+    "Posicao": 21,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 3,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 88.3,
+        "Acompanhamento de Diabéticos": 78.1,
+        "Prescrição de Medicamentos": 78.3,
+        "Realização de Exames": 78.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 88.2,
+        "Acompanhamento de Hipertensos": 80.3,
+        "Prescrição de Medicamentos": 77.2,
+        "Controle de Pressão Arterial": 78.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.6,
+        "Acompanhamento Regular": 78.8,
+        "Vacinação em Dia": 82.2,
+        "Prevenção de Quedas": 74.0
+      }
+    }
+  },
+  {
+    "Municipio": "PORANGA",
+    "Estado": "CE",
+    "IBGE": 231100.0,
+    "Desempenho": 89.0625,
+    "Posicao": 22,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 5,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.9,
+        "Acompanhamento de Diabéticos": 83.2,
+        "Prescrição de Medicamentos": 81.5,
+        "Realização de Exames": 74.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.3,
+        "Acompanhamento de Hipertensos": 83.0,
+        "Prescrição de Medicamentos": 76.6,
+        "Controle de Pressão Arterial": 72.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.3,
+        "Acompanhamento Regular": 82.7,
+        "Vacinação em Dia": 79.5,
+        "Prevenção de Quedas": 70.2
+      }
+    }
+  },
+  {
+    "Municipio": "ASSARÉ",
+    "Estado": "CE",
+    "IBGE": 230160.0,
+    "Desempenho": 88.63636363636364,
+    "Posicao": 23,
+    "Detalhes": {
+      "Ótimo": 22,
+      "Bom": 8,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.6,
+        "Acompanhamento de Diabéticos": 86.0,
+        "Prescrição de Medicamentos": 76.4,
+        "Realização de Exames": 74.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.7,
+        "Acompanhamento de Hipertensos": 77.5,
+        "Prescrição de Medicamentos": 78.8,
+        "Controle de Pressão Arterial": 74.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 81.0,
+        "Acompanhamento Regular": 75.8,
+        "Vacinação em Dia": 84.9,
+        "Prevenção de Quedas": 75.5
+      }
+    }
+  },
+  {
+    "Municipio": "PORTEIRAS",
+    "Estado": "CE",
+    "IBGE": 231110.0,
+    "Desempenho": 88.63636363636364,
+    "Posicao": 24,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 8,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 85.6,
+        "Acompanhamento de Diabéticos": 83.4,
+        "Prescrição de Medicamentos": 78.8,
+        "Realização de Exames": 73.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 86.1,
+        "Acompanhamento de Hipertensos": 83.3,
+        "Prescrição de Medicamentos": 78.3,
+        "Controle de Pressão Arterial": 71.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.4,
+        "Acompanhamento Regular": 80.2,
+        "Vacinação em Dia": 76.9,
+        "Prevenção de Quedas": 76.5
+      }
+    }
+  },
+  {
+    "Municipio": "BARROQUINHA",
+    "Estado": "CE",
+    "IBGE": 230205.0,
+    "Desempenho": 88.54166666666666,
+    "Posicao": 25,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 5,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.6,
+        "Acompanhamento de Diabéticos": 84.7,
+        "Prescrição de Medicamentos": 76.1,
+        "Realização de Exames": 73.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 87.9,
+        "Acompanhamento de Hipertensos": 85.2,
+        "Prescrição de Medicamentos": 82.0,
+        "Controle de Pressão Arterial": 78.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 77.5,
+        "Acompanhamento Regular": 75.1,
+        "Vacinação em Dia": 84.9,
+        "Prevenção de Quedas": 77.0
+      }
+    }
+  },
+  {
+    "Municipio": "JAGUARETAMA",
+    "Estado": "CE",
+    "IBGE": 230670.0,
+    "Desempenho": 87.93103448275862,
+    "Posicao": 26,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 12,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 87.8,
+        "Acompanhamento de Diabéticos": 78.2,
+        "Prescrição de Medicamentos": 78.1,
+        "Realização de Exames": 73.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.0,
+        "Acompanhamento de Hipertensos": 83.6,
+        "Prescrição de Medicamentos": 78.2,
+        "Controle de Pressão Arterial": 73.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.2,
+        "Acompanhamento Regular": 76.7,
+        "Vacinação em Dia": 84.8,
+        "Prevenção de Quedas": 70.4
+      }
+    }
+  },
+  {
+    "Municipio": "JIJOCA DE JERICOACOARA",
+    "Estado": "CE",
+    "IBGE": 230725.0,
+    "Desempenho": 87.93103448275862,
+    "Posicao": 27,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 14,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 80.3,
+        "Acompanhamento de Diabéticos": 83.1,
+        "Prescrição de Medicamentos": 75.8,
+        "Realização de Exames": 71.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.1,
+        "Acompanhamento de Hipertensos": 84.4,
+        "Prescrição de Medicamentos": 74.4,
+        "Controle de Pressão Arterial": 76.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.8,
+        "Acompanhamento Regular": 81.9,
+        "Vacinação em Dia": 82.0,
+        "Prevenção de Quedas": 68.5
+      }
+    }
+  },
+  {
+    "Municipio": "GUARAMIRANGA",
+    "Estado": "CE",
+    "IBGE": 230510.0,
+    "Desempenho": 87.5,
+    "Posicao": 28,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 5,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 84.8,
+        "Acompanhamento de Diabéticos": 81.1,
+        "Prescrição de Medicamentos": 81.0,
+        "Realização de Exames": 72.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.9,
+        "Acompanhamento de Hipertensos": 84.5,
+        "Prescrição de Medicamentos": 74.9,
+        "Controle de Pressão Arterial": 71.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.5,
+        "Acompanhamento Regular": 77.3,
+        "Vacinação em Dia": 78.8,
+        "Prevenção de Quedas": 72.5
+      }
+    }
+  },
+  {
+    "Municipio": "JAGUARUANA",
+    "Estado": "CE",
+    "IBGE": 230700.0,
+    "Desempenho": 87.5,
+    "Posicao": 29,
+    "Detalhes": {
+      "Ótimo": 27,
+      "Bom": 18,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.4,
+        "Acompanhamento de Diabéticos": 80.0,
+        "Prescrição de Medicamentos": 80.6,
+        "Realização de Exames": 71.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.5,
+        "Acompanhamento de Hipertensos": 77.2,
+        "Prescrição de Medicamentos": 77.9,
+        "Controle de Pressão Arterial": 77.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 77.0,
+        "Acompanhamento Regular": 80.2,
+        "Vacinação em Dia": 77.5,
+        "Prevenção de Quedas": 75.0
+      }
+    }
+  },
+  {
+    "Municipio": "MARCO",
+    "Estado": "CE",
+    "IBGE": 230780.0,
+    "Desempenho": 87.5,
+    "Posicao": 30,
+    "Detalhes": {
+      "Ótimo": 23,
+      "Bom": 12,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.1,
+        "Acompanhamento de Diabéticos": 81.9,
+        "Prescrição de Medicamentos": 73.7,
+        "Realização de Exames": 74.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.8,
+        "Acompanhamento de Hipertensos": 81.4,
+        "Prescrição de Medicamentos": 76.2,
+        "Controle de Pressão Arterial": 76.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.4,
+        "Acompanhamento Regular": 77.9,
+        "Vacinação em Dia": 79.5,
+        "Prevenção de Quedas": 73.1
+      }
+    }
+  },
+  {
+    "Municipio": "MORRINHOS",
+    "Estado": "CE",
+    "IBGE": 230890.0,
+    "Desempenho": 87.5,
+    "Posicao": 31,
+    "Detalhes": {
+      "Ótimo": 17,
+      "Bom": 8,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 80.7,
+        "Acompanhamento de Diabéticos": 76.6,
+        "Prescrição de Medicamentos": 73.2,
+        "Realização de Exames": 77.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.2,
+        "Acompanhamento de Hipertensos": 82.2,
+        "Prescrição de Medicamentos": 81.9,
+        "Controle de Pressão Arterial": 75.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.5,
+        "Acompanhamento Regular": 80.6,
+        "Vacinação em Dia": 82.4,
+        "Prevenção de Quedas": 70.9
+      }
+    }
+  },
+  {
+    "Municipio": "MULUNGU",
+    "Estado": "CE",
+    "IBGE": 230910.0,
+    "Desempenho": 87.5,
+    "Posicao": 32,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 4,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 81.2,
+        "Acompanhamento de Diabéticos": 81.5,
+        "Prescrição de Medicamentos": 79.0,
+        "Realização de Exames": 76.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.9,
+        "Acompanhamento de Hipertensos": 82.5,
+        "Prescrição de Medicamentos": 76.6,
+        "Controle de Pressão Arterial": 78.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.9,
+        "Acompanhamento Regular": 79.4,
+        "Vacinação em Dia": 79.4,
+        "Prevenção de Quedas": 70.6
+      }
+    }
+  },
+  {
+    "Municipio": "RUSSAS",
+    "Estado": "CE",
+    "IBGE": 231180.0,
+    "Desempenho": 87.34939759036145,
+    "Posicao": 33,
+    "Detalhes": {
+      "Ótimo": 50,
+      "Bom": 26,
+      "Suficiente": 5,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.9,
+        "Acompanhamento de Diabéticos": 78.8,
+        "Prescrição de Medicamentos": 81.4,
+        "Realização de Exames": 77.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.3,
+        "Acompanhamento de Hipertensos": 77.6,
+        "Prescrição de Medicamentos": 79.1,
+        "Controle de Pressão Arterial": 78.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.7,
+        "Acompanhamento Regular": 75.6,
+        "Vacinação em Dia": 76.5,
+        "Prevenção de Quedas": 68.5
+      }
+    }
+  },
+  {
+    "Municipio": "MOMBAÇA",
+    "Estado": "CE",
+    "IBGE": 230850.0,
+    "Desempenho": 87.01923076923077,
+    "Posicao": 34,
+    "Detalhes": {
+      "Ótimo": 32,
+      "Bom": 15,
+      "Suficiente": 3,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 81.0,
+        "Acompanhamento de Diabéticos": 75.4,
+        "Prescrição de Medicamentos": 80.7,
+        "Realização de Exames": 75.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 87.6,
+        "Acompanhamento de Hipertensos": 84.9,
+        "Prescrição de Medicamentos": 80.9,
+        "Controle de Pressão Arterial": 78.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.5,
+        "Acompanhamento Regular": 80.7,
+        "Vacinação em Dia": 76.5,
+        "Prevenção de Quedas": 72.3
+      }
+    }
+  },
+  {
+    "Municipio": "QUIXELÔ",
+    "Estado": "CE",
+    "IBGE": 231135.0,
+    "Desempenho": 87.0,
+    "Posicao": 35,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 11,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 85.3,
+        "Acompanhamento de Diabéticos": 77.2,
+        "Prescrição de Medicamentos": 77.6,
+        "Realização de Exames": 76.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.6,
+        "Acompanhamento de Hipertensos": 80.8,
+        "Prescrição de Medicamentos": 79.5,
+        "Controle de Pressão Arterial": 75.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.9,
+        "Acompanhamento Regular": 77.5,
+        "Vacinação em Dia": 83.1,
+        "Prevenção de Quedas": 68.8
+      }
+    }
+  },
+  {
+    "Municipio": "URUOCA",
+    "Estado": "CE",
+    "IBGE": 231390.0,
+    "Desempenho": 86.95652173913044,
+    "Posicao": 36,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 8,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.3,
+        "Acompanhamento de Diabéticos": 81.2,
+        "Prescrição de Medicamentos": 79.1,
+        "Realização de Exames": 78.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.2,
+        "Acompanhamento de Hipertensos": 75.9,
+        "Prescrição de Medicamentos": 81.5,
+        "Controle de Pressão Arterial": 76.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.3,
+        "Acompanhamento Regular": 73.5,
+        "Vacinação em Dia": 79.9,
+        "Prevenção de Quedas": 75.9
+      }
+    }
+  },
+  {
+    "Municipio": "MILAGRES",
+    "Estado": "CE",
+    "IBGE": 230830.0,
+    "Desempenho": 86.93181818181817,
+    "Posicao": 37,
+    "Detalhes": {
+      "Ótimo": 23,
+      "Bom": 19,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 81.9,
+        "Acompanhamento de Diabéticos": 81.4,
+        "Prescrição de Medicamentos": 79.5,
+        "Realização de Exames": 69.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.9,
+        "Acompanhamento de Hipertensos": 79.7,
+        "Prescrição de Medicamentos": 72.9,
+        "Controle de Pressão Arterial": 74.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.1,
+        "Acompanhamento Regular": 77.6,
+        "Vacinação em Dia": 81.1,
+        "Prevenção de Quedas": 69.8
+      }
+    }
+  },
+  {
+    "Municipio": "MERUOCA",
+    "Estado": "CE",
+    "IBGE": 230820.0,
+    "Desempenho": 86.90476190476191,
+    "Posicao": 38,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 11,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 80.3,
+        "Acompanhamento de Diabéticos": 78.3,
+        "Prescrição de Medicamentos": 75.0,
+        "Realização de Exames": 69.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.5,
+        "Acompanhamento de Hipertensos": 85.3,
+        "Prescrição de Medicamentos": 76.8,
+        "Controle de Pressão Arterial": 72.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.6,
+        "Acompanhamento Regular": 73.7,
+        "Vacinação em Dia": 82.1,
+        "Prevenção de Quedas": 71.7
+      }
+    }
+  },
+  {
+    "Municipio": "CROATÁ",
+    "Estado": "CE",
+    "IBGE": 230423.0,
+    "Desempenho": 86.60714285714286,
+    "Posicao": 39,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 11,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.9,
+        "Acompanhamento de Diabéticos": 77.7,
+        "Prescrição de Medicamentos": 78.3,
+        "Realização de Exames": 73.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.9,
+        "Acompanhamento de Hipertensos": 76.0,
+        "Prescrição de Medicamentos": 79.6,
+        "Controle de Pressão Arterial": 71.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.7,
+        "Acompanhamento Regular": 80.0,
+        "Vacinação em Dia": 75.5,
+        "Prevenção de Quedas": 67.5
+      }
+    }
+  },
+  {
+    "Municipio": "ALTO SANTO",
+    "Estado": "CE",
+    "IBGE": 230070.0,
+    "Desempenho": 86.53846153846155,
+    "Posicao": 40,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 12,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 85.0,
+        "Acompanhamento de Diabéticos": 84.4,
+        "Prescrição de Medicamentos": 78.0,
+        "Realização de Exames": 72.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.6,
+        "Acompanhamento de Hipertensos": 83.2,
+        "Prescrição de Medicamentos": 78.0,
+        "Controle de Pressão Arterial": 78.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.8,
+        "Acompanhamento Regular": 73.8,
+        "Vacinação em Dia": 77.1,
+        "Prevenção de Quedas": 73.4
+      }
+    }
+  },
+  {
+    "Municipio": "TAMBORIL",
+    "Estado": "CE",
+    "IBGE": 231320.0,
+    "Desempenho": 86.53846153846155,
+    "Posicao": 41,
+    "Detalhes": {
+      "Ótimo": 21,
+      "Bom": 15,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.6,
+        "Acompanhamento de Diabéticos": 81.2,
+        "Prescrição de Medicamentos": 77.5,
+        "Realização de Exames": 73.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.9,
+        "Acompanhamento de Hipertensos": 85.2,
+        "Prescrição de Medicamentos": 77.9,
+        "Controle de Pressão Arterial": 76.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.1,
+        "Acompanhamento Regular": 75.6,
+        "Vacinação em Dia": 74.2,
+        "Prevenção de Quedas": 70.5
+      }
+    }
+  },
+  {
+    "Municipio": "IRAUÇUBA",
+    "Estado": "CE",
+    "IBGE": 230610.0,
+    "Desempenho": 86.42857142857143,
+    "Posicao": 42,
+    "Detalhes": {
+      "Ótimo": 18,
+      "Bom": 16,
+      "Suficiente": 0,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.2,
+        "Acompanhamento de Diabéticos": 75.1,
+        "Prescrição de Medicamentos": 79.3,
+        "Realização de Exames": 74.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.8,
+        "Acompanhamento de Hipertensos": 80.5,
+        "Prescrição de Medicamentos": 79.4,
+        "Controle de Pressão Arterial": 71.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 77.6,
+        "Acompanhamento Regular": 74.5,
+        "Vacinação em Dia": 74.2,
+        "Prevenção de Quedas": 76.6
+      }
+    }
+  },
+  {
+    "Municipio": "HORIZONTE",
+    "Estado": "CE",
+    "IBGE": 230523.0,
+    "Desempenho": 86.41975308641975,
+    "Posicao": 43,
+    "Detalhes": {
+      "Ótimo": 44,
+      "Bom": 30,
+      "Suficiente": 7,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.6,
+        "Acompanhamento de Diabéticos": 84.0,
+        "Prescrição de Medicamentos": 78.8,
+        "Realização de Exames": 70.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.0,
+        "Acompanhamento de Hipertensos": 77.2,
+        "Prescrição de Medicamentos": 75.8,
+        "Controle de Pressão Arterial": 74.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.1,
+        "Acompanhamento Regular": 79.7,
+        "Vacinação em Dia": 76.8,
+        "Prevenção de Quedas": 69.9
+      }
+    }
+  },
+  {
+    "Municipio": "BELA CRUZ",
+    "Estado": "CE",
+    "IBGE": 230230.0,
+    "Desempenho": 86.36363636363636,
+    "Posicao": 44,
+    "Detalhes": {
+      "Ótimo": 21,
+      "Bom": 6,
+      "Suficiente": 6,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.0,
+        "Acompanhamento de Diabéticos": 80.8,
+        "Prescrição de Medicamentos": 80.5,
+        "Realização de Exames": 69.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 87.8,
+        "Acompanhamento de Hipertensos": 84.9,
+        "Prescrição de Medicamentos": 80.0,
+        "Controle de Pressão Arterial": 69.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.0,
+        "Acompanhamento Regular": 74.2,
+        "Vacinação em Dia": 75.9,
+        "Prevenção de Quedas": 76.6
+      }
+    }
+  },
+  {
+    "Municipio": "PEREIRO",
+    "Estado": "CE",
+    "IBGE": 231080.0,
+    "Desempenho": 86.36363636363636,
+    "Posicao": 45,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 8,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.4,
+        "Acompanhamento de Diabéticos": 75.3,
+        "Prescrição de Medicamentos": 76.3,
+        "Realização de Exames": 71.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.7,
+        "Acompanhamento de Hipertensos": 81.8,
+        "Prescrição de Medicamentos": 78.2,
+        "Controle de Pressão Arterial": 71.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.4,
+        "Acompanhamento Regular": 75.1,
+        "Vacinação em Dia": 78.1,
+        "Prevenção de Quedas": 68.3
+      }
+    }
+  },
+  {
+    "Municipio": "ORÓS",
+    "Estado": "CE",
+    "IBGE": 230950.0,
+    "Desempenho": 86.02941176470588,
+    "Posicao": 46,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 17,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 84.0,
+        "Acompanhamento de Diabéticos": 77.9,
+        "Prescrição de Medicamentos": 76.9,
+        "Realização de Exames": 76.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.5,
+        "Acompanhamento de Hipertensos": 84.7,
+        "Prescrição de Medicamentos": 76.7,
+        "Controle de Pressão Arterial": 78.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.7,
+        "Acompanhamento Regular": 78.3,
+        "Vacinação em Dia": 79.7,
+        "Prevenção de Quedas": 74.9
+      }
+    }
+  },
+  {
+    "Municipio": "GRAÇA",
+    "Estado": "CE",
+    "IBGE": 230465.0,
+    "Desempenho": 85.86956521739131,
+    "Posicao": 47,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 10,
+      "Suficiente": 0,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.4,
+        "Acompanhamento de Diabéticos": 79.7,
+        "Prescrição de Medicamentos": 71.1,
+        "Realização de Exames": 69.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 80.6,
+        "Acompanhamento de Hipertensos": 83.0,
+        "Prescrição de Medicamentos": 78.3,
+        "Controle de Pressão Arterial": 76.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.0,
+        "Acompanhamento Regular": 81.6,
+        "Vacinação em Dia": 80.4,
+        "Prevenção de Quedas": 73.9
+      }
+    }
+  },
+  {
+    "Municipio": "COREAÚ",
+    "Estado": "CE",
+    "IBGE": 230400.0,
+    "Desempenho": 85.71428571428571,
+    "Posicao": 48,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 11,
+      "Suficiente": 1,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 86.4,
+        "Acompanhamento de Diabéticos": 79.8,
+        "Prescrição de Medicamentos": 73.9,
+        "Realização de Exames": 73.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.1,
+        "Acompanhamento de Hipertensos": 78.5,
+        "Prescrição de Medicamentos": 77.1,
+        "Controle de Pressão Arterial": 72.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.8,
+        "Acompanhamento Regular": 72.4,
+        "Vacinação em Dia": 77.7,
+        "Prevenção de Quedas": 75.4
+      }
+    }
+  },
+  {
+    "Municipio": "CHORÓ",
+    "Estado": "CE",
+    "IBGE": 230393.0,
+    "Desempenho": 85.52631578947368,
+    "Posicao": 49,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 7,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 84.4,
+        "Acompanhamento de Diabéticos": 75.2,
+        "Prescrição de Medicamentos": 71.8,
+        "Realização de Exames": 76.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.5,
+        "Acompanhamento de Hipertensos": 81.0,
+        "Prescrição de Medicamentos": 71.2,
+        "Controle de Pressão Arterial": 69.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.4,
+        "Acompanhamento Regular": 77.2,
+        "Vacinação em Dia": 79.2,
+        "Prevenção de Quedas": 67.6
+      }
+    }
+  },
+  {
+    "Municipio": "ARNEIROZ",
+    "Estado": "CE",
+    "IBGE": 230150.0,
+    "Desempenho": 85.41666666666666,
+    "Posicao": 50,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 5,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 84.2,
+        "Acompanhamento de Diabéticos": 77.8,
+        "Prescrição de Medicamentos": 77.1,
+        "Realização de Exames": 71.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.4,
+        "Acompanhamento de Hipertensos": 80.9,
+        "Prescrição de Medicamentos": 77.2,
+        "Controle de Pressão Arterial": 72.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 79.3,
+        "Acompanhamento Regular": 79.2,
+        "Vacinação em Dia": 75.7,
+        "Prevenção de Quedas": 67.0
+      }
+    }
+  },
+  {
+    "Municipio": "NOVA RUSSAS",
+    "Estado": "CE",
+    "IBGE": 230930.0,
+    "Desempenho": 85.22727272727273,
+    "Posicao": 51,
+    "Detalhes": {
+      "Ótimo": 20,
+      "Bom": 22,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.1,
+        "Acompanhamento de Diabéticos": 79.0,
+        "Prescrição de Medicamentos": 74.6,
+        "Realização de Exames": 73.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.5,
+        "Acompanhamento de Hipertensos": 76.5,
+        "Prescrição de Medicamentos": 74.8,
+        "Controle de Pressão Arterial": 71.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.6,
+        "Acompanhamento Regular": 80.5,
+        "Vacinação em Dia": 75.7,
+        "Prevenção de Quedas": 72.7
+      }
+    }
+  },
+  {
+    "Municipio": "VÁRZEA ALEGRE",
+    "Estado": "CE",
+    "IBGE": 231400.0,
+    "Desempenho": 85.22727272727273,
+    "Posicao": 52,
+    "Detalhes": {
+      "Ótimo": 24,
+      "Bom": 15,
+      "Suficiente": 4,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.9,
+        "Acompanhamento de Diabéticos": 79.6,
+        "Prescrição de Medicamentos": 79.8,
+        "Realização de Exames": 74.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.0,
+        "Acompanhamento de Hipertensos": 75.7,
+        "Prescrição de Medicamentos": 72.7,
+        "Controle de Pressão Arterial": 75.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.5,
+        "Acompanhamento Regular": 77.4,
+        "Vacinação em Dia": 80.4,
+        "Prevenção de Quedas": 67.9
+      }
+    }
+  },
+  {
+    "Municipio": "UBAJARA",
+    "Estado": "CE",
+    "IBGE": 231360.0,
+    "Desempenho": 85.18518518518519,
+    "Posicao": 53,
+    "Detalhes": {
+      "Ótimo": 28,
+      "Bom": 22,
+      "Suficiente": 2,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.3,
+        "Acompanhamento de Diabéticos": 80.1,
+        "Prescrição de Medicamentos": 70.3,
+        "Realização de Exames": 69.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.7,
+        "Acompanhamento de Hipertensos": 78.6,
+        "Prescrição de Medicamentos": 73.8,
+        "Controle de Pressão Arterial": 72.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 76.5,
+        "Acompanhamento Regular": 81.2,
+        "Vacinação em Dia": 73.2,
+        "Prevenção de Quedas": 70.2
+      }
+    }
+  },
+  {
+    "Municipio": "BAIXIO",
+    "Estado": "CE",
+    "IBGE": 230180.0,
+    "Desempenho": 85.0,
+    "Posicao": 54,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 6,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.5,
+        "Acompanhamento de Diabéticos": 74.8,
+        "Prescrição de Medicamentos": 76.2,
+        "Realização de Exames": 70.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.3,
+        "Acompanhamento de Hipertensos": 78.1,
+        "Prescrição de Medicamentos": 77.1,
+        "Controle de Pressão Arterial": 73.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.7,
+        "Acompanhamento Regular": 81.0,
+        "Vacinação em Dia": 74.6,
+        "Prevenção de Quedas": 71.5
+      }
+    }
+  },
+  {
+    "Municipio": "SALITRE",
+    "Estado": "CE",
+    "IBGE": 231195.0,
+    "Desempenho": 85.0,
+    "Posicao": 55,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 13,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 81.2,
+        "Acompanhamento de Diabéticos": 79.0,
+        "Prescrição de Medicamentos": 77.9,
+        "Realização de Exames": 77.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.4,
+        "Acompanhamento de Hipertensos": 76.6,
+        "Prescrição de Medicamentos": 78.2,
+        "Controle de Pressão Arterial": 75.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.2,
+        "Acompanhamento Regular": 79.7,
+        "Vacinação em Dia": 81.6,
+        "Prevenção de Quedas": 68.4
+      }
+    }
+  },
+  {
+    "Municipio": "HIDROLÂNDIA",
+    "Estado": "CE",
+    "IBGE": 230520.0,
+    "Desempenho": 84.78260869565217,
+    "Posicao": 56,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 12,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 84.7,
+        "Acompanhamento de Diabéticos": 73.4,
+        "Prescrição de Medicamentos": 72.3,
+        "Realização de Exames": 71.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.6,
+        "Acompanhamento de Hipertensos": 79.4,
+        "Prescrição de Medicamentos": 73.0,
+        "Controle de Pressão Arterial": 75.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.2,
+        "Acompanhamento Regular": 73.9,
+        "Vacinação em Dia": 76.0,
+        "Prevenção de Quedas": 68.2
+      }
+    }
+  },
+  {
+    "Municipio": "CRUZ",
+    "Estado": "CE",
+    "IBGE": 230425.0,
+    "Desempenho": 84.72222222222221,
+    "Posicao": 57,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 18,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.4,
+        "Acompanhamento de Diabéticos": 79.7,
+        "Prescrição de Medicamentos": 72.2,
+        "Realização de Exames": 73.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.7,
+        "Acompanhamento de Hipertensos": 79.7,
+        "Prescrição de Medicamentos": 75.0,
+        "Controle de Pressão Arterial": 71.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 78.7,
+        "Acompanhamento Regular": 77.6,
+        "Vacinação em Dia": 73.0,
+        "Prevenção de Quedas": 74.6
+      }
+    }
+  },
+  {
+    "Municipio": "SÃO JOÃO DO JAGUARIBE",
+    "Estado": "CE",
+    "IBGE": 231250.0,
+    "Desempenho": 84.61538461538461,
+    "Posicao": 58,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 3,
+      "Suficiente": 1,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.5,
+        "Acompanhamento de Diabéticos": 79.8,
+        "Prescrição de Medicamentos": 75.2,
+        "Realização de Exames": 73.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.0,
+        "Acompanhamento de Hipertensos": 78.6,
+        "Prescrição de Medicamentos": 72.6,
+        "Controle de Pressão Arterial": 74.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.1,
+        "Acompanhamento Regular": 71.3,
+        "Vacinação em Dia": 72.7,
+        "Prevenção de Quedas": 65.3
+      }
+    }
+  },
+  {
+    "Municipio": "ALCÂNTARAS",
+    "Estado": "CE",
+    "IBGE": 230050.0,
+    "Desempenho": 84.21052631578947,
+    "Posicao": 59,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 8,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.1,
+        "Acompanhamento de Diabéticos": 79.2,
+        "Prescrição de Medicamentos": 75.7,
+        "Realização de Exames": 75.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.6,
+        "Acompanhamento de Hipertensos": 79.6,
+        "Prescrição de Medicamentos": 72.6,
+        "Controle de Pressão Arterial": 68.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.0,
+        "Acompanhamento Regular": 75.9,
+        "Vacinação em Dia": 76.5,
+        "Prevenção de Quedas": 70.5
+      }
+    }
+  },
+  {
+    "Municipio": "MIRAÍMA",
+    "Estado": "CE",
+    "IBGE": 230837.0,
+    "Desempenho": 84.21052631578947,
+    "Posicao": 60,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 4,
+      "Suficiente": 4,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.0,
+        "Acompanhamento de Diabéticos": 81.5,
+        "Prescrição de Medicamentos": 76.6,
+        "Realização de Exames": 70.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.0,
+        "Acompanhamento de Hipertensos": 80.6,
+        "Prescrição de Medicamentos": 77.6,
+        "Controle de Pressão Arterial": 74.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.8,
+        "Acompanhamento Regular": 76.1,
+        "Vacinação em Dia": 76.0,
+        "Prevenção de Quedas": 73.7
+      }
+    }
+  },
+  {
+    "Municipio": "IBARETAMA",
+    "Estado": "CE",
+    "IBGE": 230526.0,
+    "Desempenho": 84.0909090909091,
+    "Posicao": 61,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 7,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.1,
+        "Acompanhamento de Diabéticos": 81.3,
+        "Prescrição de Medicamentos": 73.4,
+        "Realização de Exames": 69.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 85.2,
+        "Acompanhamento de Hipertensos": 73.4,
+        "Prescrição de Medicamentos": 73.3,
+        "Controle de Pressão Arterial": 73.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.4,
+        "Acompanhamento Regular": 74.0,
+        "Vacinação em Dia": 77.7,
+        "Prevenção de Quedas": 73.8
+      }
+    }
+  },
+  {
+    "Municipio": "AMONTADA",
+    "Estado": "CE",
+    "IBGE": 230075.0,
+    "Desempenho": 83.92857142857143,
+    "Posicao": 62,
+    "Detalhes": {
+      "Ótimo": 18,
+      "Bom": 22,
+      "Suficiente": 1,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.9,
+        "Acompanhamento de Diabéticos": 73.3,
+        "Prescrição de Medicamentos": 74.7,
+        "Realização de Exames": 68.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.7,
+        "Acompanhamento de Hipertensos": 80.2,
+        "Prescrição de Medicamentos": 75.7,
+        "Controle de Pressão Arterial": 71.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.5,
+        "Acompanhamento Regular": 77.7,
+        "Vacinação em Dia": 78.2,
+        "Prevenção de Quedas": 70.9
+      }
+    }
+  },
+  {
+    "Municipio": "CARNAUBAL",
+    "Estado": "CE",
+    "IBGE": 230340.0,
+    "Desempenho": 83.92857142857143,
+    "Posicao": 63,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 10,
+      "Suficiente": 1,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 81.0,
+        "Acompanhamento de Diabéticos": 81.4,
+        "Prescrição de Medicamentos": 69.0,
+        "Realização de Exames": 67.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.3,
+        "Acompanhamento de Hipertensos": 76.5,
+        "Prescrição de Medicamentos": 72.6,
+        "Controle de Pressão Arterial": 70.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.1,
+        "Acompanhamento Regular": 71.7,
+        "Vacinação em Dia": 75.8,
+        "Prevenção de Quedas": 71.5
+      }
+    }
+  },
+  {
+    "Municipio": "QUITERIANÓPOLIS",
+    "Estado": "CE",
+    "IBGE": 231126.0,
+    "Desempenho": 83.82352941176471,
+    "Posicao": 64,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 16,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.7,
+        "Acompanhamento de Diabéticos": 76.2,
+        "Prescrição de Medicamentos": 77.9,
+        "Realização de Exames": 73.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.4,
+        "Acompanhamento de Hipertensos": 81.3,
+        "Prescrição de Medicamentos": 78.2,
+        "Controle de Pressão Arterial": 69.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.8,
+        "Acompanhamento Regular": 78.2,
+        "Vacinação em Dia": 72.8,
+        "Prevenção de Quedas": 65.4
+      }
+    }
+  },
+  {
+    "Municipio": "CHAVAL",
+    "Estado": "CE",
+    "IBGE": 230390.0,
+    "Desempenho": 83.69565217391305,
+    "Posicao": 65,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 13,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.5,
+        "Acompanhamento de Diabéticos": 72.1,
+        "Prescrição de Medicamentos": 69.2,
+        "Realização de Exames": 71.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.5,
+        "Acompanhamento de Hipertensos": 74.5,
+        "Prescrição de Medicamentos": 71.8,
+        "Controle de Pressão Arterial": 68.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.3,
+        "Acompanhamento Regular": 79.6,
+        "Vacinação em Dia": 78.9,
+        "Prevenção de Quedas": 72.5
+      }
+    }
+  },
+  {
+    "Municipio": "VIÇOSA DO CEARÁ",
+    "Estado": "CE",
+    "IBGE": 231410.0,
+    "Desempenho": 83.65384615384616,
+    "Posicao": 66,
+    "Detalhes": {
+      "Ótimo": 22,
+      "Bom": 27,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.6,
+        "Acompanhamento de Diabéticos": 74.4,
+        "Prescrição de Medicamentos": 76.0,
+        "Realização de Exames": 72.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.6,
+        "Acompanhamento de Hipertensos": 79.5,
+        "Prescrição de Medicamentos": 74.6,
+        "Controle de Pressão Arterial": 72.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.5,
+        "Acompanhamento Regular": 72.1,
+        "Vacinação em Dia": 80.8,
+        "Prevenção de Quedas": 70.0
+      }
+    }
+  },
+  {
+    "Municipio": "SENADOR POMPEU",
+    "Estado": "CE",
+    "IBGE": 231270.0,
+    "Desempenho": 83.53658536585365,
+    "Posicao": 67,
+    "Detalhes": {
+      "Ótimo": 17,
+      "Bom": 21,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 83.9,
+        "Acompanhamento de Diabéticos": 74.2,
+        "Prescrição de Medicamentos": 78.3,
+        "Realização de Exames": 71.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 84.7,
+        "Acompanhamento de Hipertensos": 73.0,
+        "Prescrição de Medicamentos": 71.7,
+        "Controle de Pressão Arterial": 75.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.7,
+        "Acompanhamento Regular": 78.7,
+        "Vacinação em Dia": 72.6,
+        "Prevenção de Quedas": 67.8
+      }
+    }
+  },
+  {
+    "Municipio": "ACARAÚ",
+    "Estado": "CE",
+    "IBGE": 230020.0,
+    "Desempenho": 83.03571428571429,
+    "Posicao": 68,
+    "Detalhes": {
+      "Ótimo": 32,
+      "Bom": 47,
+      "Suficiente": 5,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.9,
+        "Acompanhamento de Diabéticos": 76.4,
+        "Prescrição de Medicamentos": 68.3,
+        "Realização de Exames": 75.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.8,
+        "Acompanhamento de Hipertensos": 76.9,
+        "Prescrição de Medicamentos": 75.2,
+        "Controle de Pressão Arterial": 75.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.4,
+        "Acompanhamento Regular": 78.4,
+        "Vacinação em Dia": 78.8,
+        "Prevenção de Quedas": 66.9
+      }
+    }
+  },
+  {
+    "Municipio": "NOVA OLINDA",
+    "Estado": "CE",
+    "IBGE": 230920.0,
+    "Desempenho": 82.95454545454545,
+    "Posicao": 69,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 5,
+      "Suficiente": 5,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 82.0,
+        "Acompanhamento de Diabéticos": 77.8,
+        "Prescrição de Medicamentos": 68.4,
+        "Realização de Exames": 72.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.3,
+        "Acompanhamento de Hipertensos": 80.1,
+        "Prescrição de Medicamentos": 69.3,
+        "Controle de Pressão Arterial": 69.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.5,
+        "Acompanhamento Regular": 77.4,
+        "Vacinação em Dia": 77.8,
+        "Prevenção de Quedas": 64.0
+      }
+    }
+  },
+  {
+    "Municipio": "INDEPENDÊNCIA",
+    "Estado": "CE",
+    "IBGE": 230560.0,
+    "Desempenho": 82.89473684210526,
+    "Posicao": 70,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 23,
+      "Suficiente": 0,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.8,
+        "Acompanhamento de Diabéticos": 77.5,
+        "Prescrição de Medicamentos": 68.4,
+        "Realização de Exames": 73.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.1,
+        "Acompanhamento de Hipertensos": 73.0,
+        "Prescrição de Medicamentos": 72.4,
+        "Controle de Pressão Arterial": 67.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.0,
+        "Acompanhamento Regular": 72.4,
+        "Vacinação em Dia": 73.1,
+        "Prevenção de Quedas": 70.1
+      }
+    }
+  },
+  {
+    "Municipio": "ARARENDÁ",
+    "Estado": "CE",
+    "IBGE": 230125.0,
+    "Desempenho": 82.8125,
+    "Posicao": 71,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 5,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.9,
+        "Acompanhamento de Diabéticos": 80.3,
+        "Prescrição de Medicamentos": 72.7,
+        "Realização de Exames": 65.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.5,
+        "Acompanhamento de Hipertensos": 74.4,
+        "Prescrição de Medicamentos": 70.1,
+        "Controle de Pressão Arterial": 71.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.3,
+        "Acompanhamento Regular": 71.2,
+        "Vacinação em Dia": 72.3,
+        "Prevenção de Quedas": 70.1
+      }
+    }
+  },
+  {
+    "Municipio": "ICAPUÍ",
+    "Estado": "CE",
+    "IBGE": 230535.0,
+    "Desempenho": 82.75862068965517,
+    "Posicao": 72,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 16,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.5,
+        "Acompanhamento de Diabéticos": 71.2,
+        "Prescrição de Medicamentos": 71.3,
+        "Realização de Exames": 71.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.5,
+        "Acompanhamento de Hipertensos": 76.1,
+        "Prescrição de Medicamentos": 76.3,
+        "Controle de Pressão Arterial": 73.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.0,
+        "Acompanhamento Regular": 69.9,
+        "Vacinação em Dia": 78.8,
+        "Prevenção de Quedas": 69.1
+      }
+    }
+  },
+  {
+    "Municipio": "BANABUIÚ",
+    "Estado": "CE",
+    "IBGE": 230185.0,
+    "Desempenho": 82.6923076923077,
+    "Posicao": 73,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 13,
+      "Suficiente": 1,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.0,
+        "Acompanhamento de Diabéticos": 77.8,
+        "Prescrição de Medicamentos": 74.8,
+        "Realização de Exames": 71.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.7,
+        "Acompanhamento de Hipertensos": 75.1,
+        "Prescrição de Medicamentos": 75.5,
+        "Controle de Pressão Arterial": 72.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.4,
+        "Acompanhamento Regular": 75.0,
+        "Vacinação em Dia": 73.4,
+        "Prevenção de Quedas": 70.8
+      }
+    }
+  },
+  {
+    "Municipio": "TARRAFAS",
+    "Estado": "CE",
+    "IBGE": 231325.0,
+    "Desempenho": 82.6923076923077,
+    "Posicao": 74,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 3,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.4,
+        "Acompanhamento de Diabéticos": 77.2,
+        "Prescrição de Medicamentos": 74.1,
+        "Realização de Exames": 71.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.5,
+        "Acompanhamento de Hipertensos": 79.6,
+        "Prescrição de Medicamentos": 70.0,
+        "Controle de Pressão Arterial": 73.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.1,
+        "Acompanhamento Regular": 72.1,
+        "Vacinação em Dia": 76.0,
+        "Prevenção de Quedas": 67.8
+      }
+    }
+  },
+  {
+    "Municipio": "MASSAPÊ",
+    "Estado": "CE",
+    "IBGE": 230800.0,
+    "Desempenho": 82.63888888888889,
+    "Posicao": 75,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 21,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.7,
+        "Acompanhamento de Diabéticos": 79.4,
+        "Prescrição de Medicamentos": 74.2,
+        "Realização de Exames": 69.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.6,
+        "Acompanhamento de Hipertensos": 80.6,
+        "Prescrição de Medicamentos": 72.5,
+        "Controle de Pressão Arterial": 68.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.9,
+        "Acompanhamento Regular": 71.4,
+        "Vacinação em Dia": 71.6,
+        "Prevenção de Quedas": 70.4
+      }
+    }
+  },
+  {
+    "Municipio": "AIUABA",
+    "Estado": "CE",
+    "IBGE": 230040.0,
+    "Desempenho": 82.5,
+    "Posicao": 76,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 8,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.9,
+        "Acompanhamento de Diabéticos": 76.4,
+        "Prescrição de Medicamentos": 68.1,
+        "Realização de Exames": 66.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.4,
+        "Acompanhamento de Hipertensos": 79.6,
+        "Prescrição de Medicamentos": 72.6,
+        "Controle de Pressão Arterial": 70.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.6,
+        "Acompanhamento Regular": 75.1,
+        "Vacinação em Dia": 79.1,
+        "Prevenção de Quedas": 70.4
+      }
+    }
+  },
+  {
+    "Municipio": "CANINDÉ",
+    "Estado": "CE",
+    "IBGE": 230280.0,
+    "Desempenho": 82.14285714285714,
+    "Posicao": 77,
+    "Detalhes": {
+      "Ótimo": 23,
+      "Bom": 26,
+      "Suficiente": 7,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.2,
+        "Acompanhamento de Diabéticos": 74.2,
+        "Prescrição de Medicamentos": 73.1,
+        "Realização de Exames": 71.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 83.7,
+        "Acompanhamento de Hipertensos": 78.5,
+        "Prescrição de Medicamentos": 75.7,
+        "Controle de Pressão Arterial": 65.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.7,
+        "Acompanhamento Regular": 72.6,
+        "Vacinação em Dia": 74.6,
+        "Prevenção de Quedas": 71.3
+      }
+    }
+  },
+  {
+    "Municipio": "IBIAPINA",
+    "Estado": "CE",
+    "IBGE": 230530.0,
+    "Desempenho": 82.05128205128204,
+    "Posicao": 78,
+    "Detalhes": {
+      "Ótimo": 18,
+      "Bom": 16,
+      "Suficiente": 3,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.7,
+        "Acompanhamento de Diabéticos": 74.4,
+        "Prescrição de Medicamentos": 67.6,
+        "Realização de Exames": 65.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.0,
+        "Acompanhamento de Hipertensos": 75.5,
+        "Prescrição de Medicamentos": 72.5,
+        "Controle de Pressão Arterial": 66.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.2,
+        "Acompanhamento Regular": 78.0,
+        "Vacinação em Dia": 77.3,
+        "Prevenção de Quedas": 69.4
+      }
+    }
+  },
+  {
+    "Municipio": "FORTIM",
+    "Estado": "CE",
+    "IBGE": 230445.0,
+    "Desempenho": 82.0,
+    "Posicao": 79,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 10,
+      "Suficiente": 1,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.2,
+        "Acompanhamento de Diabéticos": 72.0,
+        "Prescrição de Medicamentos": 69.9,
+        "Realização de Exames": 72.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.7,
+        "Acompanhamento de Hipertensos": 73.6,
+        "Prescrição de Medicamentos": 71.9,
+        "Controle de Pressão Arterial": 66.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.1,
+        "Acompanhamento Regular": 69.3,
+        "Vacinação em Dia": 70.0,
+        "Prevenção de Quedas": 64.1
+      }
+    }
+  },
+  {
+    "Municipio": "BARRO",
+    "Estado": "CE",
+    "IBGE": 230200.0,
+    "Desempenho": 81.81818181818183,
+    "Posicao": 80,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 18,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 81.8,
+        "Acompanhamento de Diabéticos": 78.0,
+        "Prescrição de Medicamentos": 76.4,
+        "Realização de Exames": 74.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 82.7,
+        "Acompanhamento de Hipertensos": 71.7,
+        "Prescrição de Medicamentos": 70.1,
+        "Controle de Pressão Arterial": 74.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.4,
+        "Acompanhamento Regular": 72.4,
+        "Vacinação em Dia": 77.6,
+        "Prevenção de Quedas": 65.3
+      }
+    }
+  },
+  {
+    "Municipio": "CATARINA",
+    "Estado": "CE",
+    "IBGE": 230360.0,
+    "Desempenho": 81.81818181818183,
+    "Posicao": 81,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 10,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.1,
+        "Acompanhamento de Diabéticos": 73.0,
+        "Prescrição de Medicamentos": 73.6,
+        "Realização de Exames": 67.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.9,
+        "Acompanhamento de Hipertensos": 71.6,
+        "Prescrição de Medicamentos": 73.7,
+        "Controle de Pressão Arterial": 73.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.8,
+        "Acompanhamento Regular": 75.7,
+        "Vacinação em Dia": 73.1,
+        "Prevenção de Quedas": 68.4
+      }
+    }
+  },
+  {
+    "Municipio": "JATI",
+    "Estado": "CE",
+    "IBGE": 230720.0,
+    "Desempenho": 81.81818181818183,
+    "Posicao": 82,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 2,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.3,
+        "Acompanhamento de Diabéticos": 77.7,
+        "Prescrição de Medicamentos": 73.6,
+        "Realização de Exames": 72.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.3,
+        "Acompanhamento de Hipertensos": 72.7,
+        "Prescrição de Medicamentos": 71.6,
+        "Controle de Pressão Arterial": 68.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.8,
+        "Acompanhamento Regular": 71.5,
+        "Vacinação em Dia": 74.7,
+        "Prevenção de Quedas": 65.0
+      }
+    }
+  },
+  {
+    "Municipio": "SÃO BENEDITO",
+    "Estado": "CE",
+    "IBGE": 231230.0,
+    "Desempenho": 81.73076923076923,
+    "Posicao": 83,
+    "Detalhes": {
+      "Ótimo": 22,
+      "Bom": 22,
+      "Suficiente": 8,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.7,
+        "Acompanhamento de Diabéticos": 78.0,
+        "Prescrição de Medicamentos": 67.3,
+        "Realização de Exames": 70.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 81.2,
+        "Acompanhamento de Hipertensos": 75.4,
+        "Prescrição de Medicamentos": 68.1,
+        "Controle de Pressão Arterial": 69.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.8,
+        "Acompanhamento Regular": 73.2,
+        "Vacinação em Dia": 76.2,
+        "Prevenção de Quedas": 67.4
+      }
+    }
+  },
+  {
+    "Municipio": "CARIRÉ",
+    "Estado": "CE",
+    "IBGE": 230310.0,
+    "Desempenho": 81.48148148148148,
+    "Posicao": 84,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 12,
+      "Suficiente": 4,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.5,
+        "Acompanhamento de Diabéticos": 75.8,
+        "Prescrição de Medicamentos": 73.2,
+        "Realização de Exames": 72.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.4,
+        "Acompanhamento de Hipertensos": 72.0,
+        "Prescrição de Medicamentos": 76.2,
+        "Controle de Pressão Arterial": 65.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.2,
+        "Acompanhamento Regular": 71.0,
+        "Vacinação em Dia": 73.9,
+        "Prevenção de Quedas": 71.6
+      }
+    }
+  },
+  {
+    "Municipio": "REDENÇÃO",
+    "Estado": "CE",
+    "IBGE": 231160.0,
+    "Desempenho": 80.97826086956522,
+    "Posicao": 85,
+    "Detalhes": {
+      "Ótimo": 21,
+      "Bom": 17,
+      "Suficiente": 6,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.5,
+        "Acompanhamento de Diabéticos": 74.4,
+        "Prescrição de Medicamentos": 70.8,
+        "Realização de Exames": 71.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.8,
+        "Acompanhamento de Hipertensos": 72.4,
+        "Prescrição de Medicamentos": 69.1,
+        "Controle de Pressão Arterial": 65.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.6,
+        "Acompanhamento Regular": 73.4,
+        "Vacinação em Dia": 70.9,
+        "Prevenção de Quedas": 67.1
+      }
+    }
+  },
+  {
+    "Municipio": "BARBALHA",
+    "Estado": "CE",
+    "IBGE": 230190.0,
+    "Desempenho": 80.84415584415584,
+    "Posicao": 86,
+    "Detalhes": {
+      "Ótimo": 25,
+      "Bom": 46,
+      "Suficiente": 5,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.5,
+        "Acompanhamento de Diabéticos": 71.6,
+        "Prescrição de Medicamentos": 75.7,
+        "Realização de Exames": 71.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 80.6,
+        "Acompanhamento de Hipertensos": 74.1,
+        "Prescrição de Medicamentos": 68.8,
+        "Controle de Pressão Arterial": 68.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 65.5,
+        "Acompanhamento Regular": 71.9,
+        "Vacinação em Dia": 75.9,
+        "Prevenção de Quedas": 68.6
+      }
+    }
+  },
+  {
+    "Municipio": "ERERÊ",
+    "Estado": "CE",
+    "IBGE": 230427.0,
+    "Desempenho": 80.55555555555556,
+    "Posicao": 87,
+    "Detalhes": {
+      "Ótimo": 2,
+      "Bom": 7,
+      "Suficiente": 0,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 80.8,
+        "Acompanhamento de Diabéticos": 77.8,
+        "Prescrição de Medicamentos": 72.0,
+        "Realização de Exames": 68.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.9,
+        "Acompanhamento de Hipertensos": 70.8,
+        "Prescrição de Medicamentos": 72.8,
+        "Controle de Pressão Arterial": 67.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 75.0,
+        "Acompanhamento Regular": 74.1,
+        "Vacinação em Dia": 68.9,
+        "Prevenção de Quedas": 64.7
+      }
+    }
+  },
+  {
+    "Municipio": "PARAMOTI",
+    "Estado": "CE",
+    "IBGE": 231040.0,
+    "Desempenho": 80.55555555555556,
+    "Posicao": 88,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 8,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.3,
+        "Acompanhamento de Diabéticos": 69.9,
+        "Prescrição de Medicamentos": 73.2,
+        "Realização de Exames": 65.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.5,
+        "Acompanhamento de Hipertensos": 71.7,
+        "Prescrição de Medicamentos": 70.6,
+        "Controle de Pressão Arterial": 67.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.4,
+        "Acompanhamento Regular": 74.6,
+        "Vacinação em Dia": 74.6,
+        "Prevenção de Quedas": 70.9
+      }
+    }
+  },
+  {
+    "Municipio": "IPAUMIRIM",
+    "Estado": "CE",
+    "IBGE": 230570.0,
+    "Desempenho": 80.26315789473685,
+    "Posicao": 89,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 9,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.4,
+        "Acompanhamento de Diabéticos": 75.4,
+        "Prescrição de Medicamentos": 70.5,
+        "Realização de Exames": 67.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.5,
+        "Acompanhamento de Hipertensos": 74.9,
+        "Prescrição de Medicamentos": 72.1,
+        "Controle de Pressão Arterial": 68.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.2,
+        "Acompanhamento Regular": 71.0,
+        "Vacinação em Dia": 74.8,
+        "Prevenção de Quedas": 69.7
+      }
+    }
+  },
+  {
+    "Municipio": "SÃO LUÍS DO CURU",
+    "Estado": "CE",
+    "IBGE": 231260.0,
+    "Desempenho": 80.26315789473685,
+    "Posicao": 90,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 13,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.8,
+        "Acompanhamento de Diabéticos": 69.3,
+        "Prescrição de Medicamentos": 67.4,
+        "Realização de Exames": 66.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.0,
+        "Acompanhamento de Hipertensos": 75.3,
+        "Prescrição de Medicamentos": 75.4,
+        "Controle de Pressão Arterial": 64.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.7,
+        "Acompanhamento Regular": 73.2,
+        "Vacinação em Dia": 75.8,
+        "Prevenção de Quedas": 66.4
+      }
+    }
+  },
+  {
+    "Municipio": "SOLONÓPOLE",
+    "Estado": "CE",
+    "IBGE": 231300.0,
+    "Desempenho": 80.0,
+    "Posicao": 91,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 14,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.5,
+        "Acompanhamento de Diabéticos": 72.8,
+        "Prescrição de Medicamentos": 66.6,
+        "Realização de Exames": 65.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 80.8,
+        "Acompanhamento de Hipertensos": 77.3,
+        "Prescrição de Medicamentos": 73.6,
+        "Controle de Pressão Arterial": 69.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.9,
+        "Acompanhamento Regular": 69.4,
+        "Vacinação em Dia": 73.6,
+        "Prevenção de Quedas": 66.2
+      }
+    }
+  },
+  {
+    "Municipio": "URUBURETAMA",
+    "Estado": "CE",
+    "IBGE": 231380.0,
+    "Desempenho": 79.83870967741935,
+    "Posicao": 92,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 15,
+      "Suficiente": 5,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.7,
+        "Acompanhamento de Diabéticos": 69.8,
+        "Prescrição de Medicamentos": 71.3,
+        "Realização de Exames": 67.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.8,
+        "Acompanhamento de Hipertensos": 76.0,
+        "Prescrição de Medicamentos": 74.0,
+        "Controle de Pressão Arterial": 65.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.9,
+        "Acompanhamento Regular": 67.3,
+        "Vacinação em Dia": 72.8,
+        "Prevenção de Quedas": 62.4
+      }
+    }
+  },
+  {
+    "Municipio": "BEBERIBE",
+    "Estado": "CE",
+    "IBGE": 230220.0,
+    "Desempenho": 79.76190476190477,
+    "Posicao": 93,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 43,
+      "Suficiente": 4,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.0,
+        "Acompanhamento de Diabéticos": 71.4,
+        "Prescrição de Medicamentos": 69.5,
+        "Realização de Exames": 70.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.3,
+        "Acompanhamento de Hipertensos": 72.7,
+        "Prescrição de Medicamentos": 74.2,
+        "Controle de Pressão Arterial": 69.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.4,
+        "Acompanhamento Regular": 67.3,
+        "Vacinação em Dia": 70.4,
+        "Prevenção de Quedas": 66.9
+      }
+    }
+  },
+  {
+    "Municipio": "FRECHEIRINHA",
+    "Estado": "CE",
+    "IBGE": 230450.0,
+    "Desempenho": 79.76190476190477,
+    "Posicao": 94,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 11,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.1,
+        "Acompanhamento de Diabéticos": 70.5,
+        "Prescrição de Medicamentos": 73.8,
+        "Realização de Exames": 68.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.6,
+        "Acompanhamento de Hipertensos": 78.5,
+        "Prescrição de Medicamentos": 72.9,
+        "Controle de Pressão Arterial": 71.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 74.1,
+        "Acompanhamento Regular": 73.5,
+        "Vacinação em Dia": 71.8,
+        "Prevenção de Quedas": 71.1
+      }
+    }
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Estado": "CE",
+    "IBGE": 230600.0,
+    "Desempenho": 79.76190476190477,
+    "Posicao": 95,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 10,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.3,
+        "Acompanhamento de Diabéticos": 71.5,
+        "Prescrição de Medicamentos": 73.9,
+        "Realização de Exames": 66.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.1,
+        "Acompanhamento de Hipertensos": 72.0,
+        "Prescrição de Medicamentos": 73.7,
+        "Controle de Pressão Arterial": 63.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.7,
+        "Acompanhamento Regular": 67.7,
+        "Vacinação em Dia": 74.0,
+        "Prevenção de Quedas": 68.1
+      }
+    }
+  },
+  {
+    "Municipio": "PACUJÁ",
+    "Estado": "CE",
+    "IBGE": 230990.0,
+    "Desempenho": 79.54545454545455,
+    "Posicao": 96,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 5,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.9,
+        "Acompanhamento de Diabéticos": 72.0,
+        "Prescrição de Medicamentos": 67.9,
+        "Realização de Exames": 67.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.8,
+        "Acompanhamento de Hipertensos": 77.8,
+        "Prescrição de Medicamentos": 74.6,
+        "Controle de Pressão Arterial": 71.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.2,
+        "Acompanhamento Regular": 74.8,
+        "Vacinação em Dia": 75.4,
+        "Prevenção de Quedas": 69.2
+      }
+    }
+  },
+  {
+    "Municipio": "GRANJA",
+    "Estado": "CE",
+    "IBGE": 230470.0,
+    "Desempenho": 79.47761194029852,
+    "Posicao": 97,
+    "Detalhes": {
+      "Ótimo": 23,
+      "Bom": 35,
+      "Suficiente": 7,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.6,
+        "Acompanhamento de Diabéticos": 78.1,
+        "Prescrição de Medicamentos": 66.2,
+        "Realização de Exames": 63.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.5,
+        "Acompanhamento de Hipertensos": 76.7,
+        "Prescrição de Medicamentos": 66.9,
+        "Controle de Pressão Arterial": 67.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.3,
+        "Acompanhamento Regular": 71.5,
+        "Vacinação em Dia": 68.4,
+        "Prevenção de Quedas": 63.4
+      }
+    }
+  },
+  {
+    "Municipio": "JAGUARIBE",
+    "Estado": "CE",
+    "IBGE": 230690.0,
+    "Desempenho": 79.46428571428571,
+    "Posicao": 98,
+    "Detalhes": {
+      "Ótimo": 29,
+      "Bom": 15,
+      "Suficiente": 5,
+      "Regular": 7
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.3,
+        "Acompanhamento de Diabéticos": 75.3,
+        "Prescrição de Medicamentos": 69.9,
+        "Realização de Exames": 64.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.4,
+        "Acompanhamento de Hipertensos": 78.5,
+        "Prescrição de Medicamentos": 69.7,
+        "Controle de Pressão Arterial": 67.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.2,
+        "Acompanhamento Regular": 68.1,
+        "Vacinação em Dia": 72.5,
+        "Prevenção de Quedas": 67.2
+      }
+    }
+  },
+  {
+    "Municipio": "IGUATU",
+    "Estado": "CE",
+    "IBGE": 230550.0,
+    "Desempenho": 79.41176470588235,
+    "Posicao": 99,
+    "Detalhes": {
+      "Ótimo": 41,
+      "Bom": 58,
+      "Suficiente": 20,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.5,
+        "Acompanhamento de Diabéticos": 76.2,
+        "Prescrição de Medicamentos": 74.5,
+        "Realização de Exames": 72.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.6,
+        "Acompanhamento de Hipertensos": 73.8,
+        "Prescrição de Medicamentos": 68.0,
+        "Controle de Pressão Arterial": 69.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.2,
+        "Acompanhamento Regular": 67.6,
+        "Vacinação em Dia": 69.1,
+        "Prevenção de Quedas": 65.1
+      }
+    }
+  },
+  {
+    "Municipio": "ITAPIÚNA",
+    "Estado": "CE",
+    "IBGE": 230650.0,
+    "Desempenho": 79.41176470588235,
+    "Posicao": 100,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 8,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.3,
+        "Acompanhamento de Diabéticos": 71.7,
+        "Prescrição de Medicamentos": 72.8,
+        "Realização de Exames": 64.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 80.0,
+        "Acompanhamento de Hipertensos": 73.7,
+        "Prescrição de Medicamentos": 67.8,
+        "Controle de Pressão Arterial": 72.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.7,
+        "Acompanhamento Regular": 72.3,
+        "Vacinação em Dia": 75.8,
+        "Prevenção de Quedas": 63.7
+      }
+    }
+  },
+  {
+    "Municipio": "ARARIPE",
+    "Estado": "CE",
+    "IBGE": 230130.0,
+    "Desempenho": 79.3103448275862,
+    "Posicao": 101,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 12,
+      "Suficiente": 6,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.7,
+        "Acompanhamento de Diabéticos": 69.6,
+        "Prescrição de Medicamentos": 68.7,
+        "Realização de Exames": 64.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.7,
+        "Acompanhamento de Hipertensos": 70.2,
+        "Prescrição de Medicamentos": 69.1,
+        "Controle de Pressão Arterial": 69.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.6,
+        "Acompanhamento Regular": 70.9,
+        "Vacinação em Dia": 69.1,
+        "Prevenção de Quedas": 63.2
+      }
+    }
+  },
+  {
+    "Municipio": "CEDRO",
+    "Estado": "CE",
+    "IBGE": 230380.0,
+    "Desempenho": 79.26829268292683,
+    "Posicao": 102,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 16,
+      "Suficiente": 9,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.3,
+        "Acompanhamento de Diabéticos": 77.7,
+        "Prescrição de Medicamentos": 66.0,
+        "Realização de Exames": 70.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.5,
+        "Acompanhamento de Hipertensos": 76.6,
+        "Prescrição de Medicamentos": 65.9,
+        "Controle de Pressão Arterial": 70.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.8,
+        "Acompanhamento Regular": 75.7,
+        "Vacinação em Dia": 70.0,
+        "Prevenção de Quedas": 69.4
+      }
+    }
+  },
+  {
+    "Municipio": "GENERAL SAMPAIO",
+    "Estado": "CE",
+    "IBGE": 230460.0,
+    "Desempenho": 79.16666666666666,
+    "Posicao": 103,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 4,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.3,
+        "Acompanhamento de Diabéticos": 72.5,
+        "Prescrição de Medicamentos": 74.4,
+        "Realização de Exames": 67.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.3,
+        "Acompanhamento de Hipertensos": 71.4,
+        "Prescrição de Medicamentos": 65.6,
+        "Controle de Pressão Arterial": 68.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 73.8,
+        "Acompanhamento Regular": 67.7,
+        "Vacinação em Dia": 75.6,
+        "Prevenção de Quedas": 61.3
+      }
+    }
+  },
+  {
+    "Municipio": "MAURITI",
+    "Estado": "CE",
+    "IBGE": 230810.0,
+    "Desempenho": 79.11392405063292,
+    "Posicao": 104,
+    "Detalhes": {
+      "Ótimo": 22,
+      "Bom": 50,
+      "Suficiente": 5,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.3,
+        "Acompanhamento de Diabéticos": 76.8,
+        "Prescrição de Medicamentos": 74.3,
+        "Realização de Exames": 70.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.1,
+        "Acompanhamento de Hipertensos": 75.7,
+        "Prescrição de Medicamentos": 66.6,
+        "Controle de Pressão Arterial": 63.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.1,
+        "Acompanhamento Regular": 68.1,
+        "Vacinação em Dia": 69.9,
+        "Prevenção de Quedas": 68.2
+      }
+    }
+  },
+  {
+    "Municipio": "QUIXERAMOBIM",
+    "Estado": "CE",
+    "IBGE": 231140.0,
+    "Desempenho": 79.0625,
+    "Posicao": 105,
+    "Detalhes": {
+      "Ótimo": 27,
+      "Bom": 40,
+      "Suficiente": 12,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.6,
+        "Acompanhamento de Diabéticos": 68.0,
+        "Prescrição de Medicamentos": 68.2,
+        "Realização de Exames": 67.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.5,
+        "Acompanhamento de Hipertensos": 78.3,
+        "Prescrição de Medicamentos": 72.9,
+        "Controle de Pressão Arterial": 70.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 64.4,
+        "Acompanhamento Regular": 70.7,
+        "Vacinação em Dia": 74.8,
+        "Prevenção de Quedas": 68.4
+      }
+    }
+  },
+  {
+    "Municipio": "LIMOEIRO DO NORTE",
+    "Estado": "CE",
+    "IBGE": 230760.0,
+    "Desempenho": 79.03225806451613,
+    "Posicao": 106,
+    "Detalhes": {
+      "Ótimo": 20,
+      "Bom": 34,
+      "Suficiente": 6,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.8,
+        "Acompanhamento de Diabéticos": 70.4,
+        "Prescrição de Medicamentos": 70.6,
+        "Realização de Exames": 66.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.3,
+        "Acompanhamento de Hipertensos": 75.4,
+        "Prescrição de Medicamentos": 68.2,
+        "Controle de Pressão Arterial": 70.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.0,
+        "Acompanhamento Regular": 72.6,
+        "Vacinação em Dia": 72.2,
+        "Prevenção de Quedas": 61.6
+      }
+    }
+  },
+  {
+    "Municipio": "TIANGUÁ",
+    "Estado": "CE",
+    "IBGE": 231340.0,
+    "Desempenho": 79.0,
+    "Posicao": 107,
+    "Detalhes": {
+      "Ótimo": 22,
+      "Bom": 46,
+      "Suficiente": 4,
+      "Regular": 3
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 79.1,
+        "Acompanhamento de Diabéticos": 69.6,
+        "Prescrição de Medicamentos": 66.2,
+        "Realização de Exames": 67.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.4,
+        "Acompanhamento de Hipertensos": 68.8,
+        "Prescrição de Medicamentos": 67.0,
+        "Controle de Pressão Arterial": 72.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 64.4,
+        "Acompanhamento Regular": 74.8,
+        "Vacinação em Dia": 72.9,
+        "Prevenção de Quedas": 69.9
+      }
+    }
+  },
+  {
+    "Municipio": "ARACATI",
+    "Estado": "CE",
+    "IBGE": 230110.0,
+    "Desempenho": 78.79746835443038,
+    "Posicao": 108,
+    "Detalhes": {
+      "Ótimo": 27,
+      "Bom": 41,
+      "Suficiente": 7,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.9,
+        "Acompanhamento de Diabéticos": 68.9,
+        "Prescrição de Medicamentos": 72.8,
+        "Realização de Exames": 68.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.4,
+        "Acompanhamento de Hipertensos": 77.1,
+        "Prescrição de Medicamentos": 71.5,
+        "Controle de Pressão Arterial": 68.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 65.9,
+        "Acompanhamento Regular": 66.8,
+        "Vacinação em Dia": 70.4,
+        "Prevenção de Quedas": 62.1
+      }
+    }
+  },
+  {
+    "Municipio": "CAPISTRANO",
+    "Estado": "CE",
+    "IBGE": 230290.0,
+    "Desempenho": 78.57142857142857,
+    "Posicao": 109,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 10,
+      "Suficiente": 4,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.9,
+        "Acompanhamento de Diabéticos": 74.8,
+        "Prescrição de Medicamentos": 66.3,
+        "Realização de Exames": 63.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.8,
+        "Acompanhamento de Hipertensos": 76.9,
+        "Prescrição de Medicamentos": 68.9,
+        "Controle de Pressão Arterial": 66.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.2,
+        "Acompanhamento Regular": 71.5,
+        "Vacinação em Dia": 68.2,
+        "Prevenção de Quedas": 66.0
+      }
+    }
+  },
+  {
+    "Municipio": "GRANJEIRO",
+    "Estado": "CE",
+    "IBGE": 230480.0,
+    "Desempenho": 78.57142857142857,
+    "Posicao": 110,
+    "Detalhes": {
+      "Ótimo": 2,
+      "Bom": 4,
+      "Suficiente": 1,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.8,
+        "Acompanhamento de Diabéticos": 67.5,
+        "Prescrição de Medicamentos": 71.0,
+        "Realização de Exames": 63.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.2,
+        "Acompanhamento de Hipertensos": 70.9,
+        "Prescrição de Medicamentos": 65.6,
+        "Controle de Pressão Arterial": 70.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.8,
+        "Acompanhamento Regular": 74.5,
+        "Vacinação em Dia": 72.7,
+        "Prevenção de Quedas": 66.9
+      }
+    }
+  },
+  {
+    "Municipio": "CATUNDA",
+    "Estado": "CE",
+    "IBGE": 230365.0,
+    "Desempenho": 78.33333333333333,
+    "Posicao": 111,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 6,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.9,
+        "Acompanhamento de Diabéticos": 69.3,
+        "Prescrição de Medicamentos": 64.7,
+        "Realização de Exames": 62.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.6,
+        "Acompanhamento de Hipertensos": 76.7,
+        "Prescrição de Medicamentos": 68.5,
+        "Controle de Pressão Arterial": 64.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.8,
+        "Acompanhamento Regular": 74.2,
+        "Vacinação em Dia": 73.4,
+        "Prevenção de Quedas": 67.0
+      }
+    }
+  },
+  {
+    "Municipio": "SANTANA DO CARIRI",
+    "Estado": "CE",
+    "IBGE": 231210.0,
+    "Desempenho": 78.26086956521739,
+    "Posicao": 112,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 9,
+      "Suficiente": 4,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.4,
+        "Acompanhamento de Diabéticos": 75.5,
+        "Prescrição de Medicamentos": 64.4,
+        "Realização de Exames": 69.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 70.2,
+        "Acompanhamento de Hipertensos": 76.8,
+        "Prescrição de Medicamentos": 68.1,
+        "Controle de Pressão Arterial": 71.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.4,
+        "Acompanhamento Regular": 75.3,
+        "Vacinação em Dia": 71.4,
+        "Prevenção de Quedas": 63.5
+      }
+    }
+  },
+  {
+    "Municipio": "BARREIRA",
+    "Estado": "CE",
+    "IBGE": 230195.0,
+    "Desempenho": 77.94117647058823,
+    "Posicao": 113,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 20,
+      "Suficiente": 5,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.6,
+        "Acompanhamento de Diabéticos": 68.9,
+        "Prescrição de Medicamentos": 72.2,
+        "Realização de Exames": 70.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 70.5,
+        "Acompanhamento de Hipertensos": 75.3,
+        "Prescrição de Medicamentos": 70.1,
+        "Controle de Pressão Arterial": 67.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 72.2,
+        "Acompanhamento Regular": 68.2,
+        "Vacinação em Dia": 68.6,
+        "Prevenção de Quedas": 66.4
+      }
+    }
+  },
+  {
+    "Municipio": "SOBRAL",
+    "Estado": "CE",
+    "IBGE": 231290.0,
+    "Desempenho": 77.82805429864254,
+    "Posicao": 114,
+    "Detalhes": {
+      "Ótimo": 82,
+      "Bom": 89,
+      "Suficiente": 43,
+      "Regular": 7
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.9,
+        "Acompanhamento de Diabéticos": 73.0,
+        "Prescrição de Medicamentos": 68.4,
+        "Realização de Exames": 61.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.6,
+        "Acompanhamento de Hipertensos": 75.2,
+        "Prescrição de Medicamentos": 64.6,
+        "Controle de Pressão Arterial": 64.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.4,
+        "Acompanhamento Regular": 74.4,
+        "Vacinação em Dia": 65.9,
+        "Prevenção de Quedas": 64.3
+      }
+    }
+  },
+  {
+    "Municipio": "ARATUBA",
+    "Estado": "CE",
+    "IBGE": 230140.0,
+    "Desempenho": 77.77777777777779,
+    "Posicao": 115,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 12,
+      "Suficiente": 2,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.9,
+        "Acompanhamento de Diabéticos": 76.5,
+        "Prescrição de Medicamentos": 70.5,
+        "Realização de Exames": 63.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.0,
+        "Acompanhamento de Hipertensos": 76.4,
+        "Prescrição de Medicamentos": 72.0,
+        "Controle de Pressão Arterial": 71.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.4,
+        "Acompanhamento Regular": 73.1,
+        "Vacinação em Dia": 69.2,
+        "Prevenção de Quedas": 64.4
+      }
+    }
+  },
+  {
+    "Municipio": "CRATO",
+    "Estado": "CE",
+    "IBGE": 230420.0,
+    "Desempenho": 77.64227642276423,
+    "Posicao": 116,
+    "Detalhes": {
+      "Ótimo": 31,
+      "Bom": 76,
+      "Suficiente": 14,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.1,
+        "Acompanhamento de Diabéticos": 70.8,
+        "Prescrição de Medicamentos": 71.6,
+        "Realização de Exames": 67.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.4,
+        "Acompanhamento de Hipertensos": 76.4,
+        "Prescrição de Medicamentos": 66.0,
+        "Controle de Pressão Arterial": 71.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.1,
+        "Acompanhamento Regular": 67.4,
+        "Vacinação em Dia": 69.3,
+        "Prevenção de Quedas": 64.9
+      }
+    }
+  },
+  {
+    "Municipio": "APUIARÉS",
+    "Estado": "CE",
+    "IBGE": 230090.0,
+    "Desempenho": 77.63157894736842,
+    "Posicao": 117,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 11,
+      "Suficiente": 3,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.7,
+        "Acompanhamento de Diabéticos": 67.2,
+        "Prescrição de Medicamentos": 67.0,
+        "Realização de Exames": 69.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.9,
+        "Acompanhamento de Hipertensos": 70.1,
+        "Prescrição de Medicamentos": 71.2,
+        "Controle de Pressão Arterial": 70.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.0,
+        "Acompanhamento Regular": 70.6,
+        "Vacinação em Dia": 70.8,
+        "Prevenção de Quedas": 61.6
+      }
+    }
+  },
+  {
+    "Municipio": "EUSÉBIO",
+    "Estado": "CE",
+    "IBGE": 230428.0,
+    "Desempenho": 77.61627906976744,
+    "Posicao": 118,
+    "Detalhes": {
+      "Ótimo": 36,
+      "Bom": 28,
+      "Suficiente": 17,
+      "Regular": 5
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.5,
+        "Acompanhamento de Diabéticos": 70.2,
+        "Prescrição de Medicamentos": 63.6,
+        "Realização de Exames": 67.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.2,
+        "Acompanhamento de Hipertensos": 70.8,
+        "Prescrição de Medicamentos": 73.0,
+        "Controle de Pressão Arterial": 67.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.3,
+        "Acompanhamento Regular": 74.2,
+        "Vacinação em Dia": 73.5,
+        "Prevenção de Quedas": 64.8
+      }
+    }
+  },
+  {
+    "Municipio": "CARIDADE",
+    "Estado": "CE",
+    "IBGE": 230300.0,
+    "Desempenho": 77.38095238095238,
+    "Posicao": 119,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 10,
+      "Suficiente": 3,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 78.3,
+        "Acompanhamento de Diabéticos": 67.2,
+        "Prescrição de Medicamentos": 71.3,
+        "Realização de Exames": 61.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 79.2,
+        "Acompanhamento de Hipertensos": 74.6,
+        "Prescrição de Medicamentos": 66.0,
+        "Controle de Pressão Arterial": 68.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.9,
+        "Acompanhamento Regular": 71.4,
+        "Vacinação em Dia": 68.7,
+        "Prevenção de Quedas": 66.1
+      }
+    }
+  },
+  {
+    "Municipio": "TURURU",
+    "Estado": "CE",
+    "IBGE": 231355.0,
+    "Desempenho": 77.27272727272727,
+    "Posicao": 120,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 9,
+      "Suficiente": 4,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.9,
+        "Acompanhamento de Diabéticos": 75.3,
+        "Prescrição de Medicamentos": 65.9,
+        "Realização de Exames": 61.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.1,
+        "Acompanhamento de Hipertensos": 69.0,
+        "Prescrição de Medicamentos": 63.8,
+        "Controle de Pressão Arterial": 67.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 70.6,
+        "Acompanhamento Regular": 68.5,
+        "Vacinação em Dia": 69.1,
+        "Prevenção de Quedas": 64.3
+      }
+    }
+  },
+  {
+    "Municipio": "AURORA",
+    "Estado": "CE",
+    "IBGE": 230170.0,
+    "Desempenho": 77.20588235294117,
+    "Posicao": 121,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 19,
+      "Suficiente": 3,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.1,
+        "Acompanhamento de Diabéticos": 67.8,
+        "Prescrição de Medicamentos": 65.2,
+        "Realização de Exames": 61.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 78.3,
+        "Acompanhamento de Hipertensos": 73.0,
+        "Prescrição de Medicamentos": 64.7,
+        "Controle de Pressão Arterial": 69.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 69.6,
+        "Acompanhamento Regular": 67.0,
+        "Vacinação em Dia": 72.4,
+        "Prevenção de Quedas": 62.0
+      }
+    }
+  },
+  {
+    "Municipio": "MUCAMBO",
+    "Estado": "CE",
+    "IBGE": 230900.0,
+    "Desempenho": 77.17391304347827,
+    "Posicao": 122,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 9,
+      "Suficiente": 0,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.1,
+        "Acompanhamento de Diabéticos": 75.4,
+        "Prescrição de Medicamentos": 67.7,
+        "Realização de Exames": 62.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 69.6,
+        "Acompanhamento de Hipertensos": 69.4,
+        "Prescrição de Medicamentos": 73.0,
+        "Controle de Pressão Arterial": 68.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.4,
+        "Acompanhamento Regular": 73.2,
+        "Vacinação em Dia": 74.3,
+        "Prevenção de Quedas": 62.9
+      }
+    }
+  },
+  {
+    "Municipio": "ITATIRA",
+    "Estado": "CE",
+    "IBGE": 230660.0,
+    "Desempenho": 77.14285714285715,
+    "Posicao": 123,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 14,
+      "Suficiente": 9,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.2,
+        "Acompanhamento de Diabéticos": 70.2,
+        "Prescrição de Medicamentos": 66.4,
+        "Realização de Exames": 67.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.2,
+        "Acompanhamento de Hipertensos": 67.6,
+        "Prescrição de Medicamentos": 68.3,
+        "Controle de Pressão Arterial": 70.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.3,
+        "Acompanhamento Regular": 69.5,
+        "Vacinação em Dia": 71.7,
+        "Prevenção de Quedas": 67.2
+      }
+    }
+  },
+  {
+    "Municipio": "JUAZEIRO DO NORTE",
+    "Estado": "CE",
+    "IBGE": 230730.0,
+    "Desempenho": 76.92307692307693,
+    "Posicao": 124,
+    "Detalhes": {
+      "Ótimo": 57,
+      "Bom": 160,
+      "Suficiente": 22,
+      "Regular": 8
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.9,
+        "Acompanhamento de Diabéticos": 70.2,
+        "Prescrição de Medicamentos": 69.0,
+        "Realização de Exames": 62.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.3,
+        "Acompanhamento de Hipertensos": 71.6,
+        "Prescrição de Medicamentos": 68.3,
+        "Controle de Pressão Arterial": 70.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.5,
+        "Acompanhamento Regular": 73.2,
+        "Vacinação em Dia": 70.7,
+        "Prevenção de Quedas": 63.4
+      }
+    }
+  },
+  {
+    "Municipio": "SANTA QUITÉRIA",
+    "Estado": "CE",
+    "IBGE": 231220.0,
+    "Desempenho": 76.92307692307693,
+    "Posicao": 125,
+    "Detalhes": {
+      "Ótimo": 12,
+      "Bom": 34,
+      "Suficiente": 4,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 77.3,
+        "Acompanhamento de Diabéticos": 70.9,
+        "Prescrição de Medicamentos": 62.8,
+        "Realização de Exames": 69.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.2,
+        "Acompanhamento de Hipertensos": 68.8,
+        "Prescrição de Medicamentos": 71.5,
+        "Controle de Pressão Arterial": 65.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.6,
+        "Acompanhamento Regular": 67.5,
+        "Vacinação em Dia": 69.3,
+        "Prevenção de Quedas": 65.5
+      }
+    }
+  },
+  {
+    "Municipio": "CAMOCIM",
+    "Estado": "CE",
+    "IBGE": 230260.0,
+    "Desempenho": 76.66666666666667,
+    "Posicao": 126,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 38,
+      "Suficiente": 6,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.7,
+        "Acompanhamento de Diabéticos": 67.8,
+        "Prescrição de Medicamentos": 68.8,
+        "Realização de Exames": 64.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.1,
+        "Acompanhamento de Hipertensos": 67.7,
+        "Prescrição de Medicamentos": 72.4,
+        "Controle de Pressão Arterial": 67.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.7,
+        "Acompanhamento Regular": 73.4,
+        "Vacinação em Dia": 66.6,
+        "Prevenção de Quedas": 59.2
+      }
+    }
+  },
+  {
+    "Municipio": "SÃO GONÇALO DO AMARANTE",
+    "Estado": "CE",
+    "IBGE": 231240.0,
+    "Desempenho": 76.58227848101265,
+    "Posicao": 127,
+    "Detalhes": {
+      "Ótimo": 25,
+      "Bom": 40,
+      "Suficiente": 8,
+      "Regular": 6
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.6,
+        "Acompanhamento de Diabéticos": 72.5,
+        "Prescrição de Medicamentos": 62.4,
+        "Realização de Exames": 60.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.2,
+        "Acompanhamento de Hipertensos": 76.2,
+        "Prescrição de Medicamentos": 73.0,
+        "Controle de Pressão Arterial": 63.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.6,
+        "Acompanhamento Regular": 65.5,
+        "Vacinação em Dia": 72.1,
+        "Prevenção de Quedas": 62.8
+      }
+    }
+  },
+  {
+    "Municipio": "ABAIARA",
+    "Estado": "CE",
+    "IBGE": 230010.0,
+    "Desempenho": 76.5625,
+    "Posicao": 128,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 7,
+      "Suficiente": 4,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.6,
+        "Acompanhamento de Diabéticos": 69.1,
+        "Prescrição de Medicamentos": 71.9,
+        "Realização de Exames": 67.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.2,
+        "Acompanhamento de Hipertensos": 66.7,
+        "Prescrição de Medicamentos": 69.7,
+        "Controle de Pressão Arterial": 62.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 71.5,
+        "Acompanhamento Regular": 64.9,
+        "Vacinação em Dia": 65.8,
+        "Prevenção de Quedas": 64.5
+      }
+    }
+  },
+  {
+    "Municipio": "BREJO SANTO",
+    "Estado": "CE",
+    "IBGE": 230250.0,
+    "Desempenho": 76.47058823529412,
+    "Posicao": 129,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 44,
+      "Suficiente": 10,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.2,
+        "Acompanhamento de Diabéticos": 74.3,
+        "Prescrição de Medicamentos": 71.8,
+        "Realização de Exames": 65.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.5,
+        "Acompanhamento de Hipertensos": 66.9,
+        "Prescrição de Medicamentos": 69.4,
+        "Controle de Pressão Arterial": 68.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.5,
+        "Acompanhamento Regular": 64.3,
+        "Vacinação em Dia": 67.9,
+        "Prevenção de Quedas": 63.2
+      }
+    }
+  },
+  {
+    "Municipio": "GUARACIABA DO NORTE",
+    "Estado": "CE",
+    "IBGE": 230500.0,
+    "Desempenho": 76.38888888888889,
+    "Posicao": 130,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 29,
+      "Suficiente": 8,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.7,
+        "Acompanhamento de Diabéticos": 71.8,
+        "Prescrição de Medicamentos": 63.3,
+        "Realização de Exames": 69.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.5,
+        "Acompanhamento de Hipertensos": 66.2,
+        "Prescrição de Medicamentos": 64.7,
+        "Controle de Pressão Arterial": 66.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.7,
+        "Acompanhamento Regular": 69.4,
+        "Vacinação em Dia": 69.0,
+        "Prevenção de Quedas": 64.7
+      }
+    }
+  },
+  {
+    "Municipio": "ICÓ",
+    "Estado": "CE",
+    "IBGE": 230540.0,
+    "Desempenho": 76.31578947368422,
+    "Posicao": 131,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 32,
+      "Suficiente": 8,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.4,
+        "Acompanhamento de Diabéticos": 69.7,
+        "Prescrição de Medicamentos": 64.0,
+        "Realização de Exames": 68.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.0,
+        "Acompanhamento de Hipertensos": 68.2,
+        "Prescrição de Medicamentos": 66.5,
+        "Controle de Pressão Arterial": 61.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.2,
+        "Acompanhamento Regular": 65.9,
+        "Vacinação em Dia": 65.1,
+        "Prevenção de Quedas": 59.3
+      }
+    }
+  },
+  {
+    "Municipio": "CARIRIAÇU",
+    "Estado": "CE",
+    "IBGE": 230320.0,
+    "Desempenho": 76.25,
+    "Posicao": 132,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 21,
+      "Suficiente": 1,
+      "Regular": 5
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.9,
+        "Acompanhamento de Diabéticos": 69.4,
+        "Prescrição de Medicamentos": 66.0,
+        "Realização de Exames": 65.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.7,
+        "Acompanhamento de Hipertensos": 74.9,
+        "Prescrição de Medicamentos": 72.7,
+        "Controle de Pressão Arterial": 65.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.5,
+        "Acompanhamento Regular": 63.8,
+        "Vacinação em Dia": 71.0,
+        "Prevenção de Quedas": 61.4
+      }
+    }
+  },
+  {
+    "Municipio": "CARIÚS",
+    "Estado": "CE",
+    "IBGE": 230330.0,
+    "Desempenho": 76.08695652173914,
+    "Posicao": 133,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 9,
+      "Suficiente": 5,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 75.2,
+        "Acompanhamento de Diabéticos": 70.0,
+        "Prescrição de Medicamentos": 71.7,
+        "Realização de Exames": 67.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 70.6,
+        "Acompanhamento de Hipertensos": 75.3,
+        "Prescrição de Medicamentos": 70.6,
+        "Controle de Pressão Arterial": 62.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.7,
+        "Acompanhamento Regular": 71.9,
+        "Vacinação em Dia": 69.4,
+        "Prevenção de Quedas": 66.3
+      }
+    }
+  },
+  {
+    "Municipio": "MARACANAÚ",
+    "Estado": "CE",
+    "IBGE": 230765.0,
+    "Desempenho": 75.97087378640776,
+    "Posicao": 134,
+    "Detalhes": {
+      "Ótimo": 62,
+      "Bom": 95,
+      "Suficiente": 44,
+      "Regular": 5
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.9,
+        "Acompanhamento de Diabéticos": 67.2,
+        "Prescrição de Medicamentos": 64.8,
+        "Realização de Exames": 68.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.7,
+        "Acompanhamento de Hipertensos": 67.7,
+        "Prescrição de Medicamentos": 69.8,
+        "Controle de Pressão Arterial": 65.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.4,
+        "Acompanhamento Regular": 65.7,
+        "Vacinação em Dia": 65.5,
+        "Prevenção de Quedas": 59.8
+      }
+    }
+  },
+  {
+    "Municipio": "ACOPIARA",
+    "Estado": "CE",
+    "IBGE": 230030.0,
+    "Desempenho": 75.9090909090909,
+    "Posicao": 135,
+    "Detalhes": {
+      "Ótimo": 17,
+      "Bom": 27,
+      "Suficiente": 7,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.6,
+        "Acompanhamento de Diabéticos": 71.4,
+        "Prescrição de Medicamentos": 63.8,
+        "Realização de Exames": 61.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.8,
+        "Acompanhamento de Hipertensos": 67.5,
+        "Prescrição de Medicamentos": 68.5,
+        "Controle de Pressão Arterial": 63.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.5,
+        "Acompanhamento Regular": 68.6,
+        "Vacinação em Dia": 65.3,
+        "Prevenção de Quedas": 60.0
+      }
+    }
+  },
+  {
+    "Municipio": "ITAPIPOCA",
+    "Estado": "CE",
+    "IBGE": 230640.0,
+    "Desempenho": 75.90579710144928,
+    "Posicao": 136,
+    "Detalhes": {
+      "Ótimo": 36,
+      "Bom": 78,
+      "Suficiente": 17,
+      "Regular": 7
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.7,
+        "Acompanhamento de Diabéticos": 70.3,
+        "Prescrição de Medicamentos": 61.9,
+        "Realização de Exames": 64.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.9,
+        "Acompanhamento de Hipertensos": 68.7,
+        "Prescrição de Medicamentos": 67.9,
+        "Controle de Pressão Arterial": 69.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.6,
+        "Acompanhamento Regular": 72.4,
+        "Vacinação em Dia": 65.7,
+        "Prevenção de Quedas": 59.7
+      }
+    }
+  },
+  {
+    "Municipio": "JUCÁS",
+    "Estado": "CE",
+    "IBGE": 230740.0,
+    "Desempenho": 75.78125,
+    "Posicao": 137,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 14,
+      "Suficiente": 4,
+      "Regular": 3
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.5,
+        "Acompanhamento de Diabéticos": 73.9,
+        "Prescrição de Medicamentos": 67.9,
+        "Realização de Exames": 60.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.9,
+        "Acompanhamento de Hipertensos": 72.9,
+        "Prescrição de Medicamentos": 71.0,
+        "Controle de Pressão Arterial": 62.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.6,
+        "Acompanhamento Regular": 66.2,
+        "Vacinação em Dia": 70.3,
+        "Prevenção de Quedas": 67.0
+      }
+    }
+  },
+  {
+    "Municipio": "NOVO ORIENTE",
+    "Estado": "CE",
+    "IBGE": 230940.0,
+    "Desempenho": 75.71428571428571,
+    "Posicao": 138,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 18,
+      "Suficiente": 8,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.9,
+        "Acompanhamento de Diabéticos": 68.7,
+        "Prescrição de Medicamentos": 66.0,
+        "Realização de Exames": 60.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.9,
+        "Acompanhamento de Hipertensos": 70.2,
+        "Prescrição de Medicamentos": 63.9,
+        "Controle de Pressão Arterial": 68.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 64.9,
+        "Acompanhamento Regular": 63.2,
+        "Vacinação em Dia": 70.3,
+        "Prevenção de Quedas": 66.4
+      }
+    }
+  },
+  {
+    "Municipio": "PENTECOSTE",
+    "Estado": "CE",
+    "IBGE": 231070.0,
+    "Desempenho": 75.54347826086956,
+    "Posicao": 139,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 25,
+      "Suficiente": 10,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.7,
+        "Acompanhamento de Diabéticos": 69.7,
+        "Prescrição de Medicamentos": 67.0,
+        "Realização de Exames": 67.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 69.4,
+        "Acompanhamento de Hipertensos": 74.1,
+        "Prescrição de Medicamentos": 67.2,
+        "Controle de Pressão Arterial": 67.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.6,
+        "Acompanhamento Regular": 68.3,
+        "Vacinação em Dia": 71.7,
+        "Prevenção de Quedas": 58.3
+      }
+    }
+  },
+  {
+    "Municipio": "ITAREMA",
+    "Estado": "CE",
+    "IBGE": 230655.0,
+    "Desempenho": 75.49019607843137,
+    "Posicao": 140,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 30,
+      "Suficiente": 10,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 76.6,
+        "Acompanhamento de Diabéticos": 65.6,
+        "Prescrição de Medicamentos": 64.5,
+        "Realização de Exames": 66.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 69.9,
+        "Acompanhamento de Hipertensos": 65.7,
+        "Prescrição de Medicamentos": 71.5,
+        "Controle de Pressão Arterial": 66.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.7,
+        "Acompanhamento Regular": 69.6,
+        "Vacinação em Dia": 69.1,
+        "Prevenção de Quedas": 65.1
+      }
+    }
+  },
+  {
+    "Municipio": "ACARAPE",
+    "Estado": "CE",
+    "IBGE": 230015.0,
+    "Desempenho": 75.0,
+    "Posicao": 141,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 13,
+      "Suficiente": 4,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 74.1,
+        "Acompanhamento de Diabéticos": 71.5,
+        "Prescrição de Medicamentos": 70.9,
+        "Realização de Exames": 64.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.6,
+        "Acompanhamento de Hipertensos": 74.1,
+        "Prescrição de Medicamentos": 66.3,
+        "Controle de Pressão Arterial": 65.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.4,
+        "Acompanhamento Regular": 62.7,
+        "Vacinação em Dia": 70.7,
+        "Prevenção de Quedas": 62.5
+      }
+    }
+  },
+  {
+    "Municipio": "PACOTI",
+    "Estado": "CE",
+    "IBGE": 230980.0,
+    "Desempenho": 75.0,
+    "Posicao": 142,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 9,
+      "Suficiente": 3,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.6,
+        "Acompanhamento de Diabéticos": 70.9,
+        "Prescrição de Medicamentos": 61.6,
+        "Realização de Exames": 60.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.4,
+        "Acompanhamento de Hipertensos": 69.0,
+        "Prescrição de Medicamentos": 62.9,
+        "Controle de Pressão Arterial": 61.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 60.9,
+        "Acompanhamento Regular": 69.9,
+        "Vacinação em Dia": 69.2,
+        "Prevenção de Quedas": 63.3
+      }
+    }
+  },
+  {
+    "Municipio": "PENAFORTE",
+    "Estado": "CE",
+    "IBGE": 231060.0,
+    "Desempenho": 75.0,
+    "Posicao": 143,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 8,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.6,
+        "Acompanhamento de Diabéticos": 64.7,
+        "Prescrição de Medicamentos": 63.7,
+        "Realização de Exames": 61.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 77.0,
+        "Acompanhamento de Hipertensos": 73.6,
+        "Prescrição de Medicamentos": 65.8,
+        "Controle de Pressão Arterial": 69.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.8,
+        "Acompanhamento Regular": 68.3,
+        "Vacinação em Dia": 69.3,
+        "Prevenção de Quedas": 63.4
+      }
+    }
+  },
+  {
+    "Municipio": "QUIXADÁ",
+    "Estado": "CE",
+    "IBGE": 231130.0,
+    "Desempenho": 74.63768115942028,
+    "Posicao": 144,
+    "Detalhes": {
+      "Ótimo": 15,
+      "Bom": 39,
+      "Suficiente": 14,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 69.1,
+        "Acompanhamento de Diabéticos": 65.9,
+        "Prescrição de Medicamentos": 61.1,
+        "Realização de Exames": 61.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.7,
+        "Acompanhamento de Hipertensos": 67.9,
+        "Prescrição de Medicamentos": 70.7,
+        "Controle de Pressão Arterial": 63.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.2,
+        "Acompanhamento Regular": 62.2,
+        "Vacinação em Dia": 69.4,
+        "Prevenção de Quedas": 61.2
+      }
+    }
+  },
+  {
+    "Municipio": "PACAJUS",
+    "Estado": "CE",
+    "IBGE": 230960.0,
+    "Desempenho": 74.60317460317461,
+    "Posicao": 145,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 38,
+      "Suficiente": 7,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 66.1,
+        "Acompanhamento de Diabéticos": 73.2,
+        "Prescrição de Medicamentos": 65.5,
+        "Realização de Exames": 61.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 76.3,
+        "Acompanhamento de Hipertensos": 72.4,
+        "Prescrição de Medicamentos": 64.7,
+        "Controle de Pressão Arterial": 67.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.1,
+        "Acompanhamento Regular": 65.4,
+        "Vacinação em Dia": 64.4,
+        "Prevenção de Quedas": 65.6
+      }
+    }
+  },
+  {
+    "Municipio": "ITAPAGÉ",
+    "Estado": "CE",
+    "IBGE": 230630.0,
+    "Desempenho": 74.375,
+    "Posicao": 146,
+    "Detalhes": {
+      "Ótimo": 21,
+      "Bom": 39,
+      "Suficiente": 17,
+      "Regular": 3
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.5,
+        "Acompanhamento de Diabéticos": 68.5,
+        "Prescrição de Medicamentos": 69.0,
+        "Realização de Exames": 61.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.1,
+        "Acompanhamento de Hipertensos": 69.4,
+        "Prescrição de Medicamentos": 69.9,
+        "Controle de Pressão Arterial": 66.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.0,
+        "Acompanhamento Regular": 66.7,
+        "Vacinação em Dia": 64.6,
+        "Prevenção de Quedas": 58.7
+      }
+    }
+  },
+  {
+    "Municipio": "TAUÁ",
+    "Estado": "CE",
+    "IBGE": 231330.0,
+    "Desempenho": 74.35064935064936,
+    "Posicao": 147,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 47,
+      "Suficiente": 10,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.7,
+        "Acompanhamento de Diabéticos": 71.4,
+        "Prescrição de Medicamentos": 61.5,
+        "Realização de Exames": 65.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.2,
+        "Acompanhamento de Hipertensos": 70.3,
+        "Prescrição de Medicamentos": 63.8,
+        "Controle de Pressão Arterial": 63.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.2,
+        "Acompanhamento Regular": 69.8,
+        "Vacinação em Dia": 71.9,
+        "Prevenção de Quedas": 58.2
+      }
+    }
+  },
+  {
+    "Municipio": "CHOROZINHO",
+    "Estado": "CE",
+    "IBGE": 230395.0,
+    "Desempenho": 74.16666666666667,
+    "Posicao": 148,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 16,
+      "Suficiente": 6,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 65.6,
+        "Acompanhamento de Diabéticos": 67.5,
+        "Prescrição de Medicamentos": 66.1,
+        "Realização de Exames": 67.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.2,
+        "Acompanhamento de Hipertensos": 73.0,
+        "Prescrição de Medicamentos": 69.4,
+        "Controle de Pressão Arterial": 62.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.4,
+        "Acompanhamento Regular": 69.1,
+        "Vacinação em Dia": 66.4,
+        "Prevenção de Quedas": 57.7
+      }
+    }
+  },
+  {
+    "Municipio": "TEJUÇUOCA",
+    "Estado": "CE",
+    "IBGE": 231335.0,
+    "Desempenho": 74.16666666666667,
+    "Posicao": 149,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 17,
+      "Suficiente": 7,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 68.3,
+        "Acompanhamento de Diabéticos": 63.7,
+        "Prescrição de Medicamentos": 67.9,
+        "Realização de Exames": 66.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 66.8,
+        "Acompanhamento de Hipertensos": 69.2,
+        "Prescrição de Medicamentos": 64.6,
+        "Controle de Pressão Arterial": 67.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 65.8,
+        "Acompanhamento Regular": 68.8,
+        "Vacinação em Dia": 64.4,
+        "Prevenção de Quedas": 65.8
+      }
+    }
+  },
+  {
+    "Municipio": "FORQUILHA",
+    "Estado": "CE",
+    "IBGE": 230435.0,
+    "Desempenho": 74.07407407407408,
+    "Posicao": 150,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 12,
+      "Suficiente": 8,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.4,
+        "Acompanhamento de Diabéticos": 63.7,
+        "Prescrição de Medicamentos": 64.7,
+        "Realização de Exames": 66.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.7,
+        "Acompanhamento de Hipertensos": 71.4,
+        "Prescrição de Medicamentos": 70.5,
+        "Controle de Pressão Arterial": 60.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 65.3,
+        "Acompanhamento Regular": 62.7,
+        "Vacinação em Dia": 70.2,
+        "Prevenção de Quedas": 60.8
+      }
+    }
+  },
+  {
+    "Municipio": "ITAITINGA",
+    "Estado": "CE",
+    "IBGE": 230625.0,
+    "Desempenho": 74.0,
+    "Posicao": 151,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 25,
+      "Suficiente": 6,
+      "Regular": 5
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.5,
+        "Acompanhamento de Diabéticos": 64.5,
+        "Prescrição de Medicamentos": 63.1,
+        "Realização de Exames": 63.8
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.9,
+        "Acompanhamento de Hipertensos": 69.0,
+        "Prescrição de Medicamentos": 66.8,
+        "Controle de Pressão Arterial": 63.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.9,
+        "Acompanhamento Regular": 69.7,
+        "Vacinação em Dia": 66.8,
+        "Prevenção de Quedas": 60.4
+      }
+    }
+  },
+  {
+    "Municipio": "BATURITÉ",
+    "Estado": "CE",
+    "IBGE": 230210.0,
+    "Desempenho": 73.91304347826086,
+    "Posicao": 152,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 29,
+      "Suficiente": 8,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 65.6,
+        "Acompanhamento de Diabéticos": 64.0,
+        "Prescrição de Medicamentos": 64.8,
+        "Realização de Exames": 59.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.7,
+        "Acompanhamento de Hipertensos": 64.2,
+        "Prescrição de Medicamentos": 61.8,
+        "Controle de Pressão Arterial": 67.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 60.2,
+        "Acompanhamento Regular": 69.2,
+        "Vacinação em Dia": 64.5,
+        "Prevenção de Quedas": 63.6
+      }
+    }
+  },
+  {
+    "Municipio": "IPUEIRAS",
+    "Estado": "CE",
+    "IBGE": 230590.0,
+    "Desempenho": 73.91304347826086,
+    "Posicao": 153,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 30,
+      "Suficiente": 6,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 68.0,
+        "Acompanhamento de Diabéticos": 63.7,
+        "Prescrição de Medicamentos": 68.6,
+        "Realização de Exames": 61.7
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.4,
+        "Acompanhamento de Hipertensos": 65.5,
+        "Prescrição de Medicamentos": 65.4,
+        "Controle de Pressão Arterial": 62.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 59.7,
+        "Acompanhamento Regular": 68.9,
+        "Vacinação em Dia": 69.9,
+        "Prevenção de Quedas": 59.7
+      }
+    }
+  },
+  {
+    "Municipio": "SABOEIRO",
+    "Estado": "CE",
+    "IBGE": 231190.0,
+    "Desempenho": 73.86363636363636,
+    "Posicao": 154,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 11,
+      "Suficiente": 6,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.1,
+        "Acompanhamento de Diabéticos": 72.3,
+        "Prescrição de Medicamentos": 63.3,
+        "Realização de Exames": 58.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 75.0,
+        "Acompanhamento de Hipertensos": 67.1,
+        "Prescrição de Medicamentos": 68.5,
+        "Controle de Pressão Arterial": 68.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.0,
+        "Acompanhamento Regular": 68.1,
+        "Vacinação em Dia": 63.3,
+        "Prevenção de Quedas": 64.4
+      }
+    }
+  },
+  {
+    "Municipio": "BOA VIAGEM",
+    "Estado": "CE",
+    "IBGE": 230240.0,
+    "Desempenho": 73.80952380952381,
+    "Posicao": 155,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 34,
+      "Suficiente": 13,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.4,
+        "Acompanhamento de Diabéticos": 64.1,
+        "Prescrição de Medicamentos": 63.6,
+        "Realização de Exames": 65.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 71.7,
+        "Acompanhamento de Hipertensos": 68.6,
+        "Prescrição de Medicamentos": 67.8,
+        "Controle de Pressão Arterial": 63.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.6,
+        "Acompanhamento Regular": 67.6,
+        "Vacinação em Dia": 66.6,
+        "Prevenção de Quedas": 66.0
+      }
+    }
+  },
+  {
+    "Municipio": "PARACURU",
+    "Estado": "CE",
+    "IBGE": 231020.0,
+    "Desempenho": 73.33333333333333,
+    "Posicao": 156,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 17,
+      "Suficiente": 11,
+      "Regular": 3
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.3,
+        "Acompanhamento de Diabéticos": 62.8,
+        "Prescrição de Medicamentos": 65.9,
+        "Realização de Exames": 58.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 71.8,
+        "Acompanhamento de Hipertensos": 65.0,
+        "Prescrição de Medicamentos": 60.6,
+        "Controle de Pressão Arterial": 66.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 64.5,
+        "Acompanhamento Regular": 64.6,
+        "Vacinação em Dia": 66.0,
+        "Prevenção de Quedas": 56.5
+      }
+    }
+  },
+  {
+    "Municipio": "LAVRAS DA MANGABEIRA",
+    "Estado": "CE",
+    "IBGE": 230750.0,
+    "Desempenho": 73.17073170731707,
+    "Posicao": 157,
+    "Detalhes": {
+      "Ótimo": 11,
+      "Bom": 20,
+      "Suficiente": 6,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.7,
+        "Acompanhamento de Diabéticos": 64.7,
+        "Prescrição de Medicamentos": 67.6,
+        "Realização de Exames": 60.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 71.3,
+        "Acompanhamento de Hipertensos": 66.1,
+        "Prescrição de Medicamentos": 64.7,
+        "Controle de Pressão Arterial": 67.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 58.7,
+        "Acompanhamento Regular": 69.4,
+        "Vacinação em Dia": 63.1,
+        "Prevenção de Quedas": 59.2
+      }
+    }
+  },
+  {
+    "Municipio": "MORAÚJO",
+    "Estado": "CE",
+    "IBGE": 230880.0,
+    "Desempenho": 73.07692307692307,
+    "Posicao": 158,
+    "Detalhes": {
+      "Ótimo": 3,
+      "Bom": 8,
+      "Suficiente": 0,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 65.9,
+        "Acompanhamento de Diabéticos": 67.9,
+        "Prescrição de Medicamentos": 61.4,
+        "Realização de Exames": 57.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.6,
+        "Acompanhamento de Hipertensos": 64.8,
+        "Prescrição de Medicamentos": 64.5,
+        "Controle de Pressão Arterial": 65.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 65.9,
+        "Acompanhamento Regular": 64.7,
+        "Vacinação em Dia": 62.0,
+        "Prevenção de Quedas": 62.3
+      }
+    }
+  },
+  {
+    "Municipio": "MADALENA",
+    "Estado": "CE",
+    "IBGE": 230763.0,
+    "Desempenho": 73.0,
+    "Posicao": 159,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 11,
+      "Suficiente": 8,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 73.2,
+        "Acompanhamento de Diabéticos": 67.2,
+        "Prescrição de Medicamentos": 65.2,
+        "Realização de Exames": 59.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 66.7,
+        "Acompanhamento de Hipertensos": 72.8,
+        "Prescrição de Medicamentos": 64.6,
+        "Controle de Pressão Arterial": 59.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 68.0,
+        "Acompanhamento Regular": 64.3,
+        "Vacinação em Dia": 68.1,
+        "Prevenção de Quedas": 58.3
+      }
+    }
+  },
+  {
+    "Municipio": "PACATUBA",
+    "Estado": "CE",
+    "IBGE": 230970.0,
+    "Desempenho": 72.8125,
+    "Posicao": 160,
+    "Detalhes": {
+      "Ótimo": 16,
+      "Bom": 43,
+      "Suficiente": 19,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 66.6,
+        "Acompanhamento de Diabéticos": 67.7,
+        "Prescrição de Medicamentos": 63.8,
+        "Realização de Exames": 59.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 67.8,
+        "Acompanhamento de Hipertensos": 71.2,
+        "Prescrição de Medicamentos": 69.5,
+        "Controle de Pressão Arterial": 59.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.9,
+        "Acompanhamento Regular": 65.0,
+        "Vacinação em Dia": 65.7,
+        "Prevenção de Quedas": 56.3
+      }
+    }
+  },
+  {
+    "Municipio": "MONSENHOR TABOSA",
+    "Estado": "CE",
+    "IBGE": 230860.0,
+    "Desempenho": 72.72727272727273,
+    "Posicao": 161,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 9,
+      "Suficiente": 6,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 72.1,
+        "Acompanhamento de Diabéticos": 68.4,
+        "Prescrição de Medicamentos": 68.8,
+        "Realização de Exames": 65.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 73.6,
+        "Acompanhamento de Hipertensos": 64.2,
+        "Prescrição de Medicamentos": 66.1,
+        "Controle de Pressão Arterial": 63.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.7,
+        "Acompanhamento Regular": 67.4,
+        "Vacinação em Dia": 65.0,
+        "Prevenção de Quedas": 64.1
+      }
+    }
+  },
+  {
+    "Municipio": "OCARA",
+    "Estado": "CE",
+    "IBGE": 230945.0,
+    "Desempenho": 72.5,
+    "Posicao": 162,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 26,
+      "Suficiente": 9,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 71.0,
+        "Acompanhamento de Diabéticos": 67.7,
+        "Prescrição de Medicamentos": 63.3,
+        "Realização de Exames": 62.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 67.4,
+        "Acompanhamento de Hipertensos": 66.0,
+        "Prescrição de Medicamentos": 61.4,
+        "Controle de Pressão Arterial": 66.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 58.6,
+        "Acompanhamento Regular": 69.7,
+        "Vacinação em Dia": 63.6,
+        "Prevenção de Quedas": 57.7
+      }
+    }
+  },
+  {
+    "Municipio": "POTIRETAMA",
+    "Estado": "CE",
+    "IBGE": 231123.0,
+    "Desempenho": 72.5,
+    "Posicao": 163,
+    "Detalhes": {
+      "Ótimo": 3,
+      "Bom": 4,
+      "Suficiente": 2,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 70.6,
+        "Acompanhamento de Diabéticos": 63.4,
+        "Prescrição de Medicamentos": 62.4,
+        "Realização de Exames": 64.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.0,
+        "Acompanhamento de Hipertensos": 68.2,
+        "Prescrição de Medicamentos": 67.2,
+        "Controle de Pressão Arterial": 66.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.8,
+        "Acompanhamento Regular": 65.7,
+        "Vacinação em Dia": 65.5,
+        "Prevenção de Quedas": 63.8
+      }
+    }
+  },
+  {
+    "Municipio": "CAMPOS SALES",
+    "Estado": "CE",
+    "IBGE": 230270.0,
+    "Desempenho": 72.2972972972973,
+    "Posicao": 164,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 19,
+      "Suficiente": 8,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 69.7,
+        "Acompanhamento de Diabéticos": 69.7,
+        "Prescrição de Medicamentos": 59.5,
+        "Realização de Exames": 61.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 74.0,
+        "Acompanhamento de Hipertensos": 65.8,
+        "Prescrição de Medicamentos": 62.1,
+        "Controle de Pressão Arterial": 66.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 60.7,
+        "Acompanhamento Regular": 62.6,
+        "Vacinação em Dia": 68.7,
+        "Prevenção de Quedas": 62.1
+      }
+    }
+  },
+  {
+    "Municipio": "CASCAVEL",
+    "Estado": "CE",
+    "IBGE": 230350.0,
+    "Desempenho": 72.0,
+    "Posicao": 165,
+    "Detalhes": {
+      "Ótimo": 17,
+      "Bom": 39,
+      "Suficiente": 12,
+      "Regular": 7
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.5,
+        "Acompanhamento de Diabéticos": 69.1,
+        "Prescrição de Medicamentos": 65.6,
+        "Realização de Exames": 63.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 70.1,
+        "Acompanhamento de Hipertensos": 68.9,
+        "Prescrição de Medicamentos": 67.7,
+        "Controle de Pressão Arterial": 59.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 67.2,
+        "Acompanhamento Regular": 64.2,
+        "Vacinação em Dia": 69.4,
+        "Prevenção de Quedas": 63.0
+      }
+    }
+  },
+  {
+    "Municipio": "PALMÁCIA",
+    "Estado": "CE",
+    "IBGE": 231010.0,
+    "Desempenho": 71.875,
+    "Posicao": 166,
+    "Detalhes": {
+      "Ótimo": 3,
+      "Bom": 8,
+      "Suficiente": 5,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 66.0,
+        "Acompanhamento de Diabéticos": 65.4,
+        "Prescrição de Medicamentos": 61.5,
+        "Realização de Exames": 57.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 67.5,
+        "Acompanhamento de Hipertensos": 66.0,
+        "Prescrição de Medicamentos": 59.9,
+        "Controle de Pressão Arterial": 63.3
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.2,
+        "Acompanhamento Regular": 64.7,
+        "Vacinação em Dia": 66.1,
+        "Prevenção de Quedas": 56.4
+      }
+    }
+  },
+  {
+    "Municipio": "TRAIRI",
+    "Estado": "CE",
+    "IBGE": 231350.0,
+    "Desempenho": 71.53846153846153,
+    "Posicao": 167,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 40,
+      "Suficiente": 17,
+      "Regular": 0
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.7,
+        "Acompanhamento de Diabéticos": 63.2,
+        "Prescrição de Medicamentos": 65.9,
+        "Realização de Exames": 62.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 66.1,
+        "Acompanhamento de Hipertensos": 62.5,
+        "Prescrição de Medicamentos": 67.1,
+        "Controle de Pressão Arterial": 65.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 60.4,
+        "Acompanhamento Regular": 68.8,
+        "Vacinação em Dia": 61.3,
+        "Prevenção de Quedas": 62.5
+      }
+    }
+  },
+  {
+    "Municipio": "ARACOIABA",
+    "Estado": "CE",
+    "IBGE": 230120.0,
+    "Desempenho": 71.25,
+    "Posicao": 168,
+    "Detalhes": {
+      "Ótimo": 6,
+      "Bom": 24,
+      "Suficiente": 8,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 69.7,
+        "Acompanhamento de Diabéticos": 66.2,
+        "Prescrição de Medicamentos": 61.7,
+        "Realização de Exames": 59.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.9,
+        "Acompanhamento de Hipertensos": 63.5,
+        "Prescrição de Medicamentos": 64.6,
+        "Controle de Pressão Arterial": 66.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 66.7,
+        "Acompanhamento Regular": 64.6,
+        "Vacinação em Dia": 62.5,
+        "Prevenção de Quedas": 62.6
+      }
+    }
+  },
+  {
+    "Municipio": "TABULEIRO DO NORTE",
+    "Estado": "CE",
+    "IBGE": 231310.0,
+    "Desempenho": 71.25,
+    "Posicao": 169,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 20,
+      "Suficiente": 10,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 69.4,
+        "Acompanhamento de Diabéticos": 69.3,
+        "Prescrição de Medicamentos": 59.9,
+        "Realização de Exames": 58.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 72.0,
+        "Acompanhamento de Hipertensos": 63.0,
+        "Prescrição de Medicamentos": 60.2,
+        "Controle de Pressão Arterial": 57.8
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.7,
+        "Acompanhamento Regular": 65.7,
+        "Vacinação em Dia": 62.3,
+        "Prevenção de Quedas": 64.1
+      }
+    }
+  },
+  {
+    "Municipio": "JARDIM",
+    "Estado": "CE",
+    "IBGE": 230710.0,
+    "Desempenho": 69.87179487179486,
+    "Posicao": 170,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 22,
+      "Suficiente": 11,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 68.5,
+        "Acompanhamento de Diabéticos": 62.7,
+        "Prescrição de Medicamentos": 63.1,
+        "Realização de Exames": 62.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 67.8,
+        "Acompanhamento de Hipertensos": 64.8,
+        "Prescrição de Medicamentos": 59.2,
+        "Controle de Pressão Arterial": 55.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 56.2,
+        "Acompanhamento Regular": 65.1,
+        "Vacinação em Dia": 59.6,
+        "Prevenção de Quedas": 61.2
+      }
+    }
+  },
+  {
+    "Municipio": "AQUIRAZ",
+    "Estado": "CE",
+    "IBGE": 230100.0,
+    "Desempenho": 69.79166666666666,
+    "Posicao": 171,
+    "Detalhes": {
+      "Ótimo": 14,
+      "Bom": 58,
+      "Suficiente": 14,
+      "Regular": 10
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 61.5,
+        "Acompanhamento de Diabéticos": 59.7,
+        "Prescrição de Medicamentos": 65.6,
+        "Realização de Exames": 58.9
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 69.1,
+        "Acompanhamento de Hipertensos": 63.4,
+        "Prescrição de Medicamentos": 62.9,
+        "Controle de Pressão Arterial": 64.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 57.7,
+        "Acompanhamento Regular": 60.8,
+        "Vacinação em Dia": 65.3,
+        "Prevenção de Quedas": 61.3
+      }
+    }
+  },
+  {
+    "Municipio": "MISSÃO VELHA",
+    "Estado": "CE",
+    "IBGE": 230840.0,
+    "Desempenho": 69.44444444444444,
+    "Posicao": 172,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 25,
+      "Suficiente": 19,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 64.4,
+        "Acompanhamento de Diabéticos": 65.3,
+        "Prescrição de Medicamentos": 62.3,
+        "Realização de Exames": 56.3
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 62.8,
+        "Acompanhamento de Hipertensos": 67.5,
+        "Prescrição de Medicamentos": 62.8,
+        "Controle de Pressão Arterial": 60.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 60.1,
+        "Acompanhamento Regular": 58.8,
+        "Vacinação em Dia": 62.0,
+        "Prevenção de Quedas": 58.1
+      }
+    }
+  },
+  {
+    "Municipio": "GUAIÚBA",
+    "Estado": "CE",
+    "IBGE": 230495.0,
+    "Desempenho": 69.23076923076923,
+    "Posicao": 173,
+    "Detalhes": {
+      "Ótimo": 3,
+      "Bom": 26,
+      "Suficiente": 8,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 61.6,
+        "Acompanhamento de Diabéticos": 67.8,
+        "Prescrição de Medicamentos": 61.6,
+        "Realização de Exames": 62.4
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 66.3,
+        "Acompanhamento de Hipertensos": 68.0,
+        "Prescrição de Medicamentos": 59.7,
+        "Controle de Pressão Arterial": 62.5
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.8,
+        "Acompanhamento Regular": 63.5,
+        "Vacinação em Dia": 67.3,
+        "Prevenção de Quedas": 61.4
+      }
+    }
+  },
+  {
+    "Municipio": "MARANGUAPE",
+    "Estado": "CE",
+    "IBGE": 230770.0,
+    "Desempenho": 68.91304347826087,
+    "Posicao": 174,
+    "Detalhes": {
+      "Ótimo": 22,
+      "Bom": 53,
+      "Suficiente": 30,
+      "Regular": 10
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 68.5,
+        "Acompanhamento de Diabéticos": 61.6,
+        "Prescrição de Medicamentos": 58.4,
+        "Realização de Exames": 62.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 67.6,
+        "Acompanhamento de Hipertensos": 65.3,
+        "Prescrição de Medicamentos": 59.6,
+        "Controle de Pressão Arterial": 62.1
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 63.2,
+        "Acompanhamento Regular": 63.7,
+        "Vacinação em Dia": 62.4,
+        "Prevenção de Quedas": 57.7
+      }
+    }
+  },
+  {
+    "Municipio": "PARAIPABA",
+    "Estado": "CE",
+    "IBGE": 231025.0,
+    "Desempenho": 68.18181818181817,
+    "Posicao": 175,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 28,
+      "Suficiente": 8,
+      "Regular": 4
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.7,
+        "Acompanhamento de Diabéticos": 64.0,
+        "Prescrição de Medicamentos": 56.4,
+        "Realização de Exames": 60.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 62.1,
+        "Acompanhamento de Hipertensos": 64.7,
+        "Prescrição de Medicamentos": 64.8,
+        "Controle de Pressão Arterial": 61.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 55.6,
+        "Acompanhamento Regular": 59.5,
+        "Vacinação em Dia": 61.9,
+        "Prevenção de Quedas": 53.1
+      }
+    }
+  },
+  {
+    "Municipio": "IPU",
+    "Estado": "CE",
+    "IBGE": 230580.0,
+    "Desempenho": 67.5925925925926,
+    "Posicao": 176,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 28,
+      "Suficiente": 12,
+      "Regular": 6
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.3,
+        "Acompanhamento de Diabéticos": 63.5,
+        "Prescrição de Medicamentos": 55.4,
+        "Realização de Exames": 56.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 64.1,
+        "Acompanhamento de Hipertensos": 61.4,
+        "Prescrição de Medicamentos": 61.0,
+        "Controle de Pressão Arterial": 57.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 54.7,
+        "Acompanhamento Regular": 57.9,
+        "Vacinação em Dia": 63.2,
+        "Prevenção de Quedas": 53.2
+      }
+    }
+  },
+  {
+    "Municipio": "UMARI",
+    "Estado": "CE",
+    "IBGE": 231370.0,
+    "Desempenho": 67.3076923076923,
+    "Posicao": 177,
+    "Detalhes": {
+      "Ótimo": 2,
+      "Bom": 6,
+      "Suficiente": 4,
+      "Regular": 1
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 68.5,
+        "Acompanhamento de Diabéticos": 62.1,
+        "Prescrição de Medicamentos": 63.8,
+        "Realização de Exames": 61.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 66.0,
+        "Acompanhamento de Hipertensos": 62.4,
+        "Prescrição de Medicamentos": 59.9,
+        "Controle de Pressão Arterial": 56.6
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 53.8,
+        "Acompanhamento Regular": 61.8,
+        "Vacinação em Dia": 62.7,
+        "Prevenção de Quedas": 51.8
+      }
+    }
+  },
+  {
+    "Municipio": "FORTALEZA",
+    "Estado": "CE",
+    "IBGE": 230440.0,
+    "Desempenho": 66.70818505338079,
+    "Posicao": 178,
+    "Detalhes": {
+      "Ótimo": 140,
+      "Bom": 768,
+      "Suficiente": 388,
+      "Regular": 109
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 66.0,
+        "Acompanhamento de Diabéticos": 59.2,
+        "Prescrição de Medicamentos": 56.5,
+        "Realização de Exames": 57.5
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 62.0,
+        "Acompanhamento de Hipertensos": 63.6,
+        "Prescrição de Medicamentos": 59.0,
+        "Controle de Pressão Arterial": 55.9
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 59.8,
+        "Acompanhamento Regular": 63.4,
+        "Vacinação em Dia": 57.0,
+        "Prevenção de Quedas": 50.8
+      }
+    }
+  },
+  {
+    "Municipio": "UMIRIM",
+    "Estado": "CE",
+    "IBGE": 231375.0,
+    "Desempenho": 66.66666666666666,
+    "Posicao": 179,
+    "Detalhes": {
+      "Ótimo": 3,
+      "Bom": 10,
+      "Suficiente": 6,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.9,
+        "Acompanhamento de Diabéticos": 62.5,
+        "Prescrição de Medicamentos": 60.7,
+        "Realização de Exames": 61.0
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 68.8,
+        "Acompanhamento de Hipertensos": 60.4,
+        "Prescrição de Medicamentos": 55.6,
+        "Controle de Pressão Arterial": 52.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.5,
+        "Acompanhamento Regular": 56.3,
+        "Vacinação em Dia": 57.2,
+        "Prevenção de Quedas": 54.4
+      }
+    }
+  },
+  {
+    "Municipio": "CRATEÚS",
+    "Estado": "CE",
+    "IBGE": 230410.0,
+    "Desempenho": 66.50485436893204,
+    "Posicao": 180,
+    "Detalhes": {
+      "Ótimo": 18,
+      "Bom": 48,
+      "Suficiente": 21,
+      "Regular": 16
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 61.6,
+        "Acompanhamento de Diabéticos": 57.8,
+        "Prescrição de Medicamentos": 60.8,
+        "Realização de Exames": 53.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 67.3,
+        "Acompanhamento de Hipertensos": 63.6,
+        "Prescrição de Medicamentos": 63.1,
+        "Controle de Pressão Arterial": 56.0
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 54.6,
+        "Acompanhamento Regular": 64.5,
+        "Vacinação em Dia": 57.2,
+        "Prevenção de Quedas": 54.2
+      }
+    }
+  },
+  {
+    "Municipio": "CAUCAIA",
+    "Estado": "CE",
+    "IBGE": 230370.0,
+    "Desempenho": 66.47727272727273,
+    "Posicao": 181,
+    "Detalhes": {
+      "Ótimo": 23,
+      "Bom": 127,
+      "Suficiente": 42,
+      "Regular": 28
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 67.0,
+        "Acompanhamento de Diabéticos": 62.2,
+        "Prescrição de Medicamentos": 59.8,
+        "Realização de Exames": 55.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 66.2,
+        "Acompanhamento de Hipertensos": 64.0,
+        "Prescrição de Medicamentos": 58.7,
+        "Controle de Pressão Arterial": 57.7
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 62.7,
+        "Acompanhamento Regular": 58.1,
+        "Vacinação em Dia": 63.8,
+        "Prevenção de Quedas": 57.7
+      }
+    }
+  },
+  {
+    "Municipio": "MORADA NOVA",
+    "Estado": "CE",
+    "IBGE": 230870.0,
+    "Desempenho": 66.13924050632912,
+    "Posicao": 182,
+    "Detalhes": {
+      "Ótimo": 10,
+      "Bom": 39,
+      "Suficiente": 22,
+      "Regular": 8
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 66.4,
+        "Acompanhamento de Diabéticos": 60.6,
+        "Prescrição de Medicamentos": 58.1,
+        "Realização de Exames": 54.1
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 62.6,
+        "Acompanhamento de Hipertensos": 57.8,
+        "Prescrição de Medicamentos": 60.4,
+        "Controle de Pressão Arterial": 60.2
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 61.3,
+        "Acompanhamento Regular": 60.1,
+        "Vacinação em Dia": 61.6,
+        "Prevenção de Quedas": 58.2
+      }
+    }
+  },
+  {
+    "Municipio": "PINDORETAMA",
+    "Estado": "CE",
+    "IBGE": 231085.0,
+    "Desempenho": 66.12903225806451,
+    "Posicao": 183,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 12,
+      "Suficiente": 12,
+      "Regular": 2
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 58.3,
+        "Acompanhamento de Diabéticos": 64.2,
+        "Prescrição de Medicamentos": 54.8,
+        "Realização de Exames": 51.2
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 62.6,
+        "Acompanhamento de Hipertensos": 60.2,
+        "Prescrição de Medicamentos": 62.9,
+        "Controle de Pressão Arterial": 52.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 54.4,
+        "Acompanhamento Regular": 61.1,
+        "Vacinação em Dia": 58.0,
+        "Prevenção de Quedas": 53.2
+      }
+    }
+  },
+  {
+    "Municipio": "PARAMBU",
+    "Estado": "CE",
+    "IBGE": 231030.0,
+    "Desempenho": 63.888888888888886,
+    "Posicao": 184,
+    "Detalhes": {
+      "Ótimo": 3,
+      "Bom": 19,
+      "Suficiente": 9,
+      "Regular": 5
+    },
+    "Indicadores": {
+      "Diabetes": {
+        "Rastreamento de Diabetes": 59.2,
+        "Acompanhamento de Diabéticos": 62.8,
+        "Prescrição de Medicamentos": 54.2,
+        "Realização de Exames": 58.6
+      },
+      "Hipertensão": {
+        "Rastreamento de Hipertensão": 60.4,
+        "Acompanhamento de Hipertensos": 63.3,
+        "Prescrição de Medicamentos": 60.3,
+        "Controle de Pressão Arterial": 58.4
+      },
+      "Pessoa Idosa": {
+        "Avaliação Geriátrica": 50.6,
+        "Acompanhamento Regular": 56.3,
+        "Vacinação em Dia": 54.8,
+        "Prevenção de Quedas": 50.7
+      }
+    }
+  }
+]
