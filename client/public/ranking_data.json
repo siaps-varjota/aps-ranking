@@ -57,22 +57,22 @@
     }
   },
   {
-    "Municipio": "ALTANEIRA",
+    "Municipio": "VARJOTA",
     "Estado": "CE",
-    "IBGE": 230060.0,
+    "IBGE": 231395.0,
     "Desempenho": 91.66666666666666,
     "Posicao": 4,
     "Detalhes": {
-      "Ótimo": 8,
-      "Bom": 4,
+      "Ótimo": 18,
+      "Bom": 9,
       "Suficiente": 0,
       "Regular": 0,
-      "Vínculo_eSF": 3,
-      "Vínculo_eAP": 1,
-      "Qualidade_eSF": 3,
-      "Qualidade_eAP": 1,
-      "Qualidade_eSB": 3,
-      "Qualidade_eMulti": 1
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -95,22 +95,22 @@
     }
   },
   {
-    "Municipio": "VARJOTA",
+    "Municipio": "ALTANEIRA",
     "Estado": "CE",
-    "IBGE": 231395.0,
+    "IBGE": 230060.0,
     "Desempenho": 91.66666666666666,
     "Posicao": 6,
     "Detalhes": {
-      "Ótimo": 18,
-      "Bom": 9,
+      "Ótimo": 8,
+      "Bom": 4,
       "Suficiente": 0,
       "Regular": 0,
-      "Vínculo_eSF": 9,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 9,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 7,
-      "Qualidade_eMulti": 2
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -247,30 +247,11 @@
     }
   },
   {
-    "Municipio": "ITAIÇABA",
-    "Estado": "CE",
-    "IBGE": 230620.0,
-    "Desempenho": 89.58333333333334,
-    "Posicao": 14,
-    "Detalhes": {
-      "Ótimo": 8,
-      "Bom": 3,
-      "Suficiente": 1,
-      "Regular": 0,
-      "Vínculo_eSF": 4,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 4,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 4,
-      "Qualidade_eMulti": 0
-    }
-  },
-  {
     "Municipio": "QUIXERÉ",
     "Estado": "CE",
     "IBGE": 231150.0,
     "Desempenho": 89.58333333333334,
-    "Posicao": 15,
+    "Posicao": 14,
     "Detalhes": {
       "Ótimo": 19,
       "Bom": 2,
@@ -282,6 +263,25 @@
       "Qualidade_eAP": 1,
       "Qualidade_eSB": 1,
       "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "ITAIÇABA",
+    "Estado": "CE",
+    "IBGE": 230620.0,
+    "Desempenho": 89.58333333333334,
+    "Posicao": 15,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 3,
+      "Suficiente": 1,
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -513,30 +513,11 @@
     }
   },
   {
-    "Municipio": "GUARAMIRANGA",
-    "Estado": "CE",
-    "IBGE": 230510.0,
-    "Desempenho": 87.5,
-    "Posicao": 28,
-    "Detalhes": {
-      "Ótimo": 5,
-      "Bom": 5,
-      "Suficiente": 0,
-      "Regular": 0,
-      "Vínculo_eSF": 3,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 3,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 3,
-      "Qualidade_eMulti": 1
-    }
-  },
-  {
     "Municipio": "JAGUARUANA",
     "Estado": "CE",
     "IBGE": 230700.0,
     "Desempenho": 87.5,
-    "Posicao": 29,
+    "Posicao": 28,
     "Detalhes": {
       "Ótimo": 27,
       "Bom": 18,
@@ -555,7 +536,7 @@
     "Estado": "CE",
     "IBGE": 230780.0,
     "Desempenho": 87.5,
-    "Posicao": 30,
+    "Posicao": 29,
     "Detalhes": {
       "Ótimo": 23,
       "Bom": 12,
@@ -574,7 +555,7 @@
     "Estado": "CE",
     "IBGE": 230890.0,
     "Desempenho": 87.5,
-    "Posicao": 31,
+    "Posicao": 30,
     "Detalhes": {
       "Ótimo": 17,
       "Bom": 8,
@@ -593,7 +574,7 @@
     "Estado": "CE",
     "IBGE": 230910.0,
     "Desempenho": 87.5,
-    "Posicao": 32,
+    "Posicao": 31,
     "Detalhes": {
       "Ótimo": 7,
       "Bom": 4,
@@ -605,6 +586,25 @@
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 4,
       "Qualidade_eMulti": 0
+    }
+  },
+  {
+    "Municipio": "GUARAMIRANGA",
+    "Estado": "CE",
+    "IBGE": 230510.0,
+    "Desempenho": 87.5,
+    "Posicao": 32,
+    "Detalhes": {
+      "Ótimo": 5,
+      "Bom": 5,
+      "Suficiente": 0,
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -741,30 +741,11 @@
     }
   },
   {
-    "Municipio": "ALTO SANTO",
-    "Estado": "CE",
-    "IBGE": 230070.0,
-    "Desempenho": 86.53846153846155,
-    "Posicao": 40,
-    "Detalhes": {
-      "Ótimo": 13,
-      "Bom": 12,
-      "Suficiente": 1,
-      "Regular": 0,
-      "Vínculo_eSF": 8,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 8,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 8,
-      "Qualidade_eMulti": 2
-    }
-  },
-  {
     "Municipio": "TAMBORIL",
     "Estado": "CE",
     "IBGE": 231320.0,
     "Desempenho": 86.53846153846155,
-    "Posicao": 41,
+    "Posicao": 40,
     "Detalhes": {
       "Ótimo": 21,
       "Bom": 15,
@@ -776,6 +757,25 @@
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 12,
       "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "ALTO SANTO",
+    "Estado": "CE",
+    "IBGE": 230070.0,
+    "Desempenho": 86.53846153846155,
+    "Posicao": 41,
+    "Detalhes": {
+      "Ótimo": 13,
+      "Bom": 12,
+      "Suficiente": 1,
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -950,30 +950,11 @@
     }
   },
   {
-    "Municipio": "NOVA RUSSAS",
-    "Estado": "CE",
-    "IBGE": 230930.0,
-    "Desempenho": 85.22727272727273,
-    "Posicao": 51,
-    "Detalhes": {
-      "Ótimo": 20,
-      "Bom": 22,
-      "Suficiente": 2,
-      "Regular": 0,
-      "Vínculo_eSF": 15,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 15,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 12,
-      "Qualidade_eMulti": 2
-    }
-  },
-  {
     "Municipio": "VÁRZEA ALEGRE",
     "Estado": "CE",
     "IBGE": 231400.0,
     "Desempenho": 85.22727272727273,
-    "Posicao": 52,
+    "Posicao": 51,
     "Detalhes": {
       "Ótimo": 24,
       "Bom": 15,
@@ -985,6 +966,25 @@
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 13,
       "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "NOVA RUSSAS",
+    "Estado": "CE",
+    "IBGE": 230930.0,
+    "Desempenho": 85.22727272727273,
+    "Posicao": 52,
+    "Detalhes": {
+      "Ótimo": 20,
+      "Bom": 22,
+      "Suficiente": 2,
+      "Regular": 0,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1007,30 +1007,11 @@
     }
   },
   {
-    "Municipio": "BAIXIO",
-    "Estado": "CE",
-    "IBGE": 230180.0,
-    "Desempenho": 85.0,
-    "Posicao": 54,
-    "Detalhes": {
-      "Ótimo": 4,
-      "Bom": 6,
-      "Suficiente": 0,
-      "Regular": 0,
-      "Vínculo_eSF": 3,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 3,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 3,
-      "Qualidade_eMulti": 1
-    }
-  },
-  {
     "Municipio": "SALITRE",
     "Estado": "CE",
     "IBGE": 231195.0,
     "Desempenho": 85.0,
-    "Posicao": 55,
+    "Posicao": 54,
     "Detalhes": {
       "Ótimo": 11,
       "Bom": 13,
@@ -1041,6 +1022,25 @@
       "Qualidade_eSF": 8,
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "BAIXIO",
+    "Estado": "CE",
+    "IBGE": 230180.0,
+    "Desempenho": 85.0,
+    "Posicao": 55,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 6,
+      "Suficiente": 0,
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
       "Qualidade_eMulti": 1
     }
   },
@@ -1102,30 +1102,11 @@
     }
   },
   {
-    "Municipio": "ALCÂNTARAS",
-    "Estado": "CE",
-    "IBGE": 230050.0,
-    "Desempenho": 84.21052631578947,
-    "Posicao": 59,
-    "Detalhes": {
-      "Ótimo": 9,
-      "Bom": 8,
-      "Suficiente": 2,
-      "Regular": 0,
-      "Vínculo_eSF": 6,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 6,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 6,
-      "Qualidade_eMulti": 1
-    }
-  },
-  {
     "Municipio": "MIRAÍMA",
     "Estado": "CE",
     "IBGE": 230837.0,
     "Desempenho": 84.21052631578947,
-    "Posicao": 60,
+    "Posicao": 59,
     "Detalhes": {
       "Ótimo": 11,
       "Bom": 4,
@@ -1136,6 +1117,25 @@
       "Qualidade_eSF": 7,
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "ALCÂNTARAS",
+    "Estado": "CE",
+    "IBGE": 230050.0,
+    "Desempenho": 84.21052631578947,
+    "Posicao": 60,
+    "Detalhes": {
+      "Ótimo": 9,
+      "Bom": 8,
+      "Suficiente": 2,
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
       "Qualidade_eMulti": 1
     }
   },
@@ -1634,30 +1634,11 @@
     }
   },
   {
-    "Municipio": "ERERÊ",
-    "Estado": "CE",
-    "IBGE": 230427.0,
-    "Desempenho": 80.55555555555556,
-    "Posicao": 87,
-    "Detalhes": {
-      "Ótimo": 2,
-      "Bom": 7,
-      "Suficiente": 0,
-      "Regular": 0,
-      "Vínculo_eSF": 3,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 3,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 3,
-      "Qualidade_eMulti": 0
-    }
-  },
-  {
     "Municipio": "PARAMOTI",
     "Estado": "CE",
     "IBGE": 231040.0,
     "Desempenho": 80.55555555555556,
-    "Posicao": 88,
+    "Posicao": 87,
     "Detalhes": {
       "Ótimo": 7,
       "Bom": 8,
@@ -1669,6 +1650,25 @@
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 5,
       "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "ERERÊ",
+    "Estado": "CE",
+    "IBGE": 230427.0,
+    "Desempenho": 80.55555555555556,
+    "Posicao": 88,
+    "Detalhes": {
+      "Ótimo": 2,
+      "Bom": 7,
+      "Suficiente": 0,
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -1767,30 +1767,11 @@
     }
   },
   {
-    "Municipio": "FRECHEIRINHA",
-    "Estado": "CE",
-    "IBGE": 230450.0,
-    "Desempenho": 79.76190476190477,
-    "Posicao": 94,
-    "Detalhes": {
-      "Ótimo": 7,
-      "Bom": 11,
-      "Suficiente": 3,
-      "Regular": 0,
-      "Vínculo_eSF": 7,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 7,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 6,
-      "Qualidade_eMulti": 1
-    }
-  },
-  {
     "Municipio": "IRACEMA",
     "Estado": "CE",
     "IBGE": 230600.0,
     "Desempenho": 79.76190476190477,
-    "Posicao": 95,
+    "Posicao": 94,
     "Detalhes": {
       "Ótimo": 8,
       "Bom": 10,
@@ -1800,6 +1781,25 @@
       "Vínculo_eAP": 1,
       "Qualidade_eSF": 6,
       "Qualidade_eAP": 1,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
+    }
+  },
+  {
+    "Municipio": "FRECHEIRINHA",
+    "Estado": "CE",
+    "IBGE": 230450.0,
+    "Desempenho": 79.76190476190477,
+    "Posicao": 95,
+    "Detalhes": {
+      "Ótimo": 7,
+      "Bom": 11,
+      "Suficiente": 3,
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
       "Qualidade_eSB": 6,
       "Qualidade_eMulti": 1
     }
@@ -2660,30 +2660,11 @@
     }
   },
   {
-    "Municipio": "ACARAPE",
-    "Estado": "CE",
-    "IBGE": 230015.0,
-    "Desempenho": 75.0,
-    "Posicao": 141,
-    "Detalhes": {
-      "Ótimo": 4,
-      "Bom": 13,
-      "Suficiente": 4,
-      "Regular": 0,
-      "Vínculo_eSF": 7,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 7,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 7,
-      "Qualidade_eMulti": 0
-    }
-  },
-  {
     "Municipio": "PACOTI",
     "Estado": "CE",
     "IBGE": 230980.0,
     "Desempenho": 75.0,
-    "Posicao": 142,
+    "Posicao": 141,
     "Detalhes": {
       "Ótimo": 5,
       "Bom": 9,
@@ -2694,6 +2675,25 @@
       "Qualidade_eSF": 6,
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 0
+    }
+  },
+  {
+    "Municipio": "ACARAPE",
+    "Estado": "CE",
+    "IBGE": 230015.0,
+    "Desempenho": 75.0,
+    "Posicao": 142,
+    "Detalhes": {
+      "Ótimo": 4,
+      "Bom": 13,
+      "Suficiente": 4,
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
       "Qualidade_eMulti": 0
     }
   },
@@ -2869,30 +2869,11 @@
     }
   },
   {
-    "Municipio": "BATURITÉ",
-    "Estado": "CE",
-    "IBGE": 230210.0,
-    "Desempenho": 73.91304347826086,
-    "Posicao": 152,
-    "Detalhes": {
-      "Ótimo": 8,
-      "Bom": 29,
-      "Suficiente": 8,
-      "Regular": 1,
-      "Vínculo_eSF": 15,
-      "Vínculo_eAP": 0,
-      "Qualidade_eSF": 15,
-      "Qualidade_eAP": 0,
-      "Qualidade_eSB": 15,
-      "Qualidade_eMulti": 1
-    }
-  },
-  {
     "Municipio": "IPUEIRAS",
     "Estado": "CE",
     "IBGE": 230590.0,
     "Desempenho": 73.91304347826086,
-    "Posicao": 153,
+    "Posicao": 152,
     "Detalhes": {
       "Ótimo": 8,
       "Bom": 30,
@@ -2904,6 +2885,25 @@
       "Qualidade_eAP": 0,
       "Qualidade_eSB": 14,
       "Qualidade_eMulti": 2
+    }
+  },
+  {
+    "Municipio": "BATURITÉ",
+    "Estado": "CE",
+    "IBGE": 230210.0,
+    "Desempenho": 73.91304347826086,
+    "Posicao": 153,
+    "Detalhes": {
+      "Ótimo": 8,
+      "Bom": 29,
+      "Suficiente": 8,
+      "Regular": 1,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 15,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3173,15 +3173,15 @@
     }
   },
   {
-    "Municipio": "ARACOIABA",
+    "Municipio": "TABULEIRO DO NORTE",
     "Estado": "CE",
-    "IBGE": 230120.0,
+    "IBGE": 231310.0,
     "Desempenho": 71.25,
     "Posicao": 168,
     "Detalhes": {
-      "Ótimo": 6,
-      "Bom": 24,
-      "Suficiente": 8,
+      "Ótimo": 8,
+      "Bom": 20,
+      "Suficiente": 10,
       "Regular": 2,
       "Vínculo_eSF": 13,
       "Vínculo_eAP": 0,
@@ -3192,15 +3192,15 @@
     }
   },
   {
-    "Municipio": "TABULEIRO DO NORTE",
+    "Municipio": "ARACOIABA",
     "Estado": "CE",
-    "IBGE": 231310.0,
+    "IBGE": 230120.0,
     "Desempenho": 71.25,
     "Posicao": 169,
     "Detalhes": {
-      "Ótimo": 8,
-      "Bom": 20,
-      "Suficiente": 10,
+      "Ótimo": 6,
+      "Bom": 24,
+      "Suficiente": 8,
       "Regular": 2,
       "Vínculo_eSF": 13,
       "Vínculo_eAP": 0,
