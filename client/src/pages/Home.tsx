@@ -505,9 +505,19 @@ export default function Home() {
             {selectedItem && detailedIndicators[selectedItem.Municipio] && (
               <div className="space-y-3 border-t pt-6">
                 <div className="flex items-center justify-between">
-                  <h4 className="font-semibold text-gray-900 text-lg">
-                    Indicador Avaliado
-                  </h4>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 text-lg">
+                      Indicador Avaliado
+                    </h4>
+                    <div className="text-xs text-gray-500 mt-1">
+                      {detailedIndicators[selectedItem.Municipio].Indicadores.length} indicadores
+                      {detailedIndicators[selectedItem.Municipio].Indicadores.length === 15 && (
+                        <span className="ml-2 inline-block px-2 py-1 bg-green-100 text-green-700 rounded text-xs font-semibold">
+                          Dados Completos
+                        </span>
+                      )}
+                    </div>
+                  </div>
                   <div className="text-sm font-semibold text-purple-600">
                     Média: {detailedIndicators[selectedItem.Municipio].Media_Geral}%
                   </div>
