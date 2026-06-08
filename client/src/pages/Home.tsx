@@ -41,6 +41,16 @@ interface RankingItem {
   };
 }
 
+interface IndicadorDetalhado {
+  Indicador: string;
+  Tipo_Equipe: string;
+  Regular: number;
+  Suficiente: number;
+  Bom: number;
+  Otimo: number;
+  Desempenho: number;
+}
+
 export default function Home() {
   const [ranking, setRanking] = useState<RankingItem[]>([]);
   const [filteredRanking, setFilteredRanking] = useState<RankingItem[]>([]);
@@ -49,6 +59,7 @@ export default function Home() {
   const [selectedItem, setSelectedItem] = useState<RankingItem | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [indicatorsData, setIndicatorsData] = useState<Record<string, any>>({});
+  const [detailedIndicators, setDetailedIndicators] = useState<Record<string, any>>({});
 
   useEffect(() => {
     const loadData = async () => {
@@ -61,6 +72,11 @@ export default function Home() {
         const indicatorsResponse = await fetch("/indicators_data.json");
         const indicators = await indicatorsResponse.json();
         setIndicatorsData(indicators);
+
+        // Carregar dados de indicadores detalhados
+        const detailedResponse = await fetch("/detailed_indicators.json");
+        const detailed = await detailedResponse.json();
+        setDetailedIndicators(detailed);
 
         // Mesclar dados de indicadores com ranking
         const mergedRanking = rankingList.map((item: any) => ({
@@ -126,6 +142,21 @@ export default function Home() {
     if (desempenho >= 75) return "Bom";
     if (desempenho >= 50) return "Suficiente";
     return "Regular";
+  };
+
+  const getEquipeTypeColor = (tipo: string) => {
+    if (tipo === "eSF") return "bg-blue-50 border-blue-200";
+    if (tipo === "eSB") return "bg-green-50 border-green-200";
+    if (tipo === "eMulti") return "bg-purple-50 border-purple-200";
+    return "bg-gray-50 border-gray-200";
+  };
+
+  const getEquipeTypeLabel = (tipo: string) => {
+    if (tipo === "eSF") return "Equipe de Saúde da Família";
+    if (tipo === "eSB") return "Equipe de Saúde Bucal";
+    if (tipo === "eMulti") return "Equipe Multiprofissional";
+    if (tipo === "eAP") return "Equipe de Atenção Primária";
+    return tipo;
   };
 
   if (isLoading) {
@@ -312,7 +343,7 @@ export default function Home() {
 
       {/* Modal de Detalhes */}
       <Dialog open={!!selectedItem} onOpenChange={() => setSelectedItem(null)}>
-        <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+        <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
           <DialogHeader>
             <DialogTitle className="text-2xl">{selectedItem?.Municipio}</DialogTitle>
             <DialogDescription>
@@ -469,6 +500,74 @@ export default function Home() {
                 </TabsContent>
               </Tabs>
             </div>
+
+            {/* Indicadores Detalhados */}
+            {selectedItem && detailedIndicators[selectedItem.Municipio] && (
+              <div className="space-y-3 border-t pt-6">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-semibold text-gray-900 text-lg">
+                    Indicador Avaliado
+                  </h4>
+                  <div className="text-sm font-semibold text-purple-600">
+                    Média: {detailedIndicators[selectedItem.Municipio].Media_Geral}%
+                  </div>
+                </div>
+
+                <div className="space-y-2 max-h-96 overflow-y-auto">
+                  {detailedIndicators[selectedItem.Municipio].Indicadores.map(
+                    (ind: IndicadorDetalhado, idx: number) => (
+                      <div
+                        key={idx}
+                        className={`p-4 rounded-lg border ${getEquipeTypeColor(
+                          ind.Tipo_Equipe
+                        )}`}
+                      >
+                        <div className="flex items-start justify-between mb-3">
+                          <div>
+                            <div className="font-semibold text-gray-900">
+                              {ind.Tipo_Equipe} - {ind.Indicador}
+                            </div>
+                            <div className="text-xs text-gray-600 mt-1">
+                              {getEquipeTypeLabel(ind.Tipo_Equipe)}
+                            </div>
+                          </div>
+                          <Badge className={getClassificationColor(ind.Desempenho)}>
+                            {ind.Desempenho.toFixed(1)}%
+                          </Badge>
+                        </div>
+
+                        <div className="grid grid-cols-4 gap-2 text-sm">
+                          <div className="bg-white p-2 rounded text-center">
+                            <div className="text-xs text-gray-600">Regular</div>
+                            <div className="font-semibold text-orange-600">
+                              {ind.Regular} equipes
+                            </div>
+                          </div>
+                          <div className="bg-white p-2 rounded text-center">
+                            <div className="text-xs text-gray-600">Suficiente</div>
+                            <div className="font-semibold text-yellow-600">
+                              {ind.Suficiente} equipes
+                            </div>
+                          </div>
+                          <div className="bg-white p-2 rounded text-center">
+                            <div className="text-xs text-gray-600">Bom</div>
+                            <div className="font-semibold text-blue-600">
+                              {ind.Bom} equipes
+                            </div>
+                          </div>
+                          <div className="bg-white p-2 rounded text-center">
+                            <div className="text-xs text-gray-600">Ótimo</div>
+                            <div className="font-semibold text-green-600">
+                              {ind.Otimo} equipes
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    )
+                  )}
+                </div>
+              </div>
+            )}
 
             {/* Total de Equipes */}
             <div className="pt-4 border-t border-gray-200">
