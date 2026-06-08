@@ -26,6 +26,7 @@ interface RankingItem {
   Estado: string;
   IBGE: number;
   Desempenho: number;
+  MediaIndicadores: number;
   Detalhes: {
     Ótimo: number;
     Bom: number;
@@ -47,14 +48,28 @@ export default function Home() {
   const [selectedClassification, setSelectedClassification] = useState("all");
   const [selectedItem, setSelectedItem] = useState<RankingItem | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [indicatorsData, setIndicatorsData] = useState<Record<string, any>>({});
 
   useEffect(() => {
-    const loadRanking = async () => {
+    const loadData = async () => {
       try {
-        const response = await fetch("/ranking_data.json");
-        const data = await response.json();
-        setRanking(data);
-        setFilteredRanking(data);
+        // Carregar dados de ranking
+        const rankingResponse = await fetch("/ranking_data.json");
+        const rankingList = await rankingResponse.json();
+
+        // Carregar dados de indicadores
+        const indicatorsResponse = await fetch("/indicators_data.json");
+        const indicators = await indicatorsResponse.json();
+        setIndicatorsData(indicators);
+
+        // Mesclar dados de indicadores com ranking
+        const mergedRanking = rankingList.map((item: any) => ({
+          ...item,
+          MediaIndicadores: indicators[item.Municipio]?.Media_Indicadores || 0,
+        }));
+
+        setRanking(mergedRanking);
+        setFilteredRanking(mergedRanking);
         setIsLoading(false);
       } catch (error) {
         console.error("Erro ao carregar dados:", error);
@@ -62,7 +77,7 @@ export default function Home() {
       }
     };
 
-    loadRanking();
+    loadData();
   }, []);
 
   useEffect(() => {
@@ -222,6 +237,9 @@ export default function Home() {
                     Desempenho
                   </th>
                   <th className="px-6 py-4 text-center text-sm font-semibold">
+                    Indicadores
+                  </th>
+                  <th className="px-6 py-4 text-center text-sm font-semibold">
                     Classificação
                   </th>
                   <th className="px-6 py-4 text-center text-sm font-semibold">Ação</th>
@@ -254,6 +272,11 @@ export default function Home() {
                         </div>
                       </td>
                       <td className="px-6 py-4 text-center">
+                        <div className="font-bold text-lg text-purple-600">
+                          {item.MediaIndicadores.toFixed(1)}%
+                        </div>
+                      </td>
+                      <td className="px-6 py-4 text-center">
                         <Badge className={getClassificationColor(item.Desempenho)}>
                           {getClassificationLabel(item.Desempenho)}
                         </Badge>
@@ -271,7 +294,7 @@ export default function Home() {
                   ))
                 ) : (
                   <tr>
-                    <td colSpan={6} className="px-6 py-8 text-center text-gray-500">
+                    <td colSpan={7} className="px-6 py-8 text-center text-gray-500">
                       Nenhum resultado encontrado
                     </td>
                   </tr>
@@ -299,24 +322,36 @@ export default function Home() {
 
           <div className="space-y-6">
             {/* Desempenho Geral */}
-            <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg border border-blue-200">
-              <div className="text-sm text-gray-600 mb-1">Índice de Desempenho</div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">
-                {selectedItem?.Desempenho.toFixed(1)}%
+            <div className="grid grid-cols-2 gap-4">
+              <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg border border-blue-200">
+                <div className="text-sm text-gray-600 mb-1">Índice de Desempenho</div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">
+                  {selectedItem?.Desempenho.toFixed(1)}%
+                </div>
+                <div className="text-sm font-medium text-gray-700">
+                  Classificação:{" "}
+                  <Badge
+                    className={
+                      selectedItem
+                        ? getClassificationColor(selectedItem.Desempenho)
+                        : ""
+                    }
+                  >
+                    {selectedItem
+                      ? getClassificationLabel(selectedItem.Desempenho)
+                      : ""}
+                  </Badge>
+                </div>
               </div>
-              <div className="text-sm font-medium text-gray-700">
-                Classificação:{" "}
-                <Badge
-                  className={
-                    selectedItem
-                      ? getClassificationColor(selectedItem.Desempenho)
-                      : ""
-                  }
-                >
-                  {selectedItem
-                    ? getClassificationLabel(selectedItem.Desempenho)
-                    : ""}
-                </Badge>
+
+              <div className="bg-gradient-to-r from-purple-50 to-pink-50 p-6 rounded-lg border border-purple-200">
+                <div className="text-sm text-gray-600 mb-1">Média de Indicadores</div>
+                <div className="text-3xl font-bold text-purple-600">
+                  {selectedItem?.MediaIndicadores.toFixed(1)}%
+                </div>
+                <div className="text-sm text-gray-600 mt-2">
+                  Média dos 15 indicadores de qualidade
+                </div>
               </div>
             </div>
 

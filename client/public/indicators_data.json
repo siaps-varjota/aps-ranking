@@ -1,0 +1,922 @@
+{
+  "ABAIARA": {
+    "Media_Indicadores": 58.46,
+    "IBGE": 230010,
+    "UF": "CE"
+  },
+  "ACARAPE": {
+    "Media_Indicadores": 51.62,
+    "IBGE": 230015,
+    "UF": "CE"
+  },
+  "ACARAÚ": {
+    "Media_Indicadores": 66.05,
+    "IBGE": 230020,
+    "UF": "CE"
+  },
+  "ACOPIARA": {
+    "Media_Indicadores": 67.13,
+    "IBGE": 230030,
+    "UF": "CE"
+  },
+  "AIUABA": {
+    "Media_Indicadores": 62.47,
+    "IBGE": 230040,
+    "UF": "CE"
+  },
+  "ALCÂNTARAS": {
+    "Media_Indicadores": 69.55,
+    "IBGE": 230050,
+    "UF": "CE"
+  },
+  "ALTANEIRA": {
+    "Media_Indicadores": 74.44,
+    "IBGE": 230060,
+    "UF": "CE"
+  },
+  "ALTO SANTO": {
+    "Media_Indicadores": 64.66,
+    "IBGE": 230070,
+    "UF": "CE"
+  },
+  "AMONTADA": {
+    "Media_Indicadores": 65.18,
+    "IBGE": 230075,
+    "UF": "CE"
+  },
+  "ANTONINA DO NORTE": {
+    "Media_Indicadores": 75.32,
+    "IBGE": 230080,
+    "UF": "CE"
+  },
+  "APUIARÉS": {
+    "Media_Indicadores": 46.43,
+    "IBGE": 230090,
+    "UF": "CE"
+  },
+  "AQUIRAZ": {
+    "Media_Indicadores": 60.16,
+    "IBGE": 230100,
+    "UF": "CE"
+  },
+  "ARACATI": {
+    "Media_Indicadores": 72.71,
+    "IBGE": 230110,
+    "UF": "CE"
+  },
+  "ARACOIABA": {
+    "Media_Indicadores": 55.33,
+    "IBGE": 230120,
+    "UF": "CE"
+  },
+  "ARARENDÁ": {
+    "Media_Indicadores": 63.85,
+    "IBGE": 230125,
+    "UF": "CE"
+  },
+  "ARARIPE": {
+    "Media_Indicadores": 53.37,
+    "IBGE": 230130,
+    "UF": "CE"
+  },
+  "ARATUBA": {
+    "Media_Indicadores": 60.96,
+    "IBGE": 230140,
+    "UF": "CE"
+  },
+  "ARNEIROZ": {
+    "Media_Indicadores": 68.18,
+    "IBGE": 230150,
+    "UF": "CE"
+  },
+  "ASSARÉ": {
+    "Media_Indicadores": 84.0,
+    "IBGE": 230160,
+    "UF": "CE"
+  },
+  "AURORA": {
+    "Media_Indicadores": 69.51,
+    "IBGE": 230170,
+    "UF": "CE"
+  },
+  "BAIXIO": {
+    "Media_Indicadores": 65.38,
+    "IBGE": 230180,
+    "UF": "CE"
+  },
+  "BANABUIÚ": {
+    "Media_Indicadores": 75.4,
+    "IBGE": 230185,
+    "UF": "CE"
+  },
+  "BARBALHA": {
+    "Media_Indicadores": 68.74,
+    "IBGE": 230190,
+    "UF": "CE"
+  },
+  "BARREIRA": {
+    "Media_Indicadores": 63.81,
+    "IBGE": 230195,
+    "UF": "CE"
+  },
+  "BARRO": {
+    "Media_Indicadores": 69.01,
+    "IBGE": 230200,
+    "UF": "CE"
+  },
+  "BARROQUINHA": {
+    "Media_Indicadores": 73.64,
+    "IBGE": 230205,
+    "UF": "CE"
+  },
+  "BATURITÉ": {
+    "Media_Indicadores": 62.31,
+    "IBGE": 230210,
+    "UF": "CE"
+  },
+  "BEBERIBE": {
+    "Media_Indicadores": 69.74,
+    "IBGE": 230220,
+    "UF": "CE"
+  },
+  "BELA CRUZ": {
+    "Media_Indicadores": 64.26,
+    "IBGE": 230230,
+    "UF": "CE"
+  },
+  "BOA VIAGEM": {
+    "Media_Indicadores": 58.24,
+    "IBGE": 230240,
+    "UF": "CE"
+  },
+  "BREJO SANTO": {
+    "Media_Indicadores": 63.2,
+    "IBGE": 230250,
+    "UF": "CE"
+  },
+  "CAMOCIM": {
+    "Media_Indicadores": 51.71,
+    "IBGE": 230260,
+    "UF": "CE"
+  },
+  "CAMPOS SALES": {
+    "Media_Indicadores": 58.38,
+    "IBGE": 230270,
+    "UF": "CE"
+  },
+  "CANINDÉ": {
+    "Media_Indicadores": 55.9,
+    "IBGE": 230280,
+    "UF": "CE"
+  },
+  "CAPISTRANO": {
+    "Media_Indicadores": 54.55,
+    "IBGE": 230290,
+    "UF": "CE"
+  },
+  "CARIDADE": {
+    "Media_Indicadores": 54.99,
+    "IBGE": 230300,
+    "UF": "CE"
+  },
+  "CARIRIAÇU": {
+    "Media_Indicadores": 70.12,
+    "IBGE": 230320,
+    "UF": "CE"
+  },
+  "CARIRÉ": {
+    "Media_Indicadores": 73.23,
+    "IBGE": 230310,
+    "UF": "CE"
+  },
+  "CARIÚS": {
+    "Media_Indicadores": 52.03,
+    "IBGE": 230330,
+    "UF": "CE"
+  },
+  "CARNAUBAL": {
+    "Media_Indicadores": 74.36,
+    "IBGE": 230340,
+    "UF": "CE"
+  },
+  "CASCAVEL": {
+    "Media_Indicadores": 51.74,
+    "IBGE": 230350,
+    "UF": "CE"
+  },
+  "CATARINA": {
+    "Media_Indicadores": 64.56,
+    "IBGE": 230360,
+    "UF": "CE"
+  },
+  "CATUNDA": {
+    "Media_Indicadores": 73.18,
+    "IBGE": 230365,
+    "UF": "CE"
+  },
+  "CAUCAIA": {
+    "Media_Indicadores": 57.83,
+    "IBGE": 230370,
+    "UF": "CE"
+  },
+  "CEDRO": {
+    "Media_Indicadores": 69.82,
+    "IBGE": 230380,
+    "UF": "CE"
+  },
+  "CHAVAL": {
+    "Media_Indicadores": 68.41,
+    "IBGE": 230390,
+    "UF": "CE"
+  },
+  "CHOROZINHO": {
+    "Media_Indicadores": 60.0,
+    "IBGE": 230395,
+    "UF": "CE"
+  },
+  "CHORÓ": {
+    "Media_Indicadores": 73.72,
+    "IBGE": 230393,
+    "UF": "CE"
+  },
+  "COREAÚ": {
+    "Media_Indicadores": 73.86,
+    "IBGE": 230400,
+    "UF": "CE"
+  },
+  "CRATEÚS": {
+    "Media_Indicadores": 56.31,
+    "IBGE": 230410,
+    "UF": "CE"
+  },
+  "CRATO": {
+    "Media_Indicadores": 71.88,
+    "IBGE": 230420,
+    "UF": "CE"
+  },
+  "CROATÁ": {
+    "Media_Indicadores": 66.67,
+    "IBGE": 230423,
+    "UF": "CE"
+  },
+  "CRUZ": {
+    "Media_Indicadores": 65.91,
+    "IBGE": 230425,
+    "UF": "CE"
+  },
+  "DEPUTADO IRAPUAN PINHEIRO": {
+    "Media_Indicadores": 71.54,
+    "IBGE": 230426,
+    "UF": "CE"
+  },
+  "ERERÊ": {
+    "Media_Indicadores": 60.61,
+    "IBGE": 230427,
+    "UF": "CE"
+  },
+  "EUSÉBIO": {
+    "Media_Indicadores": 64.74,
+    "IBGE": 230428,
+    "UF": "CE"
+  },
+  "FARIAS BRITO": {
+    "Media_Indicadores": 70.96,
+    "IBGE": 230430,
+    "UF": "CE"
+  },
+  "FORQUILHA": {
+    "Media_Indicadores": 54.8,
+    "IBGE": 230435,
+    "UF": "CE"
+  },
+  "FORTALEZA": {
+    "Media_Indicadores": 57.04,
+    "IBGE": 230440,
+    "UF": "CE"
+  },
+  "FORTIM": {
+    "Media_Indicadores": 72.22,
+    "IBGE": 230445,
+    "UF": "CE"
+  },
+  "FRECHEIRINHA": {
+    "Media_Indicadores": 64.61,
+    "IBGE": 230450,
+    "UF": "CE"
+  },
+  "GENERAL SAMPAIO": {
+    "Media_Indicadores": 56.73,
+    "IBGE": 230460,
+    "UF": "CE"
+  },
+  "GRANJA": {
+    "Media_Indicadores": 69.35,
+    "IBGE": 230470,
+    "UF": "CE"
+  },
+  "GRANJEIRO": {
+    "Media_Indicadores": 52.88,
+    "IBGE": 230480,
+    "UF": "CE"
+  },
+  "GRAÇA": {
+    "Media_Indicadores": 77.75,
+    "IBGE": 230465,
+    "UF": "CE"
+  },
+  "GROAÍRAS": {
+    "Media_Indicadores": 70.67,
+    "IBGE": 230490,
+    "UF": "CE"
+  },
+  "GUAIÚBA": {
+    "Media_Indicadores": 62.18,
+    "IBGE": 230495,
+    "UF": "CE"
+  },
+  "GUARACIABA DO NORTE": {
+    "Media_Indicadores": 62.76,
+    "IBGE": 230500,
+    "UF": "CE"
+  },
+  "GUARAMIRANGA": {
+    "Media_Indicadores": 69.87,
+    "IBGE": 230510,
+    "UF": "CE"
+  },
+  "HIDROLÂNDIA": {
+    "Media_Indicadores": 67.31,
+    "IBGE": 230520,
+    "UF": "CE"
+  },
+  "HORIZONTE": {
+    "Media_Indicadores": 71.1,
+    "IBGE": 230523,
+    "UF": "CE"
+  },
+  "IBARETAMA": {
+    "Media_Indicadores": 72.25,
+    "IBGE": 230526,
+    "UF": "CE"
+  },
+  "IBIAPINA": {
+    "Media_Indicadores": 72.66,
+    "IBGE": 230530,
+    "UF": "CE"
+  },
+  "IBICUITINGA": {
+    "Media_Indicadores": 74.04,
+    "IBGE": 230533,
+    "UF": "CE"
+  },
+  "ICAPUÍ": {
+    "Media_Indicadores": 65.96,
+    "IBGE": 230535,
+    "UF": "CE"
+  },
+  "ICÓ": {
+    "Media_Indicadores": 61.45,
+    "IBGE": 230540,
+    "UF": "CE"
+  },
+  "IGUATU": {
+    "Media_Indicadores": 67.0,
+    "IBGE": 230550,
+    "UF": "CE"
+  },
+  "INDEPENDÊNCIA": {
+    "Media_Indicadores": 69.07,
+    "IBGE": 230560,
+    "UF": "CE"
+  },
+  "IPAPORANGA": {
+    "Media_Indicadores": 72.63,
+    "IBGE": 230565,
+    "UF": "CE"
+  },
+  "IPAUMIRIM": {
+    "Media_Indicadores": 65.71,
+    "IBGE": 230570,
+    "UF": "CE"
+  },
+  "IPU": {
+    "Media_Indicadores": 53.77,
+    "IBGE": 230580,
+    "UF": "CE"
+  },
+  "IPUEIRAS": {
+    "Media_Indicadores": 63.38,
+    "IBGE": 230590,
+    "UF": "CE"
+  },
+  "IRACEMA": {
+    "Media_Indicadores": 63.33,
+    "IBGE": 230600,
+    "UF": "CE"
+  },
+  "IRAUÇUBA": {
+    "Media_Indicadores": 66.79,
+    "IBGE": 230610,
+    "UF": "CE"
+  },
+  "ITAITINGA": {
+    "Media_Indicadores": 62.94,
+    "IBGE": 230625,
+    "UF": "CE"
+  },
+  "ITAIÇABA": {
+    "Media_Indicadores": 79.55,
+    "IBGE": 230620,
+    "UF": "CE"
+  },
+  "ITAPAGÉ": {
+    "Media_Indicadores": 57.46,
+    "IBGE": 230630,
+    "UF": "CE"
+  },
+  "ITAPIPOCA": {
+    "Media_Indicadores": 55.7,
+    "IBGE": 230640,
+    "UF": "CE"
+  },
+  "ITAPIÚNA": {
+    "Media_Indicadores": 55.83,
+    "IBGE": 230650,
+    "UF": "CE"
+  },
+  "ITAREMA": {
+    "Media_Indicadores": 57.04,
+    "IBGE": 230655,
+    "UF": "CE"
+  },
+  "ITATIRA": {
+    "Media_Indicadores": 60.66,
+    "IBGE": 230660,
+    "UF": "CE"
+  },
+  "JAGUARETAMA": {
+    "Media_Indicadores": 65.38,
+    "IBGE": 230670,
+    "UF": "CE"
+  },
+  "JAGUARIBARA": {
+    "Media_Indicadores": 76.15,
+    "IBGE": 230680,
+    "UF": "CE"
+  },
+  "JAGUARIBE": {
+    "Media_Indicadores": 65.24,
+    "IBGE": 230690,
+    "UF": "CE"
+  },
+  "JAGUARUANA": {
+    "Media_Indicadores": 71.92,
+    "IBGE": 230700,
+    "UF": "CE"
+  },
+  "JARDIM": {
+    "Media_Indicadores": 52.18,
+    "IBGE": 230710,
+    "UF": "CE"
+  },
+  "JATI": {
+    "Media_Indicadores": 61.74,
+    "IBGE": 230720,
+    "UF": "CE"
+  },
+  "JIJOCA DE JERICOACOARA": {
+    "Media_Indicadores": 72.33,
+    "IBGE": 230725,
+    "UF": "CE"
+  },
+  "JUAZEIRO DO NORTE": {
+    "Media_Indicadores": 70.7,
+    "IBGE": 230730,
+    "UF": "CE"
+  },
+  "JUCÁS": {
+    "Media_Indicadores": 56.43,
+    "IBGE": 230740,
+    "UF": "CE"
+  },
+  "LAVRAS DA MANGABEIRA": {
+    "Media_Indicadores": 57.56,
+    "IBGE": 230750,
+    "UF": "CE"
+  },
+  "LIMOEIRO DO NORTE": {
+    "Media_Indicadores": 61.95,
+    "IBGE": 230760,
+    "UF": "CE"
+  },
+  "MADALENA": {
+    "Media_Indicadores": 52.16,
+    "IBGE": 230763,
+    "UF": "CE"
+  },
+  "MARACANAÚ": {
+    "Media_Indicadores": 51.91,
+    "IBGE": 230765,
+    "UF": "CE"
+  },
+  "MARANGUAPE": {
+    "Media_Indicadores": 54.58,
+    "IBGE": 230770,
+    "UF": "CE"
+  },
+  "MARCO": {
+    "Media_Indicadores": 77.5,
+    "IBGE": 230780,
+    "UF": "CE"
+  },
+  "MARTINÓPOLE": {
+    "Media_Indicadores": 74.36,
+    "IBGE": 230790,
+    "UF": "CE"
+  },
+  "MASSAPÊ": {
+    "Media_Indicadores": 63.64,
+    "IBGE": 230800,
+    "UF": "CE"
+  },
+  "MAURITI": {
+    "Media_Indicadores": 70.03,
+    "IBGE": 230810,
+    "UF": "CE"
+  },
+  "MERUOCA": {
+    "Media_Indicadores": 67.49,
+    "IBGE": 230820,
+    "UF": "CE"
+  },
+  "MILAGRES": {
+    "Media_Indicadores": 72.66,
+    "IBGE": 230830,
+    "UF": "CE"
+  },
+  "MILHÃ": {
+    "Media_Indicadores": 71.79,
+    "IBGE": 230835,
+    "UF": "CE"
+  },
+  "MIRAÍMA": {
+    "Media_Indicadores": 59.41,
+    "IBGE": 230837,
+    "UF": "CE"
+  },
+  "MISSÃO VELHA": {
+    "Media_Indicadores": 52.98,
+    "IBGE": 230840,
+    "UF": "CE"
+  },
+  "MOMBAÇA": {
+    "Media_Indicadores": 76.85,
+    "IBGE": 230850,
+    "UF": "CE"
+  },
+  "MONSENHOR TABOSA": {
+    "Media_Indicadores": 51.11,
+    "IBGE": 230860,
+    "UF": "CE"
+  },
+  "MORADA NOVA": {
+    "Media_Indicadores": 53.49,
+    "IBGE": 230870,
+    "UF": "CE"
+  },
+  "MORAÚJO": {
+    "Media_Indicadores": 66.35,
+    "IBGE": 230880,
+    "UF": "CE"
+  },
+  "MORRINHOS": {
+    "Media_Indicadores": 68.86,
+    "IBGE": 230890,
+    "UF": "CE"
+  },
+  "MUCAMBO": {
+    "Media_Indicadores": 64.72,
+    "IBGE": 230900,
+    "UF": "CE"
+  },
+  "MULUNGU": {
+    "Media_Indicadores": 67.05,
+    "IBGE": 230910,
+    "UF": "CE"
+  },
+  "NOVA OLINDA": {
+    "Media_Indicadores": 57.97,
+    "IBGE": 230920,
+    "UF": "CE"
+  },
+  "NOVA RUSSAS": {
+    "Media_Indicadores": 66.73,
+    "IBGE": 230930,
+    "UF": "CE"
+  },
+  "NOVO ORIENTE": {
+    "Media_Indicadores": 56.14,
+    "IBGE": 230940,
+    "UF": "CE"
+  },
+  "OCARA": {
+    "Media_Indicadores": 57.69,
+    "IBGE": 230945,
+    "UF": "CE"
+  },
+  "ORÓS": {
+    "Media_Indicadores": 77.1,
+    "IBGE": 230950,
+    "UF": "CE"
+  },
+  "PACAJUS": {
+    "Media_Indicadores": 58.65,
+    "IBGE": 230960,
+    "UF": "CE"
+  },
+  "PACATUBA": {
+    "Media_Indicadores": 60.45,
+    "IBGE": 230970,
+    "UF": "CE"
+  },
+  "PACOTI": {
+    "Media_Indicadores": 64.02,
+    "IBGE": 230980,
+    "UF": "CE"
+  },
+  "PACUJÁ": {
+    "Media_Indicadores": 64.1,
+    "IBGE": 230990,
+    "UF": "CE"
+  },
+  "PALHANO": {
+    "Media_Indicadores": 80.19,
+    "IBGE": 231000,
+    "UF": "CE"
+  },
+  "PALMÁCIA": {
+    "Media_Indicadores": 52.31,
+    "IBGE": 231010,
+    "UF": "CE"
+  },
+  "PARACURU": {
+    "Media_Indicadores": 49.2,
+    "IBGE": 231020,
+    "UF": "CE"
+  },
+  "PARAIPABA": {
+    "Media_Indicadores": 57.21,
+    "IBGE": 231025,
+    "UF": "CE"
+  },
+  "PARAMBU": {
+    "Media_Indicadores": 46.12,
+    "IBGE": 231030,
+    "UF": "CE"
+  },
+  "PARAMOTI": {
+    "Media_Indicadores": 65.0,
+    "IBGE": 231040,
+    "UF": "CE"
+  },
+  "PEDRA BRANCA": {
+    "Media_Indicadores": 78.38,
+    "IBGE": 231050,
+    "UF": "CE"
+  },
+  "PENAFORTE": {
+    "Media_Indicadores": 67.98,
+    "IBGE": 231060,
+    "UF": "CE"
+  },
+  "PENTECOSTE": {
+    "Media_Indicadores": 57.82,
+    "IBGE": 231070,
+    "UF": "CE"
+  },
+  "PEREIRO": {
+    "Media_Indicadores": 63.19,
+    "IBGE": 231080,
+    "UF": "CE"
+  },
+  "PINDORETAMA": {
+    "Media_Indicadores": 46.54,
+    "IBGE": 231085,
+    "UF": "CE"
+  },
+  "PIQUET CARNEIRO": {
+    "Media_Indicadores": 76.44,
+    "IBGE": 231090,
+    "UF": "CE"
+  },
+  "PIRES FERREIRA": {
+    "Media_Indicadores": 71.44,
+    "IBGE": 231095,
+    "UF": "CE"
+  },
+  "PORANGA": {
+    "Media_Indicadores": 64.71,
+    "IBGE": 231100,
+    "UF": "CE"
+  },
+  "PORTEIRAS": {
+    "Media_Indicadores": 67.58,
+    "IBGE": 231110,
+    "UF": "CE"
+  },
+  "POTENGI": {
+    "Media_Indicadores": 81.73,
+    "IBGE": 231120,
+    "UF": "CE"
+  },
+  "POTIRETAMA": {
+    "Media_Indicadores": 58.97,
+    "IBGE": 231123,
+    "UF": "CE"
+  },
+  "QUITERIANÓPOLIS": {
+    "Media_Indicadores": 64.34,
+    "IBGE": 231126,
+    "UF": "CE"
+  },
+  "QUIXADÁ": {
+    "Media_Indicadores": 56.89,
+    "IBGE": 231130,
+    "UF": "CE"
+  },
+  "QUIXELÔ": {
+    "Media_Indicadores": 67.31,
+    "IBGE": 231135,
+    "UF": "CE"
+  },
+  "QUIXERAMOBIM": {
+    "Media_Indicadores": 63.56,
+    "IBGE": 231140,
+    "UF": "CE"
+  },
+  "QUIXERÉ": {
+    "Media_Indicadores": 65.0,
+    "IBGE": 231150,
+    "UF": "CE"
+  },
+  "REDENÇÃO": {
+    "Media_Indicadores": 73.63,
+    "IBGE": 231160,
+    "UF": "CE"
+  },
+  "RERIUTABA": {
+    "Media_Indicadores": 75.03,
+    "IBGE": 231170,
+    "UF": "CE"
+  },
+  "RUSSAS": {
+    "Media_Indicadores": 78.29,
+    "IBGE": 231180,
+    "UF": "CE"
+  },
+  "SABOEIRO": {
+    "Media_Indicadores": 52.37,
+    "IBGE": 231190,
+    "UF": "CE"
+  },
+  "SALITRE": {
+    "Media_Indicadores": 66.59,
+    "IBGE": 231195,
+    "UF": "CE"
+  },
+  "SANTA QUITÉRIA": {
+    "Media_Indicadores": 56.72,
+    "IBGE": 231220,
+    "UF": "CE"
+  },
+  "SANTANA DO ACARAÚ": {
+    "Media_Indicadores": 66.33,
+    "IBGE": 231200,
+    "UF": "CE"
+  },
+  "SANTANA DO CARIRI": {
+    "Media_Indicadores": 65.95,
+    "IBGE": 231210,
+    "UF": "CE"
+  },
+  "SENADOR POMPEU": {
+    "Media_Indicadores": 70.12,
+    "IBGE": 231270,
+    "UF": "CE"
+  },
+  "SENADOR SÁ": {
+    "Media_Indicadores": 67.31,
+    "IBGE": 231280,
+    "UF": "CE"
+  },
+  "SOBRAL": {
+    "Media_Indicadores": 71.58,
+    "IBGE": 231290,
+    "UF": "CE"
+  },
+  "SOLONÓPOLE": {
+    "Media_Indicadores": 56.09,
+    "IBGE": 231300,
+    "UF": "CE"
+  },
+  "SÃO BENEDITO": {
+    "Media_Indicadores": 74.31,
+    "IBGE": 231230,
+    "UF": "CE"
+  },
+  "SÃO GONÇALO DO AMARANTE": {
+    "Media_Indicadores": 59.26,
+    "IBGE": 231240,
+    "UF": "CE"
+  },
+  "SÃO JOÃO DO JAGUARIBE": {
+    "Media_Indicadores": 76.44,
+    "IBGE": 231250,
+    "UF": "CE"
+  },
+  "SÃO LUÍS DO CURU": {
+    "Media_Indicadores": 62.27,
+    "IBGE": 231260,
+    "UF": "CE"
+  },
+  "TABULEIRO DO NORTE": {
+    "Media_Indicadores": 57.4,
+    "IBGE": 231310,
+    "UF": "CE"
+  },
+  "TAMBORIL": {
+    "Media_Indicadores": 72.97,
+    "IBGE": 231320,
+    "UF": "CE"
+  },
+  "TARRAFAS": {
+    "Media_Indicadores": 71.15,
+    "IBGE": 231325,
+    "UF": "CE"
+  },
+  "TAUÁ": {
+    "Media_Indicadores": 62.11,
+    "IBGE": 231330,
+    "UF": "CE"
+  },
+  "TEJUÇUOCA": {
+    "Media_Indicadores": 61.16,
+    "IBGE": 231335,
+    "UF": "CE"
+  },
+  "TIANGUÁ": {
+    "Media_Indicadores": 73.75,
+    "IBGE": 231340,
+    "UF": "CE"
+  },
+  "TRAIRI": {
+    "Media_Indicadores": 56.77,
+    "IBGE": 231350,
+    "UF": "CE"
+  },
+  "TURURU": {
+    "Media_Indicadores": 53.85,
+    "IBGE": 231355,
+    "UF": "CE"
+  },
+  "UBAJARA": {
+    "Media_Indicadores": 76.88,
+    "IBGE": 231360,
+    "UF": "CE"
+  },
+  "UMARI": {
+    "Media_Indicadores": 48.56,
+    "IBGE": 231370,
+    "UF": "CE"
+  },
+  "UMIRIM": {
+    "Media_Indicadores": 49.28,
+    "IBGE": 231375,
+    "UF": "CE"
+  },
+  "URUBURETAMA": {
+    "Media_Indicadores": 75.24,
+    "IBGE": 231380,
+    "UF": "CE"
+  },
+  "URUOCA": {
+    "Media_Indicadores": 68.68,
+    "IBGE": 231390,
+    "UF": "CE"
+  },
+  "VARJOTA": {
+    "Media_Indicadores": 74.1,
+    "IBGE": 231395,
+    "UF": "CE"
+  },
+  "VIÇOSA DO CEARÁ": {
+    "Media_Indicadores": 62.07,
+    "IBGE": 231410,
+    "UF": "CE"
+  },
+  "VÁRZEA ALEGRE": {
+    "Media_Indicadores": 62.26,
+    "IBGE": 231400,
+    "UF": "CE"
+  }
+}
