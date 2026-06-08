@@ -18,13 +18,7 @@ import {
 import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Search, TrendingUp, Award, Heart, Users } from "lucide-react";
-
-interface Indicators {
-  [key: string]: {
-    [key: string]: number;
-  };
-}
+import { Search, TrendingUp, Award } from "lucide-react";
 
 interface RankingItem {
   Posicao: number;
@@ -37,8 +31,13 @@ interface RankingItem {
     Bom: number;
     Suficiente: number;
     Regular: number;
+    Vínculo_eSF: number;
+    Vínculo_eAP: number;
+    Qualidade_eSF: number;
+    Qualidade_eAP: number;
+    Qualidade_eSB: number;
+    Qualidade_eMulti: number;
   };
-  Indicadores?: Indicators;
 }
 
 export default function Home() {
@@ -112,23 +111,6 @@ export default function Home() {
     if (desempenho >= 75) return "Bom";
     if (desempenho >= 50) return "Suficiente";
     return "Regular";
-  };
-
-  const IndicatorBar = ({ value, label }: { value: number; label: string }) => {
-    return (
-      <div className="space-y-1">
-        <div className="flex justify-between items-center text-sm">
-          <span className="text-gray-700">{label}</span>
-          <span className="font-semibold text-gray-900">{value.toFixed(1)}%</span>
-        </div>
-        <div className="w-full bg-gray-200 rounded-full h-2">
-          <div
-            className="bg-blue-600 h-2 rounded-full transition-all duration-300"
-            style={{ width: `${Math.min(value, 100)}%` }}
-          ></div>
-        </div>
-      </div>
-    );
   };
 
   if (isLoading) {
@@ -338,10 +320,10 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Distribuição de Equipes */}
+            {/* Distribuição de Equipes por Classificação */}
             <div className="space-y-3">
               <h4 className="font-semibold text-gray-900 text-lg">
-                Distribuição de Equipes
+                Distribuição de Equipes por Classificação
               </h4>
 
               <div className="grid grid-cols-2 gap-4">
@@ -385,91 +367,84 @@ export default function Home() {
                   </span>
                 </div>
               </div>
-
-              <div className="pt-4 border-t border-gray-200">
-                <div className="text-sm text-gray-600">Total de Equipes</div>
-                <div className="text-2xl font-bold text-gray-900">
-                  {(selectedItem?.Detalhes.Ótimo || 0) +
-                    (selectedItem?.Detalhes.Bom || 0) +
-                    (selectedItem?.Detalhes.Suficiente || 0) +
-                    (selectedItem?.Detalhes.Regular || 0)}
-                </div>
-              </div>
             </div>
 
-            {/* Indicadores Específicos */}
-            {selectedItem?.Indicadores && (
-              <div className="space-y-4">
-                <h4 className="font-semibold text-gray-900 text-lg">
-                  Indicadores Específicos
-                </h4>
+            {/* Indicadores por Tipo de Equipe */}
+            <div className="space-y-3">
+              <h4 className="font-semibold text-gray-900 text-lg">
+                Indicadores por Tipo de Equipe
+              </h4>
 
-                <Tabs defaultValue="diabetes" className="w-full">
-                  <TabsList className="grid w-full grid-cols-3">
-                    <TabsTrigger value="diabetes" className="flex items-center gap-2">
-                      <Heart className="w-4 h-4" />
-                      <span className="hidden sm:inline">Diabetes</span>
-                    </TabsTrigger>
-                    <TabsTrigger value="hipertensao" className="flex items-center gap-2">
-                      <Heart className="w-4 h-4" />
-                      <span className="hidden sm:inline">Hipertensão</span>
-                    </TabsTrigger>
-                    <TabsTrigger value="idoso" className="flex items-center gap-2">
-                      <Users className="w-4 h-4" />
-                      <span className="hidden sm:inline">Idoso</span>
-                    </TabsTrigger>
-                  </TabsList>
+              <Tabs defaultValue="vinculo" className="w-full">
+                <TabsList className="grid w-full grid-cols-2">
+                  <TabsTrigger value="vinculo">
+                    Vínculo e Acompanhamento
+                  </TabsTrigger>
+                  <TabsTrigger value="qualidade">Qualidade</TabsTrigger>
+                </TabsList>
 
-                  <TabsContent value="diabetes" className="space-y-4 mt-4">
-                    <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
-                      <h5 className="font-semibold text-gray-900 mb-4">
-                        Cuidado com Pessoa com Diabetes
-                      </h5>
-                      <div className="space-y-4">
-                        {selectedItem.Indicadores.Diabetes &&
-                          Object.entries(selectedItem.Indicadores.Diabetes).map(
-                            ([key, value]) => (
-                              <IndicatorBar key={key} value={value as number} label={key} />
-                            )
-                          )}
+                <TabsContent value="vinculo" className="space-y-3 mt-4">
+                  <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
+                    <div className="space-y-3">
+                      <div className="flex items-center justify-between p-2 bg-white rounded">
+                        <span className="text-sm text-gray-700">Equipes de Saúde da Família (eSF)</span>
+                        <span className="font-semibold text-blue-600">
+                          {selectedItem?.Detalhes.Vínculo_eSF || 0}
+                        </span>
+                      </div>
+                      <div className="flex items-center justify-between p-2 bg-white rounded">
+                        <span className="text-sm text-gray-700">Equipes de Atenção Primária (eAP)</span>
+                        <span className="font-semibold text-blue-600">
+                          {selectedItem?.Detalhes.Vínculo_eAP || 0}
+                        </span>
                       </div>
                     </div>
-                  </TabsContent>
+                  </div>
+                </TabsContent>
 
-                  <TabsContent value="hipertensao" className="space-y-4 mt-4">
-                    <div className="bg-red-50 p-4 rounded-lg border border-red-200">
-                      <h5 className="font-semibold text-gray-900 mb-4">
-                        Cuidado com Pessoa com Hipertensão
-                      </h5>
-                      <div className="space-y-4">
-                        {selectedItem.Indicadores.Hipertensão &&
-                          Object.entries(selectedItem.Indicadores.Hipertensão).map(
-                            ([key, value]) => (
-                              <IndicatorBar key={key} value={value as number} label={key} />
-                            )
-                          )}
+                <TabsContent value="qualidade" className="space-y-3 mt-4">
+                  <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
+                    <div className="space-y-3">
+                      <div className="flex items-center justify-between p-2 bg-white rounded">
+                        <span className="text-sm text-gray-700">Equipes de Saúde da Família (eSF)</span>
+                        <span className="font-semibold text-purple-600">
+                          {selectedItem?.Detalhes.Qualidade_eSF || 0}
+                        </span>
+                      </div>
+                      <div className="flex items-center justify-between p-2 bg-white rounded">
+                        <span className="text-sm text-gray-700">Equipes de Atenção Primária (eAP)</span>
+                        <span className="font-semibold text-purple-600">
+                          {selectedItem?.Detalhes.Qualidade_eAP || 0}
+                        </span>
+                      </div>
+                      <div className="flex items-center justify-between p-2 bg-white rounded">
+                        <span className="text-sm text-gray-700">Equipes de Saúde Bucal (eSB)</span>
+                        <span className="font-semibold text-purple-600">
+                          {selectedItem?.Detalhes.Qualidade_eSB || 0}
+                        </span>
+                      </div>
+                      <div className="flex items-center justify-between p-2 bg-white rounded">
+                        <span className="text-sm text-gray-700">Equipes Multiprofissionais (eMulti)</span>
+                        <span className="font-semibold text-purple-600">
+                          {selectedItem?.Detalhes.Qualidade_eMulti || 0}
+                        </span>
                       </div>
                     </div>
-                  </TabsContent>
+                  </div>
+                </TabsContent>
+              </Tabs>
+            </div>
 
-                  <TabsContent value="idoso" className="space-y-4 mt-4">
-                    <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
-                      <h5 className="font-semibold text-gray-900 mb-4">
-                        Cuidado com Pessoa Idosa
-                      </h5>
-                      <div className="space-y-4">
-                        {selectedItem.Indicadores["Pessoa Idosa"] &&
-                          Object.entries(selectedItem.Indicadores["Pessoa Idosa"]).map(
-                            ([key, value]) => (
-                              <IndicatorBar key={key} value={value as number} label={key} />
-                            )
-                          )}
-                      </div>
-                    </div>
-                  </TabsContent>
-                </Tabs>
+            {/* Total de Equipes */}
+            <div className="pt-4 border-t border-gray-200">
+              <div className="text-sm text-gray-600">Total de Equipes Avaliadas</div>
+              <div className="text-2xl font-bold text-gray-900">
+                {(selectedItem?.Detalhes.Ótimo || 0) +
+                  (selectedItem?.Detalhes.Bom || 0) +
+                  (selectedItem?.Detalhes.Suficiente || 0) +
+                  (selectedItem?.Detalhes.Regular || 0)}
               </div>
-            )}
+            </div>
           </div>
         </DialogContent>
       </Dialog>

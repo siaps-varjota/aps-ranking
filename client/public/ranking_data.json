@@ -9,27 +9,13 @@
       "Ótimo": 7,
       "Bom": 2,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 94.3,
-        "Acompanhamento de Diabéticos": 90.2,
-        "Prescrição de Medicamentos": 79.6,
-        "Realização de Exames": 81.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 91.3,
-        "Acompanhamento de Hipertensos": 84.0,
-        "Prescrição de Medicamentos": 81.2,
-        "Controle de Pressão Arterial": 78.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 84.4,
-        "Acompanhamento Regular": 87.2,
-        "Vacinação em Dia": 87.6,
-        "Prevenção de Quedas": 74.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 2,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -42,27 +28,13 @@
       "Ótimo": 12,
       "Bom": 5,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.3,
-        "Acompanhamento de Diabéticos": 85.3,
-        "Prescrição de Medicamentos": 79.6,
-        "Realização de Exames": 75.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 93.2,
-        "Acompanhamento de Hipertensos": 84.5,
-        "Prescrição de Medicamentos": 82.0,
-        "Controle de Pressão Arterial": 83.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.1,
-        "Acompanhamento Regular": 85.4,
-        "Vacinação em Dia": 86.2,
-        "Prevenção de Quedas": 79.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -75,27 +47,13 @@
       "Ótimo": 11,
       "Bom": 5,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 91.0,
-        "Acompanhamento de Diabéticos": 86.0,
-        "Prescrição de Medicamentos": 83.1,
-        "Realização de Exames": 74.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 86.3,
-        "Acompanhamento de Hipertensos": 89.8,
-        "Prescrição de Medicamentos": 77.9,
-        "Controle de Pressão Arterial": 75.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.4,
-        "Acompanhamento Regular": 78.8,
-        "Vacinação em Dia": 84.8,
-        "Prevenção de Quedas": 73.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -108,27 +66,13 @@
       "Ótimo": 8,
       "Bom": 4,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.7,
-        "Acompanhamento de Diabéticos": 83.2,
-        "Prescrição de Medicamentos": 78.5,
-        "Realização de Exames": 76.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 91.7,
-        "Acompanhamento de Hipertensos": 80.9,
-        "Prescrição de Medicamentos": 83.0,
-        "Controle de Pressão Arterial": 82.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 84.4,
-        "Acompanhamento Regular": 81.3,
-        "Vacinação em Dia": 85.1,
-        "Prevenção de Quedas": 79.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -141,27 +85,13 @@
       "Ótimo": 11,
       "Bom": 3,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 87.6,
-        "Acompanhamento de Diabéticos": 80.1,
-        "Prescrição de Medicamentos": 85.1,
-        "Realização de Exames": 73.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.4,
-        "Acompanhamento de Hipertensos": 84.6,
-        "Prescrição de Medicamentos": 86.0,
-        "Controle de Pressão Arterial": 80.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 80.4,
-        "Acompanhamento Regular": 86.5,
-        "Vacinação em Dia": 79.0,
-        "Prevenção de Quedas": 75.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -174,27 +104,13 @@
       "Ótimo": 18,
       "Bom": 9,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 85.1,
-        "Acompanhamento de Diabéticos": 85.2,
-        "Prescrição de Medicamentos": 79.6,
-        "Realização de Exames": 74.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 87.3,
-        "Acompanhamento de Hipertensos": 87.2,
-        "Prescrição de Medicamentos": 84.0,
-        "Controle de Pressão Arterial": 81.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 81.1,
-        "Acompanhamento Regular": 82.9,
-        "Vacinação em Dia": 79.4,
-        "Prevenção de Quedas": 75.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -207,27 +123,13 @@
       "Ótimo": 32,
       "Bom": 17,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 89.5,
-        "Acompanhamento de Diabéticos": 86.6,
-        "Prescrição de Medicamentos": 78.2,
-        "Realização de Exames": 74.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 91.0,
-        "Acompanhamento de Hipertensos": 89.3,
-        "Prescrição de Medicamentos": 76.8,
-        "Controle de Pressão Arterial": 74.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.5,
-        "Acompanhamento Regular": 78.0,
-        "Vacinação em Dia": 84.5,
-        "Prevenção de Quedas": 76.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 17,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 17,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -240,27 +142,13 @@
       "Ótimo": 11,
       "Bom": 6,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.0,
-        "Acompanhamento de Diabéticos": 84.2,
-        "Prescrição de Medicamentos": 83.7,
-        "Realização de Exames": 75.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.3,
-        "Acompanhamento de Hipertensos": 82.5,
-        "Prescrição de Medicamentos": 79.5,
-        "Controle de Pressão Arterial": 77.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 84.2,
-        "Acompanhamento Regular": 84.3,
-        "Vacinação em Dia": 80.6,
-        "Prevenção de Quedas": 71.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -273,27 +161,13 @@
       "Ótimo": 14,
       "Bom": 3,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 85.4,
-        "Acompanhamento de Diabéticos": 85.4,
-        "Prescrição de Medicamentos": 79.0,
-        "Realização de Exames": 73.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 86.9,
-        "Acompanhamento de Hipertensos": 79.6,
-        "Prescrição de Medicamentos": 85.1,
-        "Controle de Pressão Arterial": 75.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 80.5,
-        "Acompanhamento Regular": 83.7,
-        "Vacinação em Dia": 86.8,
-        "Prevenção de Quedas": 78.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -306,27 +180,13 @@
       "Ótimo": 12,
       "Bom": 7,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 87.6,
-        "Acompanhamento de Diabéticos": 82.8,
-        "Prescrição de Medicamentos": 77.7,
-        "Realização de Exames": 72.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.5,
-        "Acompanhamento de Hipertensos": 86.1,
-        "Prescrição de Medicamentos": 78.7,
-        "Controle de Pressão Arterial": 76.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.7,
-        "Acompanhamento Regular": 80.9,
-        "Vacinação em Dia": 86.7,
-        "Prevenção de Quedas": 77.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -339,27 +199,13 @@
       "Ótimo": 23,
       "Bom": 5,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.9,
-        "Acompanhamento de Diabéticos": 81.5,
-        "Prescrição de Medicamentos": 76.1,
-        "Realização de Exames": 74.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 87.7,
-        "Acompanhamento de Hipertensos": 83.8,
-        "Prescrição de Medicamentos": 83.0,
-        "Controle de Pressão Arterial": 79.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.9,
-        "Acompanhamento Regular": 82.5,
-        "Vacinação em Dia": 80.8,
-        "Prevenção de Quedas": 75.5
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 10,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 10,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -372,27 +218,13 @@
       "Ótimo": 18,
       "Bom": 9,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.8,
-        "Acompanhamento de Diabéticos": 81.4,
-        "Prescrição de Medicamentos": 81.0,
-        "Realização de Exames": 77.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 91.3,
-        "Acompanhamento de Hipertensos": 87.6,
-        "Prescrição de Medicamentos": 84.3,
-        "Controle de Pressão Arterial": 75.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.7,
-        "Acompanhamento Regular": 81.3,
-        "Vacinação em Dia": 86.1,
-        "Prevenção de Quedas": 78.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -405,27 +237,13 @@
       "Ótimo": 9,
       "Bom": 6,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 89.2,
-        "Acompanhamento de Diabéticos": 81.0,
-        "Prescrição de Medicamentos": 79.3,
-        "Realização de Exames": 72.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 87.0,
-        "Acompanhamento de Hipertensos": 80.0,
-        "Prescrição de Medicamentos": 80.1,
-        "Controle de Pressão Arterial": 80.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.7,
-        "Acompanhamento Regular": 77.8,
-        "Vacinação em Dia": 78.0,
-        "Prevenção de Quedas": 70.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -438,27 +256,13 @@
       "Ótimo": 8,
       "Bom": 3,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 87.4,
-        "Acompanhamento de Diabéticos": 83.6,
-        "Prescrição de Medicamentos": 82.5,
-        "Realização de Exames": 72.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.0,
-        "Acompanhamento de Hipertensos": 79.4,
-        "Prescrição de Medicamentos": 81.4,
-        "Controle de Pressão Arterial": 75.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.5,
-        "Acompanhamento Regular": 78.7,
-        "Vacinação em Dia": 83.2,
-        "Prevenção de Quedas": 70.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -471,27 +275,13 @@
       "Ótimo": 19,
       "Bom": 2,
       "Suficiente": 1,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.3,
-        "Acompanhamento de Diabéticos": 79.1,
-        "Prescrição de Medicamentos": 79.6,
-        "Realização de Exames": 79.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 86.0,
-        "Acompanhamento de Hipertensos": 87.1,
-        "Prescrição de Medicamentos": 76.3,
-        "Controle de Pressão Arterial": 81.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.8,
-        "Acompanhamento Regular": 85.0,
-        "Vacinação em Dia": 83.9,
-        "Prevenção de Quedas": 74.5
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 10,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 10,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 1,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -504,27 +294,13 @@
       "Ótimo": 11,
       "Bom": 8,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.8,
-        "Acompanhamento de Diabéticos": 80.0,
-        "Prescrição de Medicamentos": 81.2,
-        "Realização de Exames": 77.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.9,
-        "Acompanhamento de Hipertensos": 87.7,
-        "Prescrição de Medicamentos": 74.9,
-        "Controle de Pressão Arterial": 78.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.4,
-        "Acompanhamento Regular": 79.0,
-        "Vacinação em Dia": 84.4,
-        "Prevenção de Quedas": 73.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -537,27 +313,13 @@
       "Ótimo": 16,
       "Bom": 9,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 88.0,
-        "Acompanhamento de Diabéticos": 84.2,
-        "Prescrição de Medicamentos": 79.0,
-        "Realização de Exames": 71.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 89.8,
-        "Acompanhamento de Hipertensos": 78.5,
-        "Prescrição de Medicamentos": 84.4,
-        "Controle de Pressão Arterial": 78.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.5,
-        "Acompanhamento Regular": 81.2,
-        "Vacinação em Dia": 84.4,
-        "Prevenção de Quedas": 77.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -570,27 +332,13 @@
       "Ótimo": 13,
       "Bom": 7,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.3,
-        "Acompanhamento de Diabéticos": 80.0,
-        "Prescrição de Medicamentos": 81.3,
-        "Realização de Exames": 77.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.7,
-        "Acompanhamento de Hipertensos": 82.4,
-        "Prescrição de Medicamentos": 83.8,
-        "Controle de Pressão Arterial": 73.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.1,
-        "Acompanhamento Regular": 85.2,
-        "Vacinação em Dia": 80.0,
-        "Prevenção de Quedas": 77.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -603,27 +351,13 @@
       "Ótimo": 8,
       "Bom": 6,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 87.5,
-        "Acompanhamento de Diabéticos": 81.9,
-        "Prescrição de Medicamentos": 81.5,
-        "Realização de Exames": 80.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 88.0,
-        "Acompanhamento de Hipertensos": 79.3,
-        "Prescrição de Medicamentos": 83.3,
-        "Controle de Pressão Arterial": 74.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.5,
-        "Acompanhamento Regular": 83.9,
-        "Vacinação em Dia": 76.8,
-        "Prevenção de Quedas": 69.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -636,27 +370,13 @@
       "Ótimo": 24,
       "Bom": 13,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 80.8,
-        "Acompanhamento de Diabéticos": 83.0,
-        "Prescrição de Medicamentos": 75.4,
-        "Realização de Exames": 77.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.8,
-        "Acompanhamento de Hipertensos": 80.2,
-        "Prescrição de Medicamentos": 77.5,
-        "Controle de Pressão Arterial": 77.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 80.6,
-        "Acompanhamento Regular": 84.5,
-        "Vacinação em Dia": 76.8,
-        "Prevenção de Quedas": 70.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -669,27 +389,13 @@
       "Ótimo": 11,
       "Bom": 3,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 88.3,
-        "Acompanhamento de Diabéticos": 78.1,
-        "Prescrição de Medicamentos": 78.3,
-        "Realização de Exames": 78.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 88.2,
-        "Acompanhamento de Hipertensos": 80.3,
-        "Prescrição de Medicamentos": 77.2,
-        "Controle de Pressão Arterial": 78.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.6,
-        "Acompanhamento Regular": 78.8,
-        "Vacinação em Dia": 82.2,
-        "Prevenção de Quedas": 74.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -702,27 +408,13 @@
       "Ótimo": 10,
       "Bom": 5,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.9,
-        "Acompanhamento de Diabéticos": 83.2,
-        "Prescrição de Medicamentos": 81.5,
-        "Realização de Exames": 74.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.3,
-        "Acompanhamento de Hipertensos": 83.0,
-        "Prescrição de Medicamentos": 76.6,
-        "Controle de Pressão Arterial": 72.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.3,
-        "Acompanhamento Regular": 82.7,
-        "Vacinação em Dia": 79.5,
-        "Prevenção de Quedas": 70.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -735,27 +427,13 @@
       "Ótimo": 22,
       "Bom": 8,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.6,
-        "Acompanhamento de Diabéticos": 86.0,
-        "Prescrição de Medicamentos": 76.4,
-        "Realização de Exames": 74.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.7,
-        "Acompanhamento de Hipertensos": 77.5,
-        "Prescrição de Medicamentos": 78.8,
-        "Controle de Pressão Arterial": 74.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 81.0,
-        "Acompanhamento Regular": 75.8,
-        "Vacinação em Dia": 84.9,
-        "Prevenção de Quedas": 75.5
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -768,27 +446,13 @@
       "Ótimo": 13,
       "Bom": 8,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 85.6,
-        "Acompanhamento de Diabéticos": 83.4,
-        "Prescrição de Medicamentos": 78.8,
-        "Realização de Exames": 73.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 86.1,
-        "Acompanhamento de Hipertensos": 83.3,
-        "Prescrição de Medicamentos": 78.3,
-        "Controle de Pressão Arterial": 71.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.4,
-        "Acompanhamento Regular": 80.2,
-        "Vacinação em Dia": 76.9,
-        "Prevenção de Quedas": 76.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -801,27 +465,13 @@
       "Ótimo": 16,
       "Bom": 5,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.6,
-        "Acompanhamento de Diabéticos": 84.7,
-        "Prescrição de Medicamentos": 76.1,
-        "Realização de Exames": 73.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 87.9,
-        "Acompanhamento de Hipertensos": 85.2,
-        "Prescrição de Medicamentos": 82.0,
-        "Controle de Pressão Arterial": 78.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 77.5,
-        "Acompanhamento Regular": 75.1,
-        "Vacinação em Dia": 84.9,
-        "Prevenção de Quedas": 77.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -834,27 +484,13 @@
       "Ótimo": 16,
       "Bom": 12,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 87.8,
-        "Acompanhamento de Diabéticos": 78.2,
-        "Prescrição de Medicamentos": 78.1,
-        "Realização de Exames": 73.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.0,
-        "Acompanhamento de Hipertensos": 83.6,
-        "Prescrição de Medicamentos": 78.2,
-        "Controle de Pressão Arterial": 73.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.2,
-        "Acompanhamento Regular": 76.7,
-        "Vacinação em Dia": 84.8,
-        "Prevenção de Quedas": 70.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -867,27 +503,13 @@
       "Ótimo": 15,
       "Bom": 14,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 80.3,
-        "Acompanhamento de Diabéticos": 83.1,
-        "Prescrição de Medicamentos": 75.8,
-        "Realização de Exames": 71.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.1,
-        "Acompanhamento de Hipertensos": 84.4,
-        "Prescrição de Medicamentos": 74.4,
-        "Controle de Pressão Arterial": 76.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.8,
-        "Acompanhamento Regular": 81.9,
-        "Vacinação em Dia": 82.0,
-        "Prevenção de Quedas": 68.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -900,27 +522,13 @@
       "Ótimo": 5,
       "Bom": 5,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 84.8,
-        "Acompanhamento de Diabéticos": 81.1,
-        "Prescrição de Medicamentos": 81.0,
-        "Realização de Exames": 72.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.9,
-        "Acompanhamento de Hipertensos": 84.5,
-        "Prescrição de Medicamentos": 74.9,
-        "Controle de Pressão Arterial": 71.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.5,
-        "Acompanhamento Regular": 77.3,
-        "Vacinação em Dia": 78.8,
-        "Prevenção de Quedas": 72.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -933,27 +541,13 @@
       "Ótimo": 27,
       "Bom": 18,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.4,
-        "Acompanhamento de Diabéticos": 80.0,
-        "Prescrição de Medicamentos": 80.6,
-        "Realização de Exames": 71.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.5,
-        "Acompanhamento de Hipertensos": 77.2,
-        "Prescrição de Medicamentos": 77.9,
-        "Controle de Pressão Arterial": 77.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 77.0,
-        "Acompanhamento Regular": 80.2,
-        "Vacinação em Dia": 77.5,
-        "Prevenção de Quedas": 75.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 17,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 17,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -966,27 +560,13 @@
       "Ótimo": 23,
       "Bom": 12,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.1,
-        "Acompanhamento de Diabéticos": 81.9,
-        "Prescrição de Medicamentos": 73.7,
-        "Realização de Exames": 74.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.8,
-        "Acompanhamento de Hipertensos": 81.4,
-        "Prescrição de Medicamentos": 76.2,
-        "Controle de Pressão Arterial": 76.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.4,
-        "Acompanhamento Regular": 77.9,
-        "Vacinação em Dia": 79.5,
-        "Prevenção de Quedas": 73.1
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 10,
+      "Vínculo_eAP": 3,
+      "Qualidade_eSF": 10,
+      "Qualidade_eAP": 3,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -999,27 +579,13 @@
       "Ótimo": 17,
       "Bom": 8,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 80.7,
-        "Acompanhamento de Diabéticos": 76.6,
-        "Prescrição de Medicamentos": 73.2,
-        "Realização de Exames": 77.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.2,
-        "Acompanhamento de Hipertensos": 82.2,
-        "Prescrição de Medicamentos": 81.9,
-        "Controle de Pressão Arterial": 75.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.5,
-        "Acompanhamento Regular": 80.6,
-        "Vacinação em Dia": 82.4,
-        "Prevenção de Quedas": 70.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1032,27 +598,13 @@
       "Ótimo": 7,
       "Bom": 4,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 81.2,
-        "Acompanhamento de Diabéticos": 81.5,
-        "Prescrição de Medicamentos": 79.0,
-        "Realização de Exames": 76.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.9,
-        "Acompanhamento de Hipertensos": 82.5,
-        "Prescrição de Medicamentos": 76.6,
-        "Controle de Pressão Arterial": 78.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.9,
-        "Acompanhamento Regular": 79.4,
-        "Vacinação em Dia": 79.4,
-        "Prevenção de Quedas": 70.6
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -1065,27 +617,13 @@
       "Ótimo": 50,
       "Bom": 26,
       "Suficiente": 5,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.9,
-        "Acompanhamento de Diabéticos": 78.8,
-        "Prescrição de Medicamentos": 81.4,
-        "Realização de Exames": 77.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.3,
-        "Acompanhamento de Hipertensos": 77.6,
-        "Prescrição de Medicamentos": 79.1,
-        "Controle de Pressão Arterial": 78.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.7,
-        "Acompanhamento Regular": 75.6,
-        "Vacinação em Dia": 76.5,
-        "Prevenção de Quedas": 68.5
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 28,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 28,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 21,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1098,27 +636,13 @@
       "Ótimo": 32,
       "Bom": 15,
       "Suficiente": 3,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 81.0,
-        "Acompanhamento de Diabéticos": 75.4,
-        "Prescrição de Medicamentos": 80.7,
-        "Realização de Exames": 75.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 87.6,
-        "Acompanhamento de Hipertensos": 84.9,
-        "Prescrição de Medicamentos": 80.9,
-        "Controle de Pressão Arterial": 78.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.5,
-        "Acompanhamento Regular": 80.7,
-        "Vacinação em Dia": 76.5,
-        "Prevenção de Quedas": 72.3
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1131,27 +655,13 @@
       "Ótimo": 13,
       "Bom": 11,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 85.3,
-        "Acompanhamento de Diabéticos": 77.2,
-        "Prescrição de Medicamentos": 77.6,
-        "Realização de Exames": 76.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.6,
-        "Acompanhamento de Hipertensos": 80.8,
-        "Prescrição de Medicamentos": 79.5,
-        "Controle de Pressão Arterial": 75.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.9,
-        "Acompanhamento Regular": 77.5,
-        "Vacinação em Dia": 83.1,
-        "Prevenção de Quedas": 68.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1164,27 +674,13 @@
       "Ótimo": 13,
       "Bom": 8,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.3,
-        "Acompanhamento de Diabéticos": 81.2,
-        "Prescrição de Medicamentos": 79.1,
-        "Realização de Exames": 78.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.2,
-        "Acompanhamento de Hipertensos": 75.9,
-        "Prescrição de Medicamentos": 81.5,
-        "Controle de Pressão Arterial": 76.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.3,
-        "Acompanhamento Regular": 73.5,
-        "Vacinação em Dia": 79.9,
-        "Prevenção de Quedas": 75.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1197,27 +693,13 @@
       "Ótimo": 23,
       "Bom": 19,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 81.9,
-        "Acompanhamento de Diabéticos": 81.4,
-        "Prescrição de Medicamentos": 79.5,
-        "Realização de Exames": 69.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.9,
-        "Acompanhamento de Hipertensos": 79.7,
-        "Prescrição de Medicamentos": 72.9,
-        "Controle de Pressão Arterial": 74.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.1,
-        "Acompanhamento Regular": 77.6,
-        "Vacinação em Dia": 81.1,
-        "Prevenção de Quedas": 69.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 14,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 14,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1230,27 +712,13 @@
       "Ótimo": 10,
       "Bom": 11,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 80.3,
-        "Acompanhamento de Diabéticos": 78.3,
-        "Prescrição de Medicamentos": 75.0,
-        "Realização de Exames": 69.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.5,
-        "Acompanhamento de Hipertensos": 85.3,
-        "Prescrição de Medicamentos": 76.8,
-        "Controle de Pressão Arterial": 72.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.6,
-        "Acompanhamento Regular": 73.7,
-        "Vacinação em Dia": 82.1,
-        "Prevenção de Quedas": 71.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1263,27 +731,13 @@
       "Ótimo": 15,
       "Bom": 11,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.9,
-        "Acompanhamento de Diabéticos": 77.7,
-        "Prescrição de Medicamentos": 78.3,
-        "Realização de Exames": 73.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.9,
-        "Acompanhamento de Hipertensos": 76.0,
-        "Prescrição de Medicamentos": 79.6,
-        "Controle de Pressão Arterial": 71.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.7,
-        "Acompanhamento Regular": 80.0,
-        "Vacinação em Dia": 75.5,
-        "Prevenção de Quedas": 67.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1296,27 +750,13 @@
       "Ótimo": 13,
       "Bom": 12,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 85.0,
-        "Acompanhamento de Diabéticos": 84.4,
-        "Prescrição de Medicamentos": 78.0,
-        "Realização de Exames": 72.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.6,
-        "Acompanhamento de Hipertensos": 83.2,
-        "Prescrição de Medicamentos": 78.0,
-        "Controle de Pressão Arterial": 78.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.8,
-        "Acompanhamento Regular": 73.8,
-        "Vacinação em Dia": 77.1,
-        "Prevenção de Quedas": 73.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1329,27 +769,13 @@
       "Ótimo": 21,
       "Bom": 15,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.6,
-        "Acompanhamento de Diabéticos": 81.2,
-        "Prescrição de Medicamentos": 77.5,
-        "Realização de Exames": 73.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.9,
-        "Acompanhamento de Hipertensos": 85.2,
-        "Prescrição de Medicamentos": 77.9,
-        "Controle de Pressão Arterial": 76.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.1,
-        "Acompanhamento Regular": 75.6,
-        "Vacinação em Dia": 74.2,
-        "Prevenção de Quedas": 70.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1362,27 +788,13 @@
       "Ótimo": 18,
       "Bom": 16,
       "Suficiente": 0,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.2,
-        "Acompanhamento de Diabéticos": 75.1,
-        "Prescrição de Medicamentos": 79.3,
-        "Realização de Exames": 74.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.8,
-        "Acompanhamento de Hipertensos": 80.5,
-        "Prescrição de Medicamentos": 79.4,
-        "Controle de Pressão Arterial": 71.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 77.6,
-        "Acompanhamento Regular": 74.5,
-        "Vacinação em Dia": 74.2,
-        "Prevenção de Quedas": 76.6
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 12,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 12,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1395,27 +807,13 @@
       "Ótimo": 44,
       "Bom": 30,
       "Suficiente": 7,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.6,
-        "Acompanhamento de Diabéticos": 84.0,
-        "Prescrição de Medicamentos": 78.8,
-        "Realização de Exames": 70.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.0,
-        "Acompanhamento de Hipertensos": 77.2,
-        "Prescrição de Medicamentos": 75.8,
-        "Controle de Pressão Arterial": 74.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.1,
-        "Acompanhamento Regular": 79.7,
-        "Vacinação em Dia": 76.8,
-        "Prevenção de Quedas": 69.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 26,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 26,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 26,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -1428,27 +826,13 @@
       "Ótimo": 21,
       "Bom": 6,
       "Suficiente": 6,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.0,
-        "Acompanhamento de Diabéticos": 80.8,
-        "Prescrição de Medicamentos": 80.5,
-        "Realização de Exames": 69.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 87.8,
-        "Acompanhamento de Hipertensos": 84.9,
-        "Prescrição de Medicamentos": 80.0,
-        "Controle de Pressão Arterial": 69.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.0,
-        "Acompanhamento Regular": 74.2,
-        "Vacinação em Dia": 75.9,
-        "Prevenção de Quedas": 76.6
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -1461,27 +845,13 @@
       "Ótimo": 12,
       "Bom": 8,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.4,
-        "Acompanhamento de Diabéticos": 75.3,
-        "Prescrição de Medicamentos": 76.3,
-        "Realização de Exames": 71.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.7,
-        "Acompanhamento de Hipertensos": 81.8,
-        "Prescrição de Medicamentos": 78.2,
-        "Controle de Pressão Arterial": 71.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.4,
-        "Acompanhamento Regular": 75.1,
-        "Vacinação em Dia": 78.1,
-        "Prevenção de Quedas": 68.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1494,27 +864,13 @@
       "Ótimo": 16,
       "Bom": 17,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 84.0,
-        "Acompanhamento de Diabéticos": 77.9,
-        "Prescrição de Medicamentos": 76.9,
-        "Realização de Exames": 76.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.5,
-        "Acompanhamento de Hipertensos": 84.7,
-        "Prescrição de Medicamentos": 76.7,
-        "Controle de Pressão Arterial": 78.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.7,
-        "Acompanhamento Regular": 78.3,
-        "Vacinação em Dia": 79.7,
-        "Prevenção de Quedas": 74.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1527,27 +883,13 @@
       "Ótimo": 12,
       "Bom": 10,
       "Suficiente": 0,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.4,
-        "Acompanhamento de Diabéticos": 79.7,
-        "Prescrição de Medicamentos": 71.1,
-        "Realização de Exames": 69.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 80.6,
-        "Acompanhamento de Hipertensos": 83.0,
-        "Prescrição de Medicamentos": 78.3,
-        "Controle de Pressão Arterial": 76.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.0,
-        "Acompanhamento Regular": 81.6,
-        "Vacinação em Dia": 80.4,
-        "Prevenção de Quedas": 73.9
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1560,27 +902,13 @@
       "Ótimo": 15,
       "Bom": 11,
       "Suficiente": 1,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 86.4,
-        "Acompanhamento de Diabéticos": 79.8,
-        "Prescrição de Medicamentos": 73.9,
-        "Realização de Exames": 73.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.1,
-        "Acompanhamento de Hipertensos": 78.5,
-        "Prescrição de Medicamentos": 77.1,
-        "Controle de Pressão Arterial": 72.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.8,
-        "Acompanhamento Regular": 72.4,
-        "Vacinação em Dia": 77.7,
-        "Prevenção de Quedas": 75.4
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -1593,27 +921,13 @@
       "Ótimo": 10,
       "Bom": 7,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 84.4,
-        "Acompanhamento de Diabéticos": 75.2,
-        "Prescrição de Medicamentos": 71.8,
-        "Realização de Exames": 76.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.5,
-        "Acompanhamento de Hipertensos": 81.0,
-        "Prescrição de Medicamentos": 71.2,
-        "Controle de Pressão Arterial": 69.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.4,
-        "Acompanhamento Regular": 77.2,
-        "Vacinação em Dia": 79.2,
-        "Prevenção de Quedas": 67.6
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1626,27 +940,13 @@
       "Ótimo": 6,
       "Bom": 5,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 84.2,
-        "Acompanhamento de Diabéticos": 77.8,
-        "Prescrição de Medicamentos": 77.1,
-        "Realização de Exames": 71.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.4,
-        "Acompanhamento de Hipertensos": 80.9,
-        "Prescrição de Medicamentos": 77.2,
-        "Controle de Pressão Arterial": 72.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 79.3,
-        "Acompanhamento Regular": 79.2,
-        "Vacinação em Dia": 75.7,
-        "Prevenção de Quedas": 67.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -1659,27 +959,13 @@
       "Ótimo": 20,
       "Bom": 22,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.1,
-        "Acompanhamento de Diabéticos": 79.0,
-        "Prescrição de Medicamentos": 74.6,
-        "Realização de Exames": 73.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.5,
-        "Acompanhamento de Hipertensos": 76.5,
-        "Prescrição de Medicamentos": 74.8,
-        "Controle de Pressão Arterial": 71.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.6,
-        "Acompanhamento Regular": 80.5,
-        "Vacinação em Dia": 75.7,
-        "Prevenção de Quedas": 72.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1692,27 +978,13 @@
       "Ótimo": 24,
       "Bom": 15,
       "Suficiente": 4,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.9,
-        "Acompanhamento de Diabéticos": 79.6,
-        "Prescrição de Medicamentos": 79.8,
-        "Realização de Exames": 74.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.0,
-        "Acompanhamento de Hipertensos": 75.7,
-        "Prescrição de Medicamentos": 72.7,
-        "Controle de Pressão Arterial": 75.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.5,
-        "Acompanhamento Regular": 77.4,
-        "Vacinação em Dia": 80.4,
-        "Prevenção de Quedas": 67.9
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1725,27 +997,13 @@
       "Ótimo": 28,
       "Bom": 22,
       "Suficiente": 2,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.3,
-        "Acompanhamento de Diabéticos": 80.1,
-        "Prescrição de Medicamentos": 70.3,
-        "Realização de Exames": 69.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.7,
-        "Acompanhamento de Hipertensos": 78.6,
-        "Prescrição de Medicamentos": 73.8,
-        "Controle de Pressão Arterial": 72.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 76.5,
-        "Acompanhamento Regular": 81.2,
-        "Vacinação em Dia": 73.2,
-        "Prevenção de Quedas": 70.2
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 4
     }
   },
   {
@@ -1758,27 +1016,13 @@
       "Ótimo": 4,
       "Bom": 6,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.5,
-        "Acompanhamento de Diabéticos": 74.8,
-        "Prescrição de Medicamentos": 76.2,
-        "Realização de Exames": 70.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.3,
-        "Acompanhamento de Hipertensos": 78.1,
-        "Prescrição de Medicamentos": 77.1,
-        "Controle de Pressão Arterial": 73.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.7,
-        "Acompanhamento Regular": 81.0,
-        "Vacinação em Dia": 74.6,
-        "Prevenção de Quedas": 71.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1791,27 +1035,13 @@
       "Ótimo": 11,
       "Bom": 13,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 81.2,
-        "Acompanhamento de Diabéticos": 79.0,
-        "Prescrição de Medicamentos": 77.9,
-        "Realização de Exames": 77.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.4,
-        "Acompanhamento de Hipertensos": 76.6,
-        "Prescrição de Medicamentos": 78.2,
-        "Controle de Pressão Arterial": 75.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.2,
-        "Acompanhamento Regular": 79.7,
-        "Vacinação em Dia": 81.6,
-        "Prevenção de Quedas": 68.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1824,27 +1054,13 @@
       "Ótimo": 10,
       "Bom": 12,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 84.7,
-        "Acompanhamento de Diabéticos": 73.4,
-        "Prescrição de Medicamentos": 72.3,
-        "Realização de Exames": 71.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.6,
-        "Acompanhamento de Hipertensos": 79.4,
-        "Prescrição de Medicamentos": 73.0,
-        "Controle de Pressão Arterial": 75.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.2,
-        "Acompanhamento Regular": 73.9,
-        "Vacinação em Dia": 76.0,
-        "Prevenção de Quedas": 68.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -1857,27 +1073,13 @@
       "Ótimo": 16,
       "Bom": 18,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.4,
-        "Acompanhamento de Diabéticos": 79.7,
-        "Prescrição de Medicamentos": 72.2,
-        "Realização de Exames": 73.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.7,
-        "Acompanhamento de Hipertensos": 79.7,
-        "Prescrição de Medicamentos": 75.0,
-        "Controle de Pressão Arterial": 71.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 78.7,
-        "Acompanhamento Regular": 77.6,
-        "Vacinação em Dia": 73.0,
-        "Prevenção de Quedas": 74.6
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 12,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 12,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -1890,27 +1092,13 @@
       "Ótimo": 8,
       "Bom": 3,
       "Suficiente": 1,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.5,
-        "Acompanhamento de Diabéticos": 79.8,
-        "Prescrição de Medicamentos": 75.2,
-        "Realização de Exames": 73.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.0,
-        "Acompanhamento de Hipertensos": 78.6,
-        "Prescrição de Medicamentos": 72.6,
-        "Controle de Pressão Arterial": 74.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.1,
-        "Acompanhamento Regular": 71.3,
-        "Vacinação em Dia": 72.7,
-        "Prevenção de Quedas": 65.3
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1923,27 +1111,13 @@
       "Ótimo": 9,
       "Bom": 8,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.1,
-        "Acompanhamento de Diabéticos": 79.2,
-        "Prescrição de Medicamentos": 75.7,
-        "Realização de Exames": 75.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.6,
-        "Acompanhamento de Hipertensos": 79.6,
-        "Prescrição de Medicamentos": 72.6,
-        "Controle de Pressão Arterial": 68.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.0,
-        "Acompanhamento Regular": 75.9,
-        "Vacinação em Dia": 76.5,
-        "Prevenção de Quedas": 70.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1956,27 +1130,13 @@
       "Ótimo": 11,
       "Bom": 4,
       "Suficiente": 4,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.0,
-        "Acompanhamento de Diabéticos": 81.5,
-        "Prescrição de Medicamentos": 76.6,
-        "Realização de Exames": 70.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.0,
-        "Acompanhamento de Hipertensos": 80.6,
-        "Prescrição de Medicamentos": 77.6,
-        "Controle de Pressão Arterial": 74.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.8,
-        "Acompanhamento Regular": 76.1,
-        "Vacinação em Dia": 76.0,
-        "Prevenção de Quedas": 73.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -1989,27 +1149,13 @@
       "Ótimo": 12,
       "Bom": 7,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.1,
-        "Acompanhamento de Diabéticos": 81.3,
-        "Prescrição de Medicamentos": 73.4,
-        "Realização de Exames": 69.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 85.2,
-        "Acompanhamento de Hipertensos": 73.4,
-        "Prescrição de Medicamentos": 73.3,
-        "Controle de Pressão Arterial": 73.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.4,
-        "Acompanhamento Regular": 74.0,
-        "Vacinação em Dia": 77.7,
-        "Prevenção de Quedas": 73.8
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2022,27 +1168,13 @@
       "Ótimo": 18,
       "Bom": 22,
       "Suficiente": 1,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.9,
-        "Acompanhamento de Diabéticos": 73.3,
-        "Prescrição de Medicamentos": 74.7,
-        "Realização de Exames": 68.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.7,
-        "Acompanhamento de Hipertensos": 80.2,
-        "Prescrição de Medicamentos": 75.7,
-        "Controle de Pressão Arterial": 71.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.5,
-        "Acompanhamento Regular": 77.7,
-        "Vacinação em Dia": 78.2,
-        "Prevenção de Quedas": 70.9
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 17,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 17,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -2055,27 +1187,13 @@
       "Ótimo": 15,
       "Bom": 10,
       "Suficiente": 1,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 81.0,
-        "Acompanhamento de Diabéticos": 81.4,
-        "Prescrição de Medicamentos": 69.0,
-        "Realização de Exames": 67.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.3,
-        "Acompanhamento de Hipertensos": 76.5,
-        "Prescrição de Medicamentos": 72.6,
-        "Controle de Pressão Arterial": 70.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.1,
-        "Acompanhamento Regular": 71.7,
-        "Vacinação em Dia": 75.8,
-        "Prevenção de Quedas": 71.5
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2088,27 +1206,13 @@
       "Ótimo": 15,
       "Bom": 16,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.7,
-        "Acompanhamento de Diabéticos": 76.2,
-        "Prescrição de Medicamentos": 77.9,
-        "Realização de Exames": 73.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.4,
-        "Acompanhamento de Hipertensos": 81.3,
-        "Prescrição de Medicamentos": 78.2,
-        "Controle de Pressão Arterial": 69.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.8,
-        "Acompanhamento Regular": 78.2,
-        "Vacinação em Dia": 72.8,
-        "Prevenção de Quedas": 65.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2121,27 +1225,13 @@
       "Ótimo": 9,
       "Bom": 13,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.5,
-        "Acompanhamento de Diabéticos": 72.1,
-        "Prescrição de Medicamentos": 69.2,
-        "Realização de Exames": 71.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.5,
-        "Acompanhamento de Hipertensos": 74.5,
-        "Prescrição de Medicamentos": 71.8,
-        "Controle de Pressão Arterial": 68.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.3,
-        "Acompanhamento Regular": 79.6,
-        "Vacinação em Dia": 78.9,
-        "Prevenção de Quedas": 72.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -2154,27 +1244,13 @@
       "Ótimo": 22,
       "Bom": 27,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.6,
-        "Acompanhamento de Diabéticos": 74.4,
-        "Prescrição de Medicamentos": 76.0,
-        "Realização de Exames": 72.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.6,
-        "Acompanhamento de Hipertensos": 79.5,
-        "Prescrição de Medicamentos": 74.6,
-        "Controle de Pressão Arterial": 72.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.5,
-        "Acompanhamento Regular": 72.1,
-        "Vacinação em Dia": 80.8,
-        "Prevenção de Quedas": 70.0
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 15,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2187,27 +1263,13 @@
       "Ótimo": 17,
       "Bom": 21,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 83.9,
-        "Acompanhamento de Diabéticos": 74.2,
-        "Prescrição de Medicamentos": 78.3,
-        "Realização de Exames": 71.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 84.7,
-        "Acompanhamento de Hipertensos": 73.0,
-        "Prescrição de Medicamentos": 71.7,
-        "Controle de Pressão Arterial": 75.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.7,
-        "Acompanhamento Regular": 78.7,
-        "Vacinação em Dia": 72.6,
-        "Prevenção de Quedas": 67.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -2220,27 +1282,13 @@
       "Ótimo": 32,
       "Bom": 47,
       "Suficiente": 5,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.9,
-        "Acompanhamento de Diabéticos": 76.4,
-        "Prescrição de Medicamentos": 68.3,
-        "Realização de Exames": 75.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.8,
-        "Acompanhamento de Hipertensos": 76.9,
-        "Prescrição de Medicamentos": 75.2,
-        "Controle de Pressão Arterial": 75.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.4,
-        "Acompanhamento Regular": 78.4,
-        "Vacinação em Dia": 78.8,
-        "Prevenção de Quedas": 66.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 28,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 28,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 23,
+      "Qualidade_eMulti": 5
     }
   },
   {
@@ -2253,27 +1301,13 @@
       "Ótimo": 12,
       "Bom": 5,
       "Suficiente": 5,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 82.0,
-        "Acompanhamento de Diabéticos": 77.8,
-        "Prescrição de Medicamentos": 68.4,
-        "Realização de Exames": 72.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.3,
-        "Acompanhamento de Hipertensos": 80.1,
-        "Prescrição de Medicamentos": 69.3,
-        "Controle de Pressão Arterial": 69.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.5,
-        "Acompanhamento Regular": 77.4,
-        "Vacinação em Dia": 77.8,
-        "Prevenção de Quedas": 64.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2286,27 +1320,13 @@
       "Ótimo": 14,
       "Bom": 23,
       "Suficiente": 0,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.8,
-        "Acompanhamento de Diabéticos": 77.5,
-        "Prescrição de Medicamentos": 68.4,
-        "Realização de Exames": 73.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.1,
-        "Acompanhamento de Hipertensos": 73.0,
-        "Prescrição de Medicamentos": 72.4,
-        "Controle de Pressão Arterial": 67.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.0,
-        "Acompanhamento Regular": 72.4,
-        "Vacinação em Dia": 73.1,
-        "Prevenção de Quedas": 70.1
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2319,27 +1339,13 @@
       "Ótimo": 8,
       "Bom": 5,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.9,
-        "Acompanhamento de Diabéticos": 80.3,
-        "Prescrição de Medicamentos": 72.7,
-        "Realização de Exames": 65.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.5,
-        "Acompanhamento de Hipertensos": 74.4,
-        "Prescrição de Medicamentos": 70.1,
-        "Controle de Pressão Arterial": 71.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.3,
-        "Acompanhamento Regular": 71.2,
-        "Vacinação em Dia": 72.3,
-        "Prevenção de Quedas": 70.1
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2352,27 +1358,13 @@
       "Ótimo": 11,
       "Bom": 16,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.5,
-        "Acompanhamento de Diabéticos": 71.2,
-        "Prescrição de Medicamentos": 71.3,
-        "Realização de Exames": 71.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.5,
-        "Acompanhamento de Hipertensos": 76.1,
-        "Prescrição de Medicamentos": 76.3,
-        "Controle de Pressão Arterial": 73.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.0,
-        "Acompanhamento Regular": 69.9,
-        "Vacinação em Dia": 78.8,
-        "Prevenção de Quedas": 69.1
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 10,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 10,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2385,27 +1377,13 @@
       "Ótimo": 11,
       "Bom": 13,
       "Suficiente": 1,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.0,
-        "Acompanhamento de Diabéticos": 77.8,
-        "Prescrição de Medicamentos": 74.8,
-        "Realização de Exames": 71.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.7,
-        "Acompanhamento de Hipertensos": 75.1,
-        "Prescrição de Medicamentos": 75.5,
-        "Controle de Pressão Arterial": 72.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.4,
-        "Acompanhamento Regular": 75.0,
-        "Vacinação em Dia": 73.4,
-        "Prevenção de Quedas": 70.8
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2418,27 +1396,13 @@
       "Ótimo": 7,
       "Bom": 3,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.4,
-        "Acompanhamento de Diabéticos": 77.2,
-        "Prescrição de Medicamentos": 74.1,
-        "Realização de Exames": 71.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.5,
-        "Acompanhamento de Hipertensos": 79.6,
-        "Prescrição de Medicamentos": 70.0,
-        "Controle de Pressão Arterial": 73.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.1,
-        "Acompanhamento Regular": 72.1,
-        "Vacinação em Dia": 76.0,
-        "Prevenção de Quedas": 67.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2451,27 +1415,13 @@
       "Ótimo": 13,
       "Bom": 21,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.7,
-        "Acompanhamento de Diabéticos": 79.4,
-        "Prescrição de Medicamentos": 74.2,
-        "Realização de Exames": 69.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.6,
-        "Acompanhamento de Hipertensos": 80.6,
-        "Prescrição de Medicamentos": 72.5,
-        "Controle de Pressão Arterial": 68.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.9,
-        "Acompanhamento Regular": 71.4,
-        "Vacinação em Dia": 71.6,
-        "Prevenção de Quedas": 70.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 14,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 14,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -2484,27 +1434,13 @@
       "Ótimo": 9,
       "Bom": 8,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.9,
-        "Acompanhamento de Diabéticos": 76.4,
-        "Prescrição de Medicamentos": 68.1,
-        "Realização de Exames": 66.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.4,
-        "Acompanhamento de Hipertensos": 79.6,
-        "Prescrição de Medicamentos": 72.6,
-        "Controle de Pressão Arterial": 70.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.6,
-        "Acompanhamento Regular": 75.1,
-        "Vacinação em Dia": 79.1,
-        "Prevenção de Quedas": 70.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2517,27 +1453,13 @@
       "Ótimo": 23,
       "Bom": 26,
       "Suficiente": 7,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.2,
-        "Acompanhamento de Diabéticos": 74.2,
-        "Prescrição de Medicamentos": 73.1,
-        "Realização de Exames": 71.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 83.7,
-        "Acompanhamento de Hipertensos": 78.5,
-        "Prescrição de Medicamentos": 75.7,
-        "Controle de Pressão Arterial": 65.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.7,
-        "Acompanhamento Regular": 72.6,
-        "Vacinação em Dia": 74.6,
-        "Prevenção de Quedas": 71.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 23,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 23,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2550,27 +1472,13 @@
       "Ótimo": 18,
       "Bom": 16,
       "Suficiente": 3,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.7,
-        "Acompanhamento de Diabéticos": 74.4,
-        "Prescrição de Medicamentos": 67.6,
-        "Realização de Exames": 65.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.0,
-        "Acompanhamento de Hipertensos": 75.5,
-        "Prescrição de Medicamentos": 72.5,
-        "Controle de Pressão Arterial": 66.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.2,
-        "Acompanhamento Regular": 78.0,
-        "Vacinação em Dia": 77.3,
-        "Prevenção de Quedas": 69.4
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2583,27 +1491,13 @@
       "Ótimo": 12,
       "Bom": 10,
       "Suficiente": 1,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.2,
-        "Acompanhamento de Diabéticos": 72.0,
-        "Prescrição de Medicamentos": 69.9,
-        "Realização de Exames": 72.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.7,
-        "Acompanhamento de Hipertensos": 73.6,
-        "Prescrição de Medicamentos": 71.9,
-        "Controle de Pressão Arterial": 66.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.1,
-        "Acompanhamento Regular": 69.3,
-        "Vacinação em Dia": 70.0,
-        "Prevenção de Quedas": 64.1
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2616,27 +1510,13 @@
       "Ótimo": 12,
       "Bom": 18,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 81.8,
-        "Acompanhamento de Diabéticos": 78.0,
-        "Prescrição de Medicamentos": 76.4,
-        "Realização de Exames": 74.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 82.7,
-        "Acompanhamento de Hipertensos": 71.7,
-        "Prescrição de Medicamentos": 70.1,
-        "Controle de Pressão Arterial": 74.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.4,
-        "Acompanhamento Regular": 72.4,
-        "Vacinação em Dia": 77.6,
-        "Prevenção de Quedas": 65.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -2649,27 +1529,13 @@
       "Ótimo": 9,
       "Bom": 10,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.1,
-        "Acompanhamento de Diabéticos": 73.0,
-        "Prescrição de Medicamentos": 73.6,
-        "Realização de Exames": 67.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.9,
-        "Acompanhamento de Hipertensos": 71.6,
-        "Prescrição de Medicamentos": 73.7,
-        "Controle de Pressão Arterial": 73.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.8,
-        "Acompanhamento Regular": 75.7,
-        "Vacinação em Dia": 73.1,
-        "Prevenção de Quedas": 68.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2682,27 +1548,13 @@
       "Ótimo": 6,
       "Bom": 2,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.3,
-        "Acompanhamento de Diabéticos": 77.7,
-        "Prescrição de Medicamentos": 73.6,
-        "Realização de Exames": 72.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.3,
-        "Acompanhamento de Hipertensos": 72.7,
-        "Prescrição de Medicamentos": 71.6,
-        "Controle de Pressão Arterial": 68.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.8,
-        "Acompanhamento Regular": 71.5,
-        "Vacinação em Dia": 74.7,
-        "Prevenção de Quedas": 65.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -2715,27 +1567,13 @@
       "Ótimo": 22,
       "Bom": 22,
       "Suficiente": 8,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.7,
-        "Acompanhamento de Diabéticos": 78.0,
-        "Prescrição de Medicamentos": 67.3,
-        "Realização de Exames": 70.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 81.2,
-        "Acompanhamento de Hipertensos": 75.4,
-        "Prescrição de Medicamentos": 68.1,
-        "Controle de Pressão Arterial": 69.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.8,
-        "Acompanhamento Regular": 73.2,
-        "Vacinação em Dia": 76.2,
-        "Prevenção de Quedas": 67.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 19,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 19,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2748,27 +1586,13 @@
       "Ótimo": 11,
       "Bom": 12,
       "Suficiente": 4,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.5,
-        "Acompanhamento de Diabéticos": 75.8,
-        "Prescrição de Medicamentos": 73.2,
-        "Realização de Exames": 72.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.4,
-        "Acompanhamento de Hipertensos": 72.0,
-        "Prescrição de Medicamentos": 76.2,
-        "Controle de Pressão Arterial": 65.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.2,
-        "Acompanhamento Regular": 71.0,
-        "Vacinação em Dia": 73.9,
-        "Prevenção de Quedas": 71.6
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -2781,27 +1605,13 @@
       "Ótimo": 21,
       "Bom": 17,
       "Suficiente": 6,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.5,
-        "Acompanhamento de Diabéticos": 74.4,
-        "Prescrição de Medicamentos": 70.8,
-        "Realização de Exames": 71.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.8,
-        "Acompanhamento de Hipertensos": 72.4,
-        "Prescrição de Medicamentos": 69.1,
-        "Controle de Pressão Arterial": 65.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.6,
-        "Acompanhamento Regular": 73.4,
-        "Vacinação em Dia": 70.9,
-        "Prevenção de Quedas": 67.1
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -2814,27 +1624,13 @@
       "Ótimo": 25,
       "Bom": 46,
       "Suficiente": 5,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.5,
-        "Acompanhamento de Diabéticos": 71.6,
-        "Prescrição de Medicamentos": 75.7,
-        "Realização de Exames": 71.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 80.6,
-        "Acompanhamento de Hipertensos": 74.1,
-        "Prescrição de Medicamentos": 68.8,
-        "Controle de Pressão Arterial": 68.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 65.5,
-        "Acompanhamento Regular": 71.9,
-        "Vacinação em Dia": 75.9,
-        "Prevenção de Quedas": 68.6
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 26,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 26,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 25,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -2847,27 +1643,13 @@
       "Ótimo": 2,
       "Bom": 7,
       "Suficiente": 0,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 80.8,
-        "Acompanhamento de Diabéticos": 77.8,
-        "Prescrição de Medicamentos": 72.0,
-        "Realização de Exames": 68.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.9,
-        "Acompanhamento de Hipertensos": 70.8,
-        "Prescrição de Medicamentos": 72.8,
-        "Controle de Pressão Arterial": 67.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 75.0,
-        "Acompanhamento Regular": 74.1,
-        "Vacinação em Dia": 68.9,
-        "Prevenção de Quedas": 64.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -2880,27 +1662,13 @@
       "Ótimo": 7,
       "Bom": 8,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.3,
-        "Acompanhamento de Diabéticos": 69.9,
-        "Prescrição de Medicamentos": 73.2,
-        "Realização de Exames": 65.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.5,
-        "Acompanhamento de Hipertensos": 71.7,
-        "Prescrição de Medicamentos": 70.6,
-        "Controle de Pressão Arterial": 67.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.4,
-        "Acompanhamento Regular": 74.6,
-        "Vacinação em Dia": 74.6,
-        "Prevenção de Quedas": 70.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2913,27 +1681,13 @@
       "Ótimo": 7,
       "Bom": 9,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.4,
-        "Acompanhamento de Diabéticos": 75.4,
-        "Prescrição de Medicamentos": 70.5,
-        "Realização de Exames": 67.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.5,
-        "Acompanhamento de Hipertensos": 74.9,
-        "Prescrição de Medicamentos": 72.1,
-        "Controle de Pressão Arterial": 68.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.2,
-        "Acompanhamento Regular": 71.0,
-        "Vacinação em Dia": 74.8,
-        "Prevenção de Quedas": 69.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -2946,27 +1700,13 @@
       "Ótimo": 5,
       "Bom": 13,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.8,
-        "Acompanhamento de Diabéticos": 69.3,
-        "Prescrição de Medicamentos": 67.4,
-        "Realização de Exames": 66.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.0,
-        "Acompanhamento de Hipertensos": 75.3,
-        "Prescrição de Medicamentos": 75.4,
-        "Controle de Pressão Arterial": 64.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.7,
-        "Acompanhamento Regular": 73.2,
-        "Vacinação em Dia": 75.8,
-        "Prevenção de Quedas": 66.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -2979,27 +1719,13 @@
       "Ótimo": 8,
       "Bom": 14,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.5,
-        "Acompanhamento de Diabéticos": 72.8,
-        "Prescrição de Medicamentos": 66.6,
-        "Realização de Exames": 65.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 80.8,
-        "Acompanhamento de Hipertensos": 77.3,
-        "Prescrição de Medicamentos": 73.6,
-        "Controle de Pressão Arterial": 69.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.9,
-        "Acompanhamento Regular": 69.4,
-        "Vacinação em Dia": 73.6,
-        "Prevenção de Quedas": 66.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3012,27 +1738,13 @@
       "Ótimo": 11,
       "Bom": 15,
       "Suficiente": 5,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.7,
-        "Acompanhamento de Diabéticos": 69.8,
-        "Prescrição de Medicamentos": 71.3,
-        "Realização de Exames": 67.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.8,
-        "Acompanhamento de Hipertensos": 76.0,
-        "Prescrição de Medicamentos": 74.0,
-        "Controle de Pressão Arterial": 65.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.9,
-        "Acompanhamento Regular": 67.3,
-        "Vacinação em Dia": 72.8,
-        "Prevenção de Quedas": 62.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -3045,27 +1757,13 @@
       "Ótimo": 16,
       "Bom": 43,
       "Suficiente": 4,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.0,
-        "Acompanhamento de Diabéticos": 71.4,
-        "Prescrição de Medicamentos": 69.5,
-        "Realização de Exames": 70.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.3,
-        "Acompanhamento de Hipertensos": 72.7,
-        "Prescrição de Medicamentos": 74.2,
-        "Controle de Pressão Arterial": 69.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.4,
-        "Acompanhamento Regular": 67.3,
-        "Vacinação em Dia": 70.4,
-        "Prevenção de Quedas": 66.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 21,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 21,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 16,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3078,27 +1776,13 @@
       "Ótimo": 7,
       "Bom": 11,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.1,
-        "Acompanhamento de Diabéticos": 70.5,
-        "Prescrição de Medicamentos": 73.8,
-        "Realização de Exames": 68.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.6,
-        "Acompanhamento de Hipertensos": 78.5,
-        "Prescrição de Medicamentos": 72.9,
-        "Controle de Pressão Arterial": 71.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 74.1,
-        "Acompanhamento Regular": 73.5,
-        "Vacinação em Dia": 71.8,
-        "Prevenção de Quedas": 71.1
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3111,27 +1795,13 @@
       "Ótimo": 8,
       "Bom": 10,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.3,
-        "Acompanhamento de Diabéticos": 71.5,
-        "Prescrição de Medicamentos": 73.9,
-        "Realização de Exames": 66.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.1,
-        "Acompanhamento de Hipertensos": 72.0,
-        "Prescrição de Medicamentos": 73.7,
-        "Controle de Pressão Arterial": 63.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.7,
-        "Acompanhamento Regular": 67.7,
-        "Vacinação em Dia": 74.0,
-        "Prevenção de Quedas": 68.1
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3144,27 +1814,13 @@
       "Ótimo": 4,
       "Bom": 5,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.9,
-        "Acompanhamento de Diabéticos": 72.0,
-        "Prescrição de Medicamentos": 67.9,
-        "Realização de Exames": 67.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.8,
-        "Acompanhamento de Hipertensos": 77.8,
-        "Prescrição de Medicamentos": 74.6,
-        "Controle de Pressão Arterial": 71.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.2,
-        "Acompanhamento Regular": 74.8,
-        "Vacinação em Dia": 75.4,
-        "Prevenção de Quedas": 69.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -3177,27 +1833,13 @@
       "Ótimo": 23,
       "Bom": 35,
       "Suficiente": 7,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.6,
-        "Acompanhamento de Diabéticos": 78.1,
-        "Prescrição de Medicamentos": 66.2,
-        "Realização de Exames": 63.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.5,
-        "Acompanhamento de Hipertensos": 76.7,
-        "Prescrição de Medicamentos": 66.9,
-        "Controle de Pressão Arterial": 67.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.3,
-        "Acompanhamento Regular": 71.5,
-        "Vacinação em Dia": 68.4,
-        "Prevenção de Quedas": 63.4
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 24,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 24,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 16,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -3210,27 +1852,13 @@
       "Ótimo": 29,
       "Bom": 15,
       "Suficiente": 5,
-      "Regular": 7
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.3,
-        "Acompanhamento de Diabéticos": 75.3,
-        "Prescrição de Medicamentos": 69.9,
-        "Realização de Exames": 64.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.4,
-        "Acompanhamento de Hipertensos": 78.5,
-        "Prescrição de Medicamentos": 69.7,
-        "Controle de Pressão Arterial": 67.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.2,
-        "Acompanhamento Regular": 68.1,
-        "Vacinação em Dia": 72.5,
-        "Prevenção de Quedas": 67.2
-      }
+      "Regular": 7,
+      "Vínculo_eSF": 14,
+      "Vínculo_eAP": 6,
+      "Qualidade_eSF": 14,
+      "Qualidade_eAP": 6,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -3243,27 +1871,13 @@
       "Ótimo": 41,
       "Bom": 58,
       "Suficiente": 20,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.5,
-        "Acompanhamento de Diabéticos": 76.2,
-        "Prescrição de Medicamentos": 74.5,
-        "Realização de Exames": 72.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.6,
-        "Acompanhamento de Hipertensos": 73.8,
-        "Prescrição de Medicamentos": 68.0,
-        "Controle de Pressão Arterial": 69.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.2,
-        "Acompanhamento Regular": 67.6,
-        "Vacinação em Dia": 69.1,
-        "Prevenção de Quedas": 65.1
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 40,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 40,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 34,
+      "Qualidade_eMulti": 5
     }
   },
   {
@@ -3276,27 +1890,13 @@
       "Ótimo": 6,
       "Bom": 8,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.3,
-        "Acompanhamento de Diabéticos": 71.7,
-        "Prescrição de Medicamentos": 72.8,
-        "Realização de Exames": 64.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 80.0,
-        "Acompanhamento de Hipertensos": 73.7,
-        "Prescrição de Medicamentos": 67.8,
-        "Controle de Pressão Arterial": 72.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.7,
-        "Acompanhamento Regular": 72.3,
-        "Vacinação em Dia": 75.8,
-        "Prevenção de Quedas": 63.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -3309,27 +1909,13 @@
       "Ótimo": 11,
       "Bom": 12,
       "Suficiente": 6,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.7,
-        "Acompanhamento de Diabéticos": 69.6,
-        "Prescrição de Medicamentos": 68.7,
-        "Realização de Exames": 64.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.7,
-        "Acompanhamento de Hipertensos": 70.2,
-        "Prescrição de Medicamentos": 69.1,
-        "Controle de Pressão Arterial": 69.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.6,
-        "Acompanhamento Regular": 70.9,
-        "Vacinação em Dia": 69.1,
-        "Prevenção de Quedas": 63.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -3342,27 +1928,13 @@
       "Ótimo": 16,
       "Bom": 16,
       "Suficiente": 9,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.3,
-        "Acompanhamento de Diabéticos": 77.7,
-        "Prescrição de Medicamentos": 66.0,
-        "Realização de Exames": 70.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.5,
-        "Acompanhamento de Hipertensos": 76.6,
-        "Prescrição de Medicamentos": 65.9,
-        "Controle de Pressão Arterial": 70.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.8,
-        "Acompanhamento Regular": 75.7,
-        "Vacinação em Dia": 70.0,
-        "Prevenção de Quedas": 69.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -3375,27 +1947,13 @@
       "Ótimo": 5,
       "Bom": 4,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.3,
-        "Acompanhamento de Diabéticos": 72.5,
-        "Prescrição de Medicamentos": 74.4,
-        "Realização de Exames": 67.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.3,
-        "Acompanhamento de Hipertensos": 71.4,
-        "Prescrição de Medicamentos": 65.6,
-        "Controle de Pressão Arterial": 68.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 73.8,
-        "Acompanhamento Regular": 67.7,
-        "Vacinação em Dia": 75.6,
-        "Prevenção de Quedas": 61.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3408,27 +1966,13 @@
       "Ótimo": 22,
       "Bom": 50,
       "Suficiente": 5,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.3,
-        "Acompanhamento de Diabéticos": 76.8,
-        "Prescrição de Medicamentos": 74.3,
-        "Realização de Exames": 70.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.1,
-        "Acompanhamento de Hipertensos": 75.7,
-        "Prescrição de Medicamentos": 66.6,
-        "Controle de Pressão Arterial": 63.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.1,
-        "Acompanhamento Regular": 68.1,
-        "Vacinação em Dia": 69.9,
-        "Prevenção de Quedas": 68.2
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 24,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 24,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 23,
+      "Qualidade_eMulti": 8
     }
   },
   {
@@ -3441,27 +1985,13 @@
       "Ótimo": 27,
       "Bom": 40,
       "Suficiente": 12,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.6,
-        "Acompanhamento de Diabéticos": 68.0,
-        "Prescrição de Medicamentos": 68.2,
-        "Realização de Exames": 67.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.5,
-        "Acompanhamento de Hipertensos": 78.3,
-        "Prescrição de Medicamentos": 72.9,
-        "Controle de Pressão Arterial": 70.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 64.4,
-        "Acompanhamento Regular": 70.7,
-        "Vacinação em Dia": 74.8,
-        "Prevenção de Quedas": 68.4
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 28,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 28,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 24,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -3474,27 +2004,13 @@
       "Ótimo": 20,
       "Bom": 34,
       "Suficiente": 6,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.8,
-        "Acompanhamento de Diabéticos": 70.4,
-        "Prescrição de Medicamentos": 70.6,
-        "Realização de Exames": 66.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.3,
-        "Acompanhamento de Hipertensos": 75.4,
-        "Prescrição de Medicamentos": 68.2,
-        "Controle de Pressão Arterial": 70.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.0,
-        "Acompanhamento Regular": 72.6,
-        "Vacinação em Dia": 72.2,
-        "Prevenção de Quedas": 61.6
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 21,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 21,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 18,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -3507,27 +2023,13 @@
       "Ótimo": 22,
       "Bom": 46,
       "Suficiente": 4,
-      "Regular": 3
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 79.1,
-        "Acompanhamento de Diabéticos": 69.6,
-        "Prescrição de Medicamentos": 66.2,
-        "Realização de Exames": 67.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.4,
-        "Acompanhamento de Hipertensos": 68.8,
-        "Prescrição de Medicamentos": 67.0,
-        "Controle de Pressão Arterial": 72.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 64.4,
-        "Acompanhamento Regular": 74.8,
-        "Vacinação em Dia": 72.9,
-        "Prevenção de Quedas": 69.9
-      }
+      "Regular": 3,
+      "Vínculo_eSF": 26,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 26,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 18,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3540,27 +2042,13 @@
       "Ótimo": 27,
       "Bom": 41,
       "Suficiente": 7,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.9,
-        "Acompanhamento de Diabéticos": 68.9,
-        "Prescrição de Medicamentos": 72.8,
-        "Realização de Exames": 68.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.4,
-        "Acompanhamento de Hipertensos": 77.1,
-        "Prescrição de Medicamentos": 71.5,
-        "Controle de Pressão Arterial": 68.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 65.9,
-        "Acompanhamento Regular": 66.8,
-        "Vacinação em Dia": 70.4,
-        "Prevenção de Quedas": 62.1
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 29,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 29,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 7
     }
   },
   {
@@ -3573,27 +2061,13 @@
       "Ótimo": 7,
       "Bom": 10,
       "Suficiente": 4,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.9,
-        "Acompanhamento de Diabéticos": 74.8,
-        "Prescrição de Medicamentos": 66.3,
-        "Realização de Exames": 63.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.8,
-        "Acompanhamento de Hipertensos": 76.9,
-        "Prescrição de Medicamentos": 68.9,
-        "Controle de Pressão Arterial": 66.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.2,
-        "Acompanhamento Regular": 71.5,
-        "Vacinação em Dia": 68.2,
-        "Prevenção de Quedas": 66.0
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -3606,27 +2080,13 @@
       "Ótimo": 2,
       "Bom": 4,
       "Suficiente": 1,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.8,
-        "Acompanhamento de Diabéticos": 67.5,
-        "Prescrição de Medicamentos": 71.0,
-        "Realização de Exames": 63.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.2,
-        "Acompanhamento de Hipertensos": 70.9,
-        "Prescrição de Medicamentos": 65.6,
-        "Controle de Pressão Arterial": 70.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.8,
-        "Acompanhamento Regular": 74.5,
-        "Vacinação em Dia": 72.7,
-        "Prevenção de Quedas": 66.9
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 2,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 2,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 2,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3639,27 +2099,13 @@
       "Ótimo": 6,
       "Bom": 6,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.9,
-        "Acompanhamento de Diabéticos": 69.3,
-        "Prescrição de Medicamentos": 64.7,
-        "Realização de Exames": 62.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.6,
-        "Acompanhamento de Hipertensos": 76.7,
-        "Prescrição de Medicamentos": 68.5,
-        "Controle de Pressão Arterial": 64.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.8,
-        "Acompanhamento Regular": 74.2,
-        "Vacinação em Dia": 73.4,
-        "Prevenção de Quedas": 67.0
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -3672,27 +2118,13 @@
       "Ótimo": 9,
       "Bom": 9,
       "Suficiente": 4,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.4,
-        "Acompanhamento de Diabéticos": 75.5,
-        "Prescrição de Medicamentos": 64.4,
-        "Realização de Exames": 69.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 70.2,
-        "Acompanhamento de Hipertensos": 76.8,
-        "Prescrição de Medicamentos": 68.1,
-        "Controle de Pressão Arterial": 71.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.4,
-        "Acompanhamento Regular": 75.3,
-        "Vacinação em Dia": 71.4,
-        "Prevenção de Quedas": 63.5
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3705,27 +2137,13 @@
       "Ótimo": 9,
       "Bom": 20,
       "Suficiente": 5,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.6,
-        "Acompanhamento de Diabéticos": 68.9,
-        "Prescrição de Medicamentos": 72.2,
-        "Realização de Exames": 70.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 70.5,
-        "Acompanhamento de Hipertensos": 75.3,
-        "Prescrição de Medicamentos": 70.1,
-        "Controle de Pressão Arterial": 67.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 72.2,
-        "Acompanhamento Regular": 68.2,
-        "Vacinação em Dia": 68.6,
-        "Prevenção de Quedas": 66.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3738,27 +2156,13 @@
       "Ótimo": 82,
       "Bom": 89,
       "Suficiente": 43,
-      "Regular": 7
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.9,
-        "Acompanhamento de Diabéticos": 73.0,
-        "Prescrição de Medicamentos": 68.4,
-        "Realização de Exames": 61.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.6,
-        "Acompanhamento de Hipertensos": 75.2,
-        "Prescrição de Medicamentos": 64.6,
-        "Controle de Pressão Arterial": 64.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.4,
-        "Acompanhamento Regular": 74.4,
-        "Vacinação em Dia": 65.9,
-        "Prevenção de Quedas": 64.3
-      }
+      "Regular": 7,
+      "Vínculo_eSF": 80,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 80,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 58,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -3771,27 +2175,13 @@
       "Ótimo": 4,
       "Bom": 12,
       "Suficiente": 2,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.9,
-        "Acompanhamento de Diabéticos": 76.5,
-        "Prescrição de Medicamentos": 70.5,
-        "Realização de Exames": 63.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.0,
-        "Acompanhamento de Hipertensos": 76.4,
-        "Prescrição de Medicamentos": 72.0,
-        "Controle de Pressão Arterial": 71.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.4,
-        "Acompanhamento Regular": 73.1,
-        "Vacinação em Dia": 69.2,
-        "Prevenção de Quedas": 64.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3804,27 +2194,13 @@
       "Ótimo": 31,
       "Bom": 76,
       "Suficiente": 14,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.1,
-        "Acompanhamento de Diabéticos": 70.8,
-        "Prescrição de Medicamentos": 71.6,
-        "Realização de Exames": 67.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.4,
-        "Acompanhamento de Hipertensos": 76.4,
-        "Prescrição de Medicamentos": 66.0,
-        "Controle de Pressão Arterial": 71.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.1,
-        "Acompanhamento Regular": 67.4,
-        "Vacinação em Dia": 69.3,
-        "Prevenção de Quedas": 64.9
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 46,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 46,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 30,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3837,27 +2213,13 @@
       "Ótimo": 5,
       "Bom": 11,
       "Suficiente": 3,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.7,
-        "Acompanhamento de Diabéticos": 67.2,
-        "Prescrição de Medicamentos": 67.0,
-        "Realização de Exames": 69.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.9,
-        "Acompanhamento de Hipertensos": 70.1,
-        "Prescrição de Medicamentos": 71.2,
-        "Controle de Pressão Arterial": 70.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.0,
-        "Acompanhamento Regular": 70.6,
-        "Vacinação em Dia": 70.8,
-        "Prevenção de Quedas": 61.6
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -3870,27 +2232,13 @@
       "Ótimo": 36,
       "Bom": 28,
       "Suficiente": 17,
-      "Regular": 5
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.5,
-        "Acompanhamento de Diabéticos": 70.2,
-        "Prescrição de Medicamentos": 63.6,
-        "Realização de Exames": 67.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.2,
-        "Acompanhamento de Hipertensos": 70.8,
-        "Prescrição de Medicamentos": 73.0,
-        "Controle de Pressão Arterial": 67.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.3,
-        "Acompanhamento Regular": 74.2,
-        "Vacinação em Dia": 73.5,
-        "Prevenção de Quedas": 64.8
-      }
+      "Regular": 5,
+      "Vínculo_eSF": 27,
+      "Vínculo_eAP": 3,
+      "Qualidade_eSF": 27,
+      "Qualidade_eAP": 3,
+      "Qualidade_eSB": 23,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -3903,27 +2251,13 @@
       "Ótimo": 7,
       "Bom": 10,
       "Suficiente": 3,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 78.3,
-        "Acompanhamento de Diabéticos": 67.2,
-        "Prescrição de Medicamentos": 71.3,
-        "Realização de Exames": 61.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 79.2,
-        "Acompanhamento de Hipertensos": 74.6,
-        "Prescrição de Medicamentos": 66.0,
-        "Controle de Pressão Arterial": 68.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.9,
-        "Acompanhamento Regular": 71.4,
-        "Vacinação em Dia": 68.7,
-        "Prevenção de Quedas": 66.1
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -3936,27 +2270,13 @@
       "Ótimo": 8,
       "Bom": 9,
       "Suficiente": 4,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.9,
-        "Acompanhamento de Diabéticos": 75.3,
-        "Prescrição de Medicamentos": 65.9,
-        "Realização de Exames": 61.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.1,
-        "Acompanhamento de Hipertensos": 69.0,
-        "Prescrição de Medicamentos": 63.8,
-        "Controle de Pressão Arterial": 67.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 70.6,
-        "Acompanhamento Regular": 68.5,
-        "Vacinação em Dia": 69.1,
-        "Prevenção de Quedas": 64.3
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -3969,27 +2289,13 @@
       "Ótimo": 10,
       "Bom": 19,
       "Suficiente": 3,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.1,
-        "Acompanhamento de Diabéticos": 67.8,
-        "Prescrição de Medicamentos": 65.2,
-        "Realização de Exames": 61.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 78.3,
-        "Acompanhamento de Hipertensos": 73.0,
-        "Prescrição de Medicamentos": 64.7,
-        "Controle de Pressão Arterial": 69.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 69.6,
-        "Acompanhamento Regular": 67.0,
-        "Vacinação em Dia": 72.4,
-        "Prevenção de Quedas": 62.0
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 12,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 12,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -4002,27 +2308,13 @@
       "Ótimo": 10,
       "Bom": 9,
       "Suficiente": 0,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.1,
-        "Acompanhamento de Diabéticos": 75.4,
-        "Prescrição de Medicamentos": 67.7,
-        "Realização de Exames": 62.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 69.6,
-        "Acompanhamento de Hipertensos": 69.4,
-        "Prescrição de Medicamentos": 73.0,
-        "Controle de Pressão Arterial": 68.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.4,
-        "Acompanhamento Regular": 73.2,
-        "Vacinação em Dia": 74.3,
-        "Prevenção de Quedas": 62.9
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4035,27 +2327,13 @@
       "Ótimo": 12,
       "Bom": 14,
       "Suficiente": 9,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.2,
-        "Acompanhamento de Diabéticos": 70.2,
-        "Prescrição de Medicamentos": 66.4,
-        "Realização de Exames": 67.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.2,
-        "Acompanhamento de Hipertensos": 67.6,
-        "Prescrição de Medicamentos": 68.3,
-        "Controle de Pressão Arterial": 70.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.3,
-        "Acompanhamento Regular": 69.5,
-        "Vacinação em Dia": 71.7,
-        "Prevenção de Quedas": 67.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 11,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 11,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4068,27 +2346,13 @@
       "Ótimo": 57,
       "Bom": 160,
       "Suficiente": 22,
-      "Regular": 8
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.9,
-        "Acompanhamento de Diabéticos": 70.2,
-        "Prescrição de Medicamentos": 69.0,
-        "Realização de Exames": 62.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.3,
-        "Acompanhamento de Hipertensos": 71.6,
-        "Prescrição de Medicamentos": 68.3,
-        "Controle de Pressão Arterial": 70.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.5,
-        "Acompanhamento Regular": 73.2,
-        "Vacinação em Dia": 70.7,
-        "Prevenção de Quedas": 63.4
-      }
+      "Regular": 8,
+      "Vínculo_eSF": 77,
+      "Vínculo_eAP": 8,
+      "Qualidade_eSF": 77,
+      "Qualidade_eAP": 8,
+      "Qualidade_eSB": 70,
+      "Qualidade_eMulti": 7
     }
   },
   {
@@ -4101,27 +2365,13 @@
       "Ótimo": 12,
       "Bom": 34,
       "Suficiente": 4,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 77.3,
-        "Acompanhamento de Diabéticos": 70.9,
-        "Prescrição de Medicamentos": 62.8,
-        "Realização de Exames": 69.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.2,
-        "Acompanhamento de Hipertensos": 68.8,
-        "Prescrição de Medicamentos": 71.5,
-        "Controle de Pressão Arterial": 65.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.6,
-        "Acompanhamento Regular": 67.5,
-        "Vacinação em Dia": 69.3,
-        "Prevenção de Quedas": 65.5
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4134,27 +2384,13 @@
       "Ótimo": 14,
       "Bom": 38,
       "Suficiente": 6,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.7,
-        "Acompanhamento de Diabéticos": 67.8,
-        "Prescrição de Medicamentos": 68.8,
-        "Realização de Exames": 64.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.1,
-        "Acompanhamento de Hipertensos": 67.7,
-        "Prescrição de Medicamentos": 72.4,
-        "Controle de Pressão Arterial": 67.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.7,
-        "Acompanhamento Regular": 73.4,
-        "Vacinação em Dia": 66.6,
-        "Prevenção de Quedas": 59.2
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 21,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 21,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 17,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4167,27 +2403,13 @@
       "Ótimo": 25,
       "Bom": 40,
       "Suficiente": 8,
-      "Regular": 6
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.6,
-        "Acompanhamento de Diabéticos": 72.5,
-        "Prescrição de Medicamentos": 62.4,
-        "Realização de Exames": 60.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.2,
-        "Acompanhamento de Hipertensos": 76.2,
-        "Prescrição de Medicamentos": 73.0,
-        "Controle de Pressão Arterial": 63.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.6,
-        "Acompanhamento Regular": 65.5,
-        "Vacinação em Dia": 72.1,
-        "Prevenção de Quedas": 62.8
-      }
+      "Regular": 6,
+      "Vínculo_eSF": 23,
+      "Vínculo_eAP": 3,
+      "Qualidade_eSF": 23,
+      "Qualidade_eAP": 3,
+      "Qualidade_eSB": 23,
+      "Qualidade_eMulti": 4
     }
   },
   {
@@ -4200,27 +2422,13 @@
       "Ótimo": 5,
       "Bom": 7,
       "Suficiente": 4,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.6,
-        "Acompanhamento de Diabéticos": 69.1,
-        "Prescrição de Medicamentos": 71.9,
-        "Realização de Exames": 67.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.2,
-        "Acompanhamento de Hipertensos": 66.7,
-        "Prescrição de Medicamentos": 69.7,
-        "Controle de Pressão Arterial": 62.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 71.5,
-        "Acompanhamento Regular": 64.9,
-        "Vacinação em Dia": 65.8,
-        "Prevenção de Quedas": 64.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4233,27 +2441,13 @@
       "Ótimo": 14,
       "Bom": 44,
       "Suficiente": 10,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.2,
-        "Acompanhamento de Diabéticos": 74.3,
-        "Prescrição de Medicamentos": 71.8,
-        "Realização de Exames": 65.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.5,
-        "Acompanhamento de Hipertensos": 66.9,
-        "Prescrição de Medicamentos": 69.4,
-        "Controle de Pressão Arterial": 68.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.5,
-        "Acompanhamento Regular": 64.3,
-        "Vacinação em Dia": 67.9,
-        "Prevenção de Quedas": 63.2
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 23,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 23,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 20,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4266,27 +2460,13 @@
       "Ótimo": 15,
       "Bom": 29,
       "Suficiente": 8,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.7,
-        "Acompanhamento de Diabéticos": 71.8,
-        "Prescrição de Medicamentos": 63.3,
-        "Realização de Exames": 69.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.5,
-        "Acompanhamento de Hipertensos": 66.2,
-        "Prescrição de Medicamentos": 64.7,
-        "Controle de Pressão Arterial": 66.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.7,
-        "Acompanhamento Regular": 69.4,
-        "Vacinação em Dia": 69.0,
-        "Prevenção de Quedas": 64.7
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 19,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 19,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 15,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4299,27 +2479,13 @@
       "Ótimo": 15,
       "Bom": 32,
       "Suficiente": 8,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.4,
-        "Acompanhamento de Diabéticos": 69.7,
-        "Prescrição de Medicamentos": 64.0,
-        "Realização de Exames": 68.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.0,
-        "Acompanhamento de Hipertensos": 68.2,
-        "Prescrição de Medicamentos": 66.5,
-        "Controle de Pressão Arterial": 61.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.2,
-        "Acompanhamento Regular": 65.9,
-        "Vacinação em Dia": 65.1,
-        "Prevenção de Quedas": 59.3
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 21,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 21,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4332,27 +2498,13 @@
       "Ótimo": 13,
       "Bom": 21,
       "Suficiente": 1,
-      "Regular": 5
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.9,
-        "Acompanhamento de Diabéticos": 69.4,
-        "Prescrição de Medicamentos": 66.0,
-        "Realização de Exames": 65.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.7,
-        "Acompanhamento de Hipertensos": 74.9,
-        "Prescrição de Medicamentos": 72.7,
-        "Controle de Pressão Arterial": 65.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.5,
-        "Acompanhamento Regular": 63.8,
-        "Vacinação em Dia": 71.0,
-        "Prevenção de Quedas": 61.4
-      }
+      "Regular": 5,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4365,27 +2517,13 @@
       "Ótimo": 8,
       "Bom": 9,
       "Suficiente": 5,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 75.2,
-        "Acompanhamento de Diabéticos": 70.0,
-        "Prescrição de Medicamentos": 71.7,
-        "Realização de Exames": 67.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 70.6,
-        "Acompanhamento de Hipertensos": 75.3,
-        "Prescrição de Medicamentos": 70.6,
-        "Controle de Pressão Arterial": 62.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.7,
-        "Acompanhamento Regular": 71.9,
-        "Vacinação em Dia": 69.4,
-        "Prevenção de Quedas": 66.3
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4398,27 +2536,13 @@
       "Ótimo": 62,
       "Bom": 95,
       "Suficiente": 44,
-      "Regular": 5
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.9,
-        "Acompanhamento de Diabéticos": 67.2,
-        "Prescrição de Medicamentos": 64.8,
-        "Realização de Exames": 68.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.7,
-        "Acompanhamento de Hipertensos": 67.7,
-        "Prescrição de Medicamentos": 69.8,
-        "Controle de Pressão Arterial": 65.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.4,
-        "Acompanhamento Regular": 65.7,
-        "Vacinação em Dia": 65.5,
-        "Prevenção de Quedas": 59.8
-      }
+      "Regular": 5,
+      "Vínculo_eSF": 74,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 74,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 52,
+      "Qualidade_eMulti": 6
     }
   },
   {
@@ -4431,27 +2555,13 @@
       "Ótimo": 17,
       "Bom": 27,
       "Suficiente": 7,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.6,
-        "Acompanhamento de Diabéticos": 71.4,
-        "Prescrição de Medicamentos": 63.8,
-        "Realização de Exames": 61.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.8,
-        "Acompanhamento de Hipertensos": 67.5,
-        "Prescrição de Medicamentos": 68.5,
-        "Controle de Pressão Arterial": 63.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.5,
-        "Acompanhamento Regular": 68.6,
-        "Vacinação em Dia": 65.3,
-        "Prevenção de Quedas": 60.0
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 22,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 22,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -4464,27 +2574,13 @@
       "Ótimo": 36,
       "Bom": 78,
       "Suficiente": 17,
-      "Regular": 7
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.7,
-        "Acompanhamento de Diabéticos": 70.3,
-        "Prescrição de Medicamentos": 61.9,
-        "Realização de Exames": 64.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.9,
-        "Acompanhamento de Hipertensos": 68.7,
-        "Prescrição de Medicamentos": 67.9,
-        "Controle de Pressão Arterial": 69.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.6,
-        "Acompanhamento Regular": 72.4,
-        "Vacinação em Dia": 65.7,
-        "Prevenção de Quedas": 59.7
-      }
+      "Regular": 7,
+      "Vínculo_eSF": 52,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 52,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 27,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -4497,27 +2593,13 @@
       "Ótimo": 11,
       "Bom": 14,
       "Suficiente": 4,
-      "Regular": 3
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.5,
-        "Acompanhamento de Diabéticos": 73.9,
-        "Prescrição de Medicamentos": 67.9,
-        "Realização de Exames": 60.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.9,
-        "Acompanhamento de Hipertensos": 72.9,
-        "Prescrição de Medicamentos": 71.0,
-        "Controle de Pressão Arterial": 62.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.6,
-        "Acompanhamento Regular": 66.2,
-        "Vacinação em Dia": 70.3,
-        "Prevenção de Quedas": 67.0
-      }
+      "Regular": 3,
+      "Vínculo_eSF": 12,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 12,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4530,27 +2612,13 @@
       "Ótimo": 9,
       "Bom": 18,
       "Suficiente": 8,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.9,
-        "Acompanhamento de Diabéticos": 68.7,
-        "Prescrição de Medicamentos": 66.0,
-        "Realização de Exames": 60.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.9,
-        "Acompanhamento de Hipertensos": 70.2,
-        "Prescrição de Medicamentos": 63.9,
-        "Controle de Pressão Arterial": 68.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 64.9,
-        "Acompanhamento Regular": 63.2,
-        "Vacinação em Dia": 70.3,
-        "Prevenção de Quedas": 66.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 14,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 14,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4563,27 +2631,13 @@
       "Ótimo": 11,
       "Bom": 25,
       "Suficiente": 10,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.7,
-        "Acompanhamento de Diabéticos": 69.7,
-        "Prescrição de Medicamentos": 67.0,
-        "Realização de Exames": 67.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 69.4,
-        "Acompanhamento de Hipertensos": 74.1,
-        "Prescrição de Medicamentos": 67.2,
-        "Controle de Pressão Arterial": 67.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.6,
-        "Acompanhamento Regular": 68.3,
-        "Vacinação em Dia": 71.7,
-        "Prevenção de Quedas": 58.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4596,27 +2650,13 @@
       "Ótimo": 11,
       "Bom": 30,
       "Suficiente": 10,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 76.6,
-        "Acompanhamento de Diabéticos": 65.6,
-        "Prescrição de Medicamentos": 64.5,
-        "Realização de Exames": 66.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 69.9,
-        "Acompanhamento de Hipertensos": 65.7,
-        "Prescrição de Medicamentos": 71.5,
-        "Controle de Pressão Arterial": 66.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.7,
-        "Acompanhamento Regular": 69.6,
-        "Vacinação em Dia": 69.1,
-        "Prevenção de Quedas": 65.1
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 20,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 20,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4629,27 +2669,13 @@
       "Ótimo": 4,
       "Bom": 13,
       "Suficiente": 4,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 74.1,
-        "Acompanhamento de Diabéticos": 71.5,
-        "Prescrição de Medicamentos": 70.9,
-        "Realização de Exames": 64.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.6,
-        "Acompanhamento de Hipertensos": 74.1,
-        "Prescrição de Medicamentos": 66.3,
-        "Controle de Pressão Arterial": 65.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.4,
-        "Acompanhamento Regular": 62.7,
-        "Vacinação em Dia": 70.7,
-        "Prevenção de Quedas": 62.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 7,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 7,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -4662,27 +2688,13 @@
       "Ótimo": 5,
       "Bom": 9,
       "Suficiente": 3,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.6,
-        "Acompanhamento de Diabéticos": 70.9,
-        "Prescrição de Medicamentos": 61.6,
-        "Realização de Exames": 60.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.4,
-        "Acompanhamento de Hipertensos": 69.0,
-        "Prescrição de Medicamentos": 62.9,
-        "Controle de Pressão Arterial": 61.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 60.9,
-        "Acompanhamento Regular": 69.9,
-        "Vacinação em Dia": 69.2,
-        "Prevenção de Quedas": 63.3
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 6,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 6,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -4695,27 +2707,13 @@
       "Ótimo": 4,
       "Bom": 8,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.6,
-        "Acompanhamento de Diabéticos": 64.7,
-        "Prescrição de Medicamentos": 63.7,
-        "Realização de Exames": 61.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 77.0,
-        "Acompanhamento de Hipertensos": 73.6,
-        "Prescrição de Medicamentos": 65.8,
-        "Controle de Pressão Arterial": 69.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.8,
-        "Acompanhamento Regular": 68.3,
-        "Vacinação em Dia": 69.3,
-        "Prevenção de Quedas": 63.4
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -4728,27 +2726,13 @@
       "Ótimo": 15,
       "Bom": 39,
       "Suficiente": 14,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 69.1,
-        "Acompanhamento de Diabéticos": 65.9,
-        "Prescrição de Medicamentos": 61.1,
-        "Realização de Exames": 61.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.7,
-        "Acompanhamento de Hipertensos": 67.9,
-        "Prescrição de Medicamentos": 70.7,
-        "Controle de Pressão Arterial": 63.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.2,
-        "Acompanhamento Regular": 62.2,
-        "Vacinação em Dia": 69.4,
-        "Prevenção de Quedas": 61.2
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 25,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 25,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 17,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4761,27 +2745,13 @@
       "Ótimo": 14,
       "Bom": 38,
       "Suficiente": 7,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 66.1,
-        "Acompanhamento de Diabéticos": 73.2,
-        "Prescrição de Medicamentos": 65.5,
-        "Realização de Exames": 61.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 76.3,
-        "Acompanhamento de Hipertensos": 72.4,
-        "Prescrição de Medicamentos": 64.7,
-        "Controle de Pressão Arterial": 67.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.1,
-        "Acompanhamento Regular": 65.4,
-        "Vacinação em Dia": 64.4,
-        "Prevenção de Quedas": 65.6
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 24,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 24,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4794,27 +2764,13 @@
       "Ótimo": 21,
       "Bom": 39,
       "Suficiente": 17,
-      "Regular": 3
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.5,
-        "Acompanhamento de Diabéticos": 68.5,
-        "Prescrição de Medicamentos": 69.0,
-        "Realização de Exames": 61.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.1,
-        "Acompanhamento de Hipertensos": 69.4,
-        "Prescrição de Medicamentos": 69.9,
-        "Controle de Pressão Arterial": 66.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.0,
-        "Acompanhamento Regular": 66.7,
-        "Vacinação em Dia": 64.6,
-        "Prevenção de Quedas": 58.7
-      }
+      "Regular": 3,
+      "Vínculo_eSF": 24,
+      "Vínculo_eAP": 5,
+      "Qualidade_eSF": 24,
+      "Qualidade_eAP": 5,
+      "Qualidade_eSB": 20,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4827,27 +2783,13 @@
       "Ótimo": 16,
       "Bom": 47,
       "Suficiente": 10,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.7,
-        "Acompanhamento de Diabéticos": 71.4,
-        "Prescrição de Medicamentos": 61.5,
-        "Realização de Exames": 65.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.2,
-        "Acompanhamento de Hipertensos": 70.3,
-        "Prescrição de Medicamentos": 63.8,
-        "Controle de Pressão Arterial": 63.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.2,
-        "Acompanhamento Regular": 69.8,
-        "Vacinação em Dia": 71.9,
-        "Prevenção de Quedas": 58.2
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 26,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 26,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 21,
+      "Qualidade_eMulti": 4
     }
   },
   {
@@ -4860,27 +2802,13 @@
       "Ótimo": 7,
       "Bom": 16,
       "Suficiente": 6,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 65.6,
-        "Acompanhamento de Diabéticos": 67.5,
-        "Prescrição de Medicamentos": 66.1,
-        "Realização de Exames": 67.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.2,
-        "Acompanhamento de Hipertensos": 73.0,
-        "Prescrição de Medicamentos": 69.4,
-        "Controle de Pressão Arterial": 62.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.4,
-        "Acompanhamento Regular": 69.1,
-        "Vacinação em Dia": 66.4,
-        "Prevenção de Quedas": 57.7
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 10,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 10,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -4893,27 +2821,13 @@
       "Ótimo": 6,
       "Bom": 17,
       "Suficiente": 7,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 68.3,
-        "Acompanhamento de Diabéticos": 63.7,
-        "Prescrição de Medicamentos": 67.9,
-        "Realização de Exames": 66.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 66.8,
-        "Acompanhamento de Hipertensos": 69.2,
-        "Prescrição de Medicamentos": 64.6,
-        "Controle de Pressão Arterial": 67.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 65.8,
-        "Acompanhamento Regular": 68.8,
-        "Vacinação em Dia": 64.4,
-        "Prevenção de Quedas": 65.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4926,27 +2840,13 @@
       "Ótimo": 7,
       "Bom": 12,
       "Suficiente": 8,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.4,
-        "Acompanhamento de Diabéticos": 63.7,
-        "Prescrição de Medicamentos": 64.7,
-        "Realização de Exames": 66.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.7,
-        "Acompanhamento de Hipertensos": 71.4,
-        "Prescrição de Medicamentos": 70.5,
-        "Controle de Pressão Arterial": 60.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 65.3,
-        "Acompanhamento Regular": 62.7,
-        "Vacinação em Dia": 70.2,
-        "Prevenção de Quedas": 60.8
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 9,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 9,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 9,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -4959,27 +2859,13 @@
       "Ótimo": 14,
       "Bom": 25,
       "Suficiente": 6,
-      "Regular": 5
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.5,
-        "Acompanhamento de Diabéticos": 64.5,
-        "Prescrição de Medicamentos": 63.1,
-        "Realização de Exames": 63.8
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.9,
-        "Acompanhamento de Hipertensos": 69.0,
-        "Prescrição de Medicamentos": 66.8,
-        "Controle de Pressão Arterial": 63.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.9,
-        "Acompanhamento Regular": 69.7,
-        "Vacinação em Dia": 66.8,
-        "Prevenção de Quedas": 60.4
-      }
+      "Regular": 5,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -4992,27 +2878,13 @@
       "Ótimo": 8,
       "Bom": 29,
       "Suficiente": 8,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 65.6,
-        "Acompanhamento de Diabéticos": 64.0,
-        "Prescrição de Medicamentos": 64.8,
-        "Realização de Exames": 59.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.7,
-        "Acompanhamento de Hipertensos": 64.2,
-        "Prescrição de Medicamentos": 61.8,
-        "Controle de Pressão Arterial": 67.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 60.2,
-        "Acompanhamento Regular": 69.2,
-        "Vacinação em Dia": 64.5,
-        "Prevenção de Quedas": 63.6
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 15,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5025,27 +2897,13 @@
       "Ótimo": 8,
       "Bom": 30,
       "Suficiente": 6,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 68.0,
-        "Acompanhamento de Diabéticos": 63.7,
-        "Prescrição de Medicamentos": 68.6,
-        "Realização de Exames": 61.7
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.4,
-        "Acompanhamento de Hipertensos": 65.5,
-        "Prescrição de Medicamentos": 65.4,
-        "Controle de Pressão Arterial": 62.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 59.7,
-        "Acompanhamento Regular": 68.9,
-        "Vacinação em Dia": 69.9,
-        "Prevenção de Quedas": 59.7
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 14,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -5058,27 +2916,13 @@
       "Ótimo": 5,
       "Bom": 11,
       "Suficiente": 6,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.1,
-        "Acompanhamento de Diabéticos": 72.3,
-        "Prescrição de Medicamentos": 63.3,
-        "Realização de Exames": 58.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 75.0,
-        "Acompanhamento de Hipertensos": 67.1,
-        "Prescrição de Medicamentos": 68.5,
-        "Controle de Pressão Arterial": 68.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.0,
-        "Acompanhamento Regular": 68.1,
-        "Vacinação em Dia": 63.3,
-        "Prevenção de Quedas": 64.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 6,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -5091,27 +2935,13 @@
       "Ótimo": 14,
       "Bom": 34,
       "Suficiente": 13,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.4,
-        "Acompanhamento de Diabéticos": 64.1,
-        "Prescrição de Medicamentos": 63.6,
-        "Realização de Exames": 65.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 71.7,
-        "Acompanhamento de Hipertensos": 68.6,
-        "Prescrição de Medicamentos": 67.8,
-        "Controle de Pressão Arterial": 63.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.6,
-        "Acompanhamento Regular": 67.6,
-        "Vacinação em Dia": 66.6,
-        "Prevenção de Quedas": 66.0
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 22,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 22,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 18,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5124,27 +2954,13 @@
       "Ótimo": 14,
       "Bom": 17,
       "Suficiente": 11,
-      "Regular": 3
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.3,
-        "Acompanhamento de Diabéticos": 62.8,
-        "Prescrição de Medicamentos": 65.9,
-        "Realização de Exames": 58.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 71.8,
-        "Acompanhamento de Hipertensos": 65.0,
-        "Prescrição de Medicamentos": 60.6,
-        "Controle de Pressão Arterial": 66.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 64.5,
-        "Acompanhamento Regular": 64.6,
-        "Vacinação em Dia": 66.0,
-        "Prevenção de Quedas": 56.5
-      }
+      "Regular": 3,
+      "Vínculo_eSF": 16,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 16,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5157,27 +2973,13 @@
       "Ótimo": 11,
       "Bom": 20,
       "Suficiente": 6,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.7,
-        "Acompanhamento de Diabéticos": 64.7,
-        "Prescrição de Medicamentos": 67.6,
-        "Realização de Exames": 60.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 71.3,
-        "Acompanhamento de Hipertensos": 66.1,
-        "Prescrição de Medicamentos": 64.7,
-        "Controle de Pressão Arterial": 67.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 58.7,
-        "Acompanhamento Regular": 69.4,
-        "Vacinação em Dia": 63.1,
-        "Prevenção de Quedas": 59.2
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5190,27 +2992,13 @@
       "Ótimo": 3,
       "Bom": 8,
       "Suficiente": 0,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 65.9,
-        "Acompanhamento de Diabéticos": 67.9,
-        "Prescrição de Medicamentos": 61.4,
-        "Realização de Exames": 57.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.6,
-        "Acompanhamento de Hipertensos": 64.8,
-        "Prescrição de Medicamentos": 64.5,
-        "Controle de Pressão Arterial": 65.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 65.9,
-        "Acompanhamento Regular": 64.7,
-        "Vacinação em Dia": 62.0,
-        "Prevenção de Quedas": 62.3
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5223,27 +3011,13 @@
       "Ótimo": 6,
       "Bom": 11,
       "Suficiente": 8,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 73.2,
-        "Acompanhamento de Diabéticos": 67.2,
-        "Prescrição de Medicamentos": 65.2,
-        "Realização de Exames": 59.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 66.7,
-        "Acompanhamento de Hipertensos": 72.8,
-        "Prescrição de Medicamentos": 64.6,
-        "Controle de Pressão Arterial": 59.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 68.0,
-        "Acompanhamento Regular": 64.3,
-        "Vacinação em Dia": 68.1,
-        "Prevenção de Quedas": 58.3
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5256,27 +3030,13 @@
       "Ótimo": 16,
       "Bom": 43,
       "Suficiente": 19,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 66.6,
-        "Acompanhamento de Diabéticos": 67.7,
-        "Prescrição de Medicamentos": 63.8,
-        "Realização de Exames": 59.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 67.8,
-        "Acompanhamento de Hipertensos": 71.2,
-        "Prescrição de Medicamentos": 69.5,
-        "Controle de Pressão Arterial": 59.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.9,
-        "Acompanhamento Regular": 65.0,
-        "Vacinação em Dia": 65.7,
-        "Prevenção de Quedas": 56.3
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 28,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 28,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 23,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5289,27 +3049,13 @@
       "Ótimo": 6,
       "Bom": 9,
       "Suficiente": 6,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 72.1,
-        "Acompanhamento de Diabéticos": 68.4,
-        "Prescrição de Medicamentos": 68.8,
-        "Realização de Exames": 65.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 73.6,
-        "Acompanhamento de Hipertensos": 64.2,
-        "Prescrição de Medicamentos": 66.1,
-        "Controle de Pressão Arterial": 63.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.7,
-        "Acompanhamento Regular": 67.4,
-        "Vacinação em Dia": 65.0,
-        "Prevenção de Quedas": 64.1
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5322,27 +3068,13 @@
       "Ótimo": 5,
       "Bom": 26,
       "Suficiente": 9,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 71.0,
-        "Acompanhamento de Diabéticos": 67.7,
-        "Prescrição de Medicamentos": 63.3,
-        "Realização de Exames": 62.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 67.4,
-        "Acompanhamento de Hipertensos": 66.0,
-        "Prescrição de Medicamentos": 61.4,
-        "Controle de Pressão Arterial": 66.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 58.6,
-        "Acompanhamento Regular": 69.7,
-        "Vacinação em Dia": 63.6,
-        "Prevenção de Quedas": 57.7
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5355,27 +3087,13 @@
       "Ótimo": 3,
       "Bom": 4,
       "Suficiente": 2,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 70.6,
-        "Acompanhamento de Diabéticos": 63.4,
-        "Prescrição de Medicamentos": 62.4,
-        "Realização de Exames": 64.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.0,
-        "Acompanhamento de Hipertensos": 68.2,
-        "Prescrição de Medicamentos": 67.2,
-        "Controle de Pressão Arterial": 66.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.8,
-        "Acompanhamento Regular": 65.7,
-        "Vacinação em Dia": 65.5,
-        "Prevenção de Quedas": 63.8
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 3,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 3,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 3,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5388,27 +3106,13 @@
       "Ótimo": 8,
       "Bom": 19,
       "Suficiente": 8,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 69.7,
-        "Acompanhamento de Diabéticos": 69.7,
-        "Prescrição de Medicamentos": 59.5,
-        "Realização de Exames": 61.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 74.0,
-        "Acompanhamento de Hipertensos": 65.8,
-        "Prescrição de Medicamentos": 62.1,
-        "Controle de Pressão Arterial": 66.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 60.7,
-        "Acompanhamento Regular": 62.6,
-        "Vacinação em Dia": 68.7,
-        "Prevenção de Quedas": 62.1
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 14,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 14,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 7,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -5421,27 +3125,13 @@
       "Ótimo": 17,
       "Bom": 39,
       "Suficiente": 12,
-      "Regular": 7
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.5,
-        "Acompanhamento de Diabéticos": 69.1,
-        "Prescrição de Medicamentos": 65.6,
-        "Realização de Exames": 63.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 70.1,
-        "Acompanhamento de Hipertensos": 68.9,
-        "Prescrição de Medicamentos": 67.7,
-        "Controle de Pressão Arterial": 59.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 67.2,
-        "Acompanhamento Regular": 64.2,
-        "Vacinação em Dia": 69.4,
-        "Prevenção de Quedas": 63.0
-      }
+      "Regular": 7,
+      "Vínculo_eSF": 25,
+      "Vínculo_eAP": 2,
+      "Qualidade_eSF": 25,
+      "Qualidade_eAP": 2,
+      "Qualidade_eSB": 19,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -5454,27 +3144,13 @@
       "Ótimo": 3,
       "Bom": 8,
       "Suficiente": 5,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 66.0,
-        "Acompanhamento de Diabéticos": 65.4,
-        "Prescrição de Medicamentos": 61.5,
-        "Realização de Exames": 57.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 67.5,
-        "Acompanhamento de Hipertensos": 66.0,
-        "Prescrição de Medicamentos": 59.9,
-        "Controle de Pressão Arterial": 63.3
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.2,
-        "Acompanhamento Regular": 64.7,
-        "Vacinação em Dia": 66.1,
-        "Prevenção de Quedas": 56.4
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 5,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 5,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 5,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5487,27 +3163,13 @@
       "Ótimo": 8,
       "Bom": 40,
       "Suficiente": 17,
-      "Regular": 0
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.7,
-        "Acompanhamento de Diabéticos": 63.2,
-        "Prescrição de Medicamentos": 65.9,
-        "Realização de Exames": 62.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 66.1,
-        "Acompanhamento de Hipertensos": 62.5,
-        "Prescrição de Medicamentos": 67.1,
-        "Controle de Pressão Arterial": 65.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 60.4,
-        "Acompanhamento Regular": 68.8,
-        "Vacinação em Dia": 61.3,
-        "Prevenção de Quedas": 62.5
-      }
+      "Regular": 0,
+      "Vínculo_eSF": 23,
+      "Vínculo_eAP": 4,
+      "Qualidade_eSF": 23,
+      "Qualidade_eAP": 4,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -5520,27 +3182,13 @@
       "Ótimo": 6,
       "Bom": 24,
       "Suficiente": 8,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 69.7,
-        "Acompanhamento de Diabéticos": 66.2,
-        "Prescrição de Medicamentos": 61.7,
-        "Realização de Exames": 59.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.9,
-        "Acompanhamento de Hipertensos": 63.5,
-        "Prescrição de Medicamentos": 64.6,
-        "Controle de Pressão Arterial": 66.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 66.7,
-        "Acompanhamento Regular": 64.6,
-        "Vacinação em Dia": 62.5,
-        "Prevenção de Quedas": 62.6
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5553,27 +3201,13 @@
       "Ótimo": 8,
       "Bom": 20,
       "Suficiente": 10,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 69.4,
-        "Acompanhamento de Diabéticos": 69.3,
-        "Prescrição de Medicamentos": 59.9,
-        "Realização de Exames": 58.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 72.0,
-        "Acompanhamento de Hipertensos": 63.0,
-        "Prescrição de Medicamentos": 60.2,
-        "Controle de Pressão Arterial": 57.8
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.7,
-        "Acompanhamento Regular": 65.7,
-        "Vacinação em Dia": 62.3,
-        "Prevenção de Quedas": 64.1
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 13,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5586,27 +3220,13 @@
       "Ótimo": 5,
       "Bom": 22,
       "Suficiente": 11,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 68.5,
-        "Acompanhamento de Diabéticos": 62.7,
-        "Prescrição de Medicamentos": 63.1,
-        "Realização de Exames": 62.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 67.8,
-        "Acompanhamento de Hipertensos": 64.8,
-        "Prescrição de Medicamentos": 59.2,
-        "Controle de Pressão Arterial": 55.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 56.2,
-        "Acompanhamento Regular": 65.1,
-        "Vacinação em Dia": 59.6,
-        "Prevenção de Quedas": 61.2
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5619,27 +3239,13 @@
       "Ótimo": 14,
       "Bom": 58,
       "Suficiente": 14,
-      "Regular": 10
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 61.5,
-        "Acompanhamento de Diabéticos": 59.7,
-        "Prescrição de Medicamentos": 65.6,
-        "Realização de Exames": 58.9
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 69.1,
-        "Acompanhamento de Hipertensos": 63.4,
-        "Prescrição de Medicamentos": 62.9,
-        "Controle de Pressão Arterial": 64.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 57.7,
-        "Acompanhamento Regular": 60.8,
-        "Vacinação em Dia": 65.3,
-        "Prevenção de Quedas": 61.3
-      }
+      "Regular": 10,
+      "Vínculo_eSF": 35,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 35,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 26,
+      "Qualidade_eMulti": 0
     }
   },
   {
@@ -5652,27 +3258,13 @@
       "Ótimo": 9,
       "Bom": 25,
       "Suficiente": 19,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 64.4,
-        "Acompanhamento de Diabéticos": 65.3,
-        "Prescrição de Medicamentos": 62.3,
-        "Realização de Exames": 56.3
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 62.8,
-        "Acompanhamento de Hipertensos": 67.5,
-        "Prescrição de Medicamentos": 62.8,
-        "Controle de Pressão Arterial": 60.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 60.1,
-        "Acompanhamento Regular": 58.8,
-        "Vacinação em Dia": 62.0,
-        "Prevenção de Quedas": 58.1
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 16,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -5685,27 +3277,13 @@
       "Ótimo": 3,
       "Bom": 26,
       "Suficiente": 8,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 61.6,
-        "Acompanhamento de Diabéticos": 67.8,
-        "Prescrição de Medicamentos": 61.6,
-        "Realização de Exames": 62.4
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 66.3,
-        "Acompanhamento de Hipertensos": 68.0,
-        "Prescrição de Medicamentos": 59.7,
-        "Controle de Pressão Arterial": 62.5
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.8,
-        "Acompanhamento Regular": 63.5,
-        "Vacinação em Dia": 67.3,
-        "Prevenção de Quedas": 61.4
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 12,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5718,27 +3296,13 @@
       "Ótimo": 22,
       "Bom": 53,
       "Suficiente": 30,
-      "Regular": 10
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 68.5,
-        "Acompanhamento de Diabéticos": 61.6,
-        "Prescrição de Medicamentos": 58.4,
-        "Realização de Exames": 62.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 67.6,
-        "Acompanhamento de Hipertensos": 65.3,
-        "Prescrição de Medicamentos": 59.6,
-        "Controle de Pressão Arterial": 62.1
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 63.2,
-        "Acompanhamento Regular": 63.7,
-        "Vacinação em Dia": 62.4,
-        "Prevenção de Quedas": 57.7
-      }
+      "Regular": 10,
+      "Vínculo_eSF": 42,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 42,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 28,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -5751,27 +3315,13 @@
       "Ótimo": 4,
       "Bom": 28,
       "Suficiente": 8,
-      "Regular": 4
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.7,
-        "Acompanhamento de Diabéticos": 64.0,
-        "Prescrição de Medicamentos": 56.4,
-        "Realização de Exames": 60.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 62.1,
-        "Acompanhamento de Hipertensos": 64.7,
-        "Prescrição de Medicamentos": 64.8,
-        "Controle de Pressão Arterial": 61.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 55.6,
-        "Acompanhamento Regular": 59.5,
-        "Vacinação em Dia": 61.9,
-        "Prevenção de Quedas": 53.1
-      }
+      "Regular": 4,
+      "Vínculo_eSF": 15,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 15,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 11,
+      "Qualidade_eMulti": 3
     }
   },
   {
@@ -5784,27 +3334,13 @@
       "Ótimo": 8,
       "Bom": 28,
       "Suficiente": 12,
-      "Regular": 6
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.3,
-        "Acompanhamento de Diabéticos": 63.5,
-        "Prescrição de Medicamentos": 55.4,
-        "Realização de Exames": 56.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 64.1,
-        "Acompanhamento de Hipertensos": 61.4,
-        "Prescrição de Medicamentos": 61.0,
-        "Controle de Pressão Arterial": 57.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 54.7,
-        "Acompanhamento Regular": 57.9,
-        "Vacinação em Dia": 63.2,
-        "Prevenção de Quedas": 53.2
-      }
+      "Regular": 6,
+      "Vínculo_eSF": 18,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 18,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 16,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -5817,27 +3353,13 @@
       "Ótimo": 2,
       "Bom": 6,
       "Suficiente": 4,
-      "Regular": 1
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 68.5,
-        "Acompanhamento de Diabéticos": 62.1,
-        "Prescrição de Medicamentos": 63.8,
-        "Realização de Exames": 61.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 66.0,
-        "Acompanhamento de Hipertensos": 62.4,
-        "Prescrição de Medicamentos": 59.9,
-        "Controle de Pressão Arterial": 56.6
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 53.8,
-        "Acompanhamento Regular": 61.8,
-        "Vacinação em Dia": 62.7,
-        "Prevenção de Quedas": 51.8
-      }
+      "Regular": 1,
+      "Vínculo_eSF": 4,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 4,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5850,27 +3372,13 @@
       "Ótimo": 140,
       "Bom": 768,
       "Suficiente": 388,
-      "Regular": 109
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 66.0,
-        "Acompanhamento de Diabéticos": 59.2,
-        "Prescrição de Medicamentos": 56.5,
-        "Realização de Exames": 57.5
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 62.0,
-        "Acompanhamento de Hipertensos": 63.6,
-        "Prescrição de Medicamentos": 59.0,
-        "Controle de Pressão Arterial": 55.9
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 59.8,
-        "Acompanhamento Regular": 63.4,
-        "Vacinação em Dia": 57.0,
-        "Prevenção de Quedas": 50.8
-      }
+      "Regular": 109,
+      "Vínculo_eSF": 531,
+      "Vínculo_eAP": 15,
+      "Qualidade_eSF": 531,
+      "Qualidade_eAP": 15,
+      "Qualidade_eSB": 297,
+      "Qualidade_eMulti": 16
     }
   },
   {
@@ -5883,27 +3391,13 @@
       "Ótimo": 3,
       "Bom": 10,
       "Suficiente": 6,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.9,
-        "Acompanhamento de Diabéticos": 62.5,
-        "Prescrição de Medicamentos": 60.7,
-        "Realização de Exames": 61.0
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 68.8,
-        "Acompanhamento de Hipertensos": 60.4,
-        "Prescrição de Medicamentos": 55.6,
-        "Controle de Pressão Arterial": 52.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.5,
-        "Acompanhamento Regular": 56.3,
-        "Vacinação em Dia": 57.2,
-        "Prevenção de Quedas": 54.4
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 8,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 8,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 4,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -5916,27 +3410,13 @@
       "Ótimo": 18,
       "Bom": 48,
       "Suficiente": 21,
-      "Regular": 16
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 61.6,
-        "Acompanhamento de Diabéticos": 57.8,
-        "Prescrição de Medicamentos": 60.8,
-        "Realização de Exames": 53.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 67.3,
-        "Acompanhamento de Hipertensos": 63.6,
-        "Prescrição de Medicamentos": 63.1,
-        "Controle de Pressão Arterial": 56.0
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 54.6,
-        "Acompanhamento Regular": 64.5,
-        "Vacinação em Dia": 57.2,
-        "Prevenção de Quedas": 54.2
-      }
+      "Regular": 16,
+      "Vínculo_eSF": 33,
+      "Vínculo_eAP": 6,
+      "Qualidade_eSF": 33,
+      "Qualidade_eAP": 6,
+      "Qualidade_eSB": 21,
+      "Qualidade_eMulti": 4
     }
   },
   {
@@ -5949,27 +3429,13 @@
       "Ótimo": 23,
       "Bom": 127,
       "Suficiente": 42,
-      "Regular": 28
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 67.0,
-        "Acompanhamento de Diabéticos": 62.2,
-        "Prescrição de Medicamentos": 59.8,
-        "Realização de Exames": 55.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 66.2,
-        "Acompanhamento de Hipertensos": 64.0,
-        "Prescrição de Medicamentos": 58.7,
-        "Controle de Pressão Arterial": 57.7
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 62.7,
-        "Acompanhamento Regular": 58.1,
-        "Vacinação em Dia": 63.8,
-        "Prevenção de Quedas": 57.7
-      }
+      "Regular": 28,
+      "Vínculo_eSF": 86,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 86,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 42,
+      "Qualidade_eMulti": 6
     }
   },
   {
@@ -5982,27 +3448,13 @@
       "Ótimo": 10,
       "Bom": 39,
       "Suficiente": 22,
-      "Regular": 8
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 66.4,
-        "Acompanhamento de Diabéticos": 60.6,
-        "Prescrição de Medicamentos": 58.1,
-        "Realização de Exames": 54.1
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 62.6,
-        "Acompanhamento de Hipertensos": 57.8,
-        "Prescrição de Medicamentos": 60.4,
-        "Controle de Pressão Arterial": 60.2
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 61.3,
-        "Acompanhamento Regular": 60.1,
-        "Vacinação em Dia": 61.6,
-        "Prevenção de Quedas": 58.2
-      }
+      "Regular": 8,
+      "Vínculo_eSF": 29,
+      "Vínculo_eAP": 1,
+      "Qualidade_eSF": 29,
+      "Qualidade_eAP": 1,
+      "Qualidade_eSB": 17,
+      "Qualidade_eMulti": 2
     }
   },
   {
@@ -6015,27 +3467,13 @@
       "Ótimo": 5,
       "Bom": 12,
       "Suficiente": 12,
-      "Regular": 2
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 58.3,
-        "Acompanhamento de Diabéticos": 64.2,
-        "Prescrição de Medicamentos": 54.8,
-        "Realização de Exames": 51.2
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 62.6,
-        "Acompanhamento de Hipertensos": 60.2,
-        "Prescrição de Medicamentos": 62.9,
-        "Controle de Pressão Arterial": 52.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 54.4,
-        "Acompanhamento Regular": 61.1,
-        "Vacinação em Dia": 58.0,
-        "Prevenção de Quedas": 53.2
-      }
+      "Regular": 2,
+      "Vínculo_eSF": 10,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 10,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 10,
+      "Qualidade_eMulti": 1
     }
   },
   {
@@ -6048,27 +3486,13 @@
       "Ótimo": 3,
       "Bom": 19,
       "Suficiente": 9,
-      "Regular": 5
-    },
-    "Indicadores": {
-      "Diabetes": {
-        "Rastreamento de Diabetes": 59.2,
-        "Acompanhamento de Diabéticos": 62.8,
-        "Prescrição de Medicamentos": 54.2,
-        "Realização de Exames": 58.6
-      },
-      "Hipertensão": {
-        "Rastreamento de Hipertensão": 60.4,
-        "Acompanhamento de Hipertensos": 63.3,
-        "Prescrição de Medicamentos": 60.3,
-        "Controle de Pressão Arterial": 58.4
-      },
-      "Pessoa Idosa": {
-        "Avaliação Geriátrica": 50.6,
-        "Acompanhamento Regular": 56.3,
-        "Vacinação em Dia": 54.8,
-        "Prevenção de Quedas": 50.7
-      }
+      "Regular": 5,
+      "Vínculo_eSF": 13,
+      "Vínculo_eAP": 0,
+      "Qualidade_eSF": 13,
+      "Qualidade_eAP": 0,
+      "Qualidade_eSB": 8,
+      "Qualidade_eMulti": 2
     }
   }
 ]
